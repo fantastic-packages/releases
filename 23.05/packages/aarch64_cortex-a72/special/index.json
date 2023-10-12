@@ -1,0 +1,1 @@
+{"architecture": "aarch64_cortex-a72", "packages":{"einat-ebpf": "0.1.8-1", "luci-app-einat": "git-25.087.04343-82838e7", "luci-i18n-einat-zh-cn": "git-25.087.04343-82838e7", "luci-i18n-einat-zh-tw": "git-25.087.04343-82838e7"}}
