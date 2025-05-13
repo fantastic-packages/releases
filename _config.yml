@@ -17,7 +17,8 @@ kramdown:
 defaults:
   -
     scope:
-      path: "releases"
+      path: ""
+      type: "pages"
     values:
       layout: "files"
 
