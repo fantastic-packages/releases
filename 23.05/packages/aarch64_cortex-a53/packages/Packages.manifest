@@ -300,13 +300,13 @@ License: GPL-2.0
 LicenseFiles: LICENSE
 Section: net
 Require-User: mihomo=7890:mihomo=7890
-SourceDateEpoch: 1747152147
+SourceDateEpoch: 1747621461
 Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: aarch64_cortex-a53
-Installed-Size: 11957797
+Installed-Size: 11957794
 Filename: mihomo_1.19.8-1_aarch64_cortex-a53.ipk
-Size: 11916107
-SHA256sum: 137dad3e937a6e3793393b204ad3e5bcfd8ca2e7e9734823c98d23b8c7716daf
+Size: 11916166
+SHA256sum: dc25889f98e7907a91f2d3a6a94413831971b8cd32796f9c73a9e5370eb63ebe
 Description:  Another Mihomo Kernel.
 
 Package: natmapt-client-script-deluge

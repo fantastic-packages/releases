@@ -244,8 +244,8 @@ URL: https://wiki.metacubex.one
 Architecture: arm_cortex-a9_vfpv3-d16
 Installed-Size: 28549120
 Filename: mihomo_1.19.8-r1_arm_cortex-a9_vfpv3-d16.ipk
-Size: 10770050
-SHA256sum: d09315b40ca642ce457b9771e59efc9adff380e5fd9595d1479ce0db60bbb638
+Size: 10770380
+SHA256sum: 5197a5ae126e95f760ac1cc7c590799829b1ac0455a98056df5e77310fe9c769
 Description:  Another Mihomo Kernel.
 
 Package: natmapt-client-script-deluge

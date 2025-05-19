@@ -224,10 +224,10 @@ Depends: libc
 License: GPL-2.0
 Section: net
 Architecture: aarch64_generic
-Installed-Size: 11957995
+Installed-Size: 11957993
 Filename: mihomo_1.19.8-1_aarch64_generic.ipk
-Size: 11916151
-SHA256sum: 5f016b50de711e8d730fe8f06e886a8fcec8130357ae72341098f3a055d7580a
+Size: 11916028
+SHA256sum: 015bad3cd66e7f80c9b915579903148b59ac0dbbfde074437085227507d75bdd
 Description:  Another Mihomo Kernel.
 
 Package: natmapt-client-script-deluge

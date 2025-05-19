@@ -317,14 +317,14 @@ License: GPL-2.0
 LicenseFiles: LICENSE
 Section: net
 Require-User: mihomo=7890:mihomo=7890
-SourceDateEpoch: 1747152147
+SourceDateEpoch: 1747621461
 URL: https://wiki.metacubex.one
 Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: arm_cortex-a15_neon-vfpv4
 Installed-Size: 28549120
 Filename: mihomo_1.19.8-r1_arm_cortex-a15_neon-vfpv4.ipk
-Size: 10769701
-SHA256sum: 24196b116558311ea1c67e3d71a4afa0667b1e32cb99e141c8e34e75bc197ec5
+Size: 10769686
+SHA256sum: ceb952be645cb1649c1b42af6a121033a29ba5aa17e3477b7a73c625ac5839ae
 Description:  Another Mihomo Kernel.
 
 Package: natmapt-client-script-deluge
