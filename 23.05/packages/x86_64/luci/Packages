@@ -94,15 +94,15 @@ SHA256sum: 0d543f42f96f08b1ac2628d2dbae2aca2862127705ef46ef70190e3736f12ac8
 Description:  Information about connected disk devices (partitions, filesystems, SMART).
 
 Package: luci-app-dnsproxy
-Version: git-25.139.07693-9a2f018
+Version: git-25.141.04986-4a28f4e
 Depends: libc, dnsproxy
 License: Apache-2.0
 Section: luci
 Architecture: all
-Installed-Size: 2441
-Filename: luci-app-dnsproxy_git-25.139.07693-9a2f018_all.ipk
-Size: 3303
-SHA256sum: 4bbb26e7ceb806800cf7c715a7d0553f4bccfe664988768a3c687fab42622bc3
+Installed-Size: 2453
+Filename: luci-app-dnsproxy_git-25.141.04986-4a28f4e_all.ipk
+Size: 3314
+SHA256sum: 2932365d05373dceade1b500a3844d736ab81cf9473e719e15b98de2ad5cc460
 Description:  Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
 
 Package: luci-app-fchomo

@@ -134,20 +134,20 @@ SHA256sum: 36d7559025aecaf7646b1c28bfa8ee357106dab1f95ed8884705c6f05fecc1ba
 Description:  Information about connected disk devices (partitions, filesystems, SMART).
 
 Package: luci-app-dnsproxy
-Version: 25.139.07693~9a2f018
+Version: 25.141.04986~4a28f4e
 Depends: libc, dnsproxy
 Source: /feed/luci/luci-app-dnsproxy
 SourceName: luci-app-dnsproxy
 License: Apache-2.0
 Section: luci
-SourceDateEpoch: 1747620493
+SourceDateEpoch: 1747790586
 URL: https://github.com/openwrt/luci
 Maintainer: OpenWrt LuCI community
 Architecture: all
 Installed-Size: 20480
-Filename: luci-app-dnsproxy_25.139.07693~9a2f018_all.ipk
-Size: 3325
-SHA256sum: 3c90c75555290cc7dfe659061ee37e4674e823a573fa07909a9b495ae16bd3a5
+Filename: luci-app-dnsproxy_25.141.04986~4a28f4e_all.ipk
+Size: 3336
+SHA256sum: bafe1539efdad77c2d2beed4a01d651c963f3f2a69e896856250b850b77e1c7d
 Description:  Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
 
 Package: luci-app-fchomo
