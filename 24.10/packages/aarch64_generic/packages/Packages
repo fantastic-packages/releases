@@ -257,8 +257,8 @@ Section: net
 Architecture: all
 Installed-Size: 10240
 Filename: natmapt-client-script-deluge_0.2025.2.19_all.ipk
-Size: 1617
-SHA256sum: 3e7f6262be182bf9f9c185eeff53da6485f0b34018a69b4d794c85613c6c3112
+Size: 1625
+SHA256sum: 5dc6d08bf8c50fffbd8424fed1f830a85aba7020b1c845f64ad443809680abcb
 Description:  NATMap client scripts (Deluge)
 
 Package: natmapt-client-script-transmission
@@ -270,8 +270,8 @@ Section: net
 Architecture: all
 Installed-Size: 10240
 Filename: natmapt-client-script-transmission_0.2025.2.19_all.ipk
-Size: 1432
-SHA256sum: 1036e40696fde67c0f21b0b228e906d384395a42419171377c36a4e496bb1eac
+Size: 1433
+SHA256sum: ec54252b0a7be2305d45dae50e12de1816c443b625ecb4687fd7005133ae680b
 Description:  NATMap client scripts (Transmission)
 
 Package: natmapt-notify-script-pushbullet
@@ -284,7 +284,7 @@ Architecture: all
 Installed-Size: 10240
 Filename: natmapt-notify-script-pushbullet_0.2025.2.19_all.ipk
 Size: 1427
-SHA256sum: 2c73d994c66d7ab45f67fe23b8a53a14c5054b00f2d1b10b793b69b6c33b8a66
+SHA256sum: bc869bc2ec659330f4a4a93b30dd98e1c3a876b9e82a25ef49ecfe2907033fa8
 Description:  NATMap notify scripts (Pushbullet)
 
 Package: natmapt-notify-script-pushover
@@ -296,8 +296,8 @@ Section: net
 Architecture: all
 Installed-Size: 10240
 Filename: natmapt-notify-script-pushover_0.2025.2.19_all.ipk
-Size: 1444
-SHA256sum: 9e689e2f97505e49b3465cd44097baea746610c864cb9e88fdaabc41c360ceca
+Size: 1445
+SHA256sum: 154ecad439b4612e02540daf7c17e0a61ff7d6635aaaf3ff4d5dd57542fe88a5
 Description:  NATMap notify scripts (Pushover)
 
 Package: natmapt-notify-script-telegram
@@ -310,20 +310,20 @@ Architecture: all
 Installed-Size: 10240
 Filename: natmapt-notify-script-telegram_0.2025.2.19_all.ipk
 Size: 1439
-SHA256sum: 6ab8c310936c7304d169e0573aec0590001ec1ca2756d0d2fd6e328ba9893f2b
+SHA256sum: e996cba0ddb7a2ab106917b18ae75edc1e2e39bd00cb7abd792148effd88dcac
 Description:  NATMap notify scripts (Telegram)
 
 Package: natmapt
-Version: 20250512-r1
+Version: 20250512-r3
 Depends: libc, curl, jsonfilter, bash
 License: MIT
 Section: net
 URL: https://github.com/heiher/natmap
 Architecture: aarch64_generic
 Installed-Size: 112640
-Filename: natmapt_20250512-r1_aarch64_generic.ipk
-Size: 30182
-SHA256sum: 706c8939b04fff3aa4ba1ae85b5dce81d7d80f5fcfd00ef8959dad1cb67bfc37
+Filename: natmapt_20250512-r3_aarch64_generic.ipk
+Size: 30188
+SHA256sum: b549c177035c70079ae33bc80de3084f2ed8dd5e47f63c6292695781534bcc0c
 Description:  TCP/UDP port mapping tool for full cone NAT
 
 Package: netdata-ssl
