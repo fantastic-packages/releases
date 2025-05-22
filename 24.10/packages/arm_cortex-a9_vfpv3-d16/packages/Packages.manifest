@@ -309,7 +309,7 @@ SHA256sum: 9e8c17d974398360482bc37f926b2d6035b655405a6b898da1952c9cbf81b249
 Description:  This package provides the Qt6 Xml v6.8.3 library.
 
 Package: mihomo
-Version: 1.19.8-r1
+Version: 1.19.9-r1
 Depends: libc
 Source: /feed/packages/openwrt-fchomo/mihomo
 SourceName: mihomo
@@ -317,14 +317,14 @@ License: GPL-2.0
 LicenseFiles: LICENSE
 Section: net
 Require-User: mihomo=7890:mihomo=7890
-SourceDateEpoch: 1747621461
+SourceDateEpoch: 1747917262
 URL: https://wiki.metacubex.one
 Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: arm_cortex-a9_vfpv3-d16
-Installed-Size: 28549120
-Filename: mihomo_1.19.8-r1_arm_cortex-a9_vfpv3-d16.ipk
-Size: 10770380
-SHA256sum: 5197a5ae126e95f760ac1cc7c590799829b1ac0455a98056df5e77310fe9c769
+Installed-Size: 28579840
+Filename: mihomo_1.19.9-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 10782156
+SHA256sum: 9539cca34b2534fe34d4d318dcd2e5bcb219bbd7ea4730a03bae53c462d3e113
 Description:  Another Mihomo Kernel.
 
 Package: natmapt-client-script-deluge
