@@ -300,13 +300,13 @@ License: GPL-2.0
 LicenseFiles: LICENSE
 Section: net
 Require-User: mihomo=7890:mihomo=7890
-SourceDateEpoch: 1747917262
+SourceDateEpoch: 1747929828
 Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: mips_24kc
-Installed-Size: 11757563
+Installed-Size: 11757230
 Filename: mihomo_1.19.9-1_mips_24kc.ipk
-Size: 11727076
-SHA256sum: 036ffefe0c2c89f8b4c31ddf507fa2ac1313e20afa393c3a130e8bb0360c95f3
+Size: 11726915
+SHA256sum: df0f7e12f174822658b4d17202d402b2b5c2bf93f0762cf6ca51886e1dee30bf
 Description:  Another Mihomo Kernel.
 
 Package: natmapt-client-script-deluge

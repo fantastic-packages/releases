@@ -244,8 +244,8 @@ URL: https://wiki.metacubex.one
 Architecture: x86_64
 Installed-Size: 31272960
 Filename: mihomo_1.19.9-r1_x86_64.ipk
-Size: 11628903
-SHA256sum: e7c9c2d584fa05c0372b6236b4513663a992a640b8d134a582268d7a3bd89485
+Size: 11629089
+SHA256sum: 75964c1b045a2383768e83f755e77bb97ed9278812757e61cafa2c799682c2d5
 Description:  Another Mihomo Kernel.
 
 Package: natmapt-client-script-deluge

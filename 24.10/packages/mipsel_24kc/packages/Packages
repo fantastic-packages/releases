@@ -244,8 +244,8 @@ URL: https://wiki.metacubex.one
 Architecture: mipsel_24kc
 Installed-Size: 32696320
 Filename: mihomo_1.19.9-r1_mipsel_24kc.ipk
-Size: 10288757
-SHA256sum: b92431710c66c7ca7eeb2bd74fcbe0851a493b30c44e7e8f8078fdf279fd5571
+Size: 10288980
+SHA256sum: 7f523cdcb2998df70feb6c8579f7d26c95780f3dd9081916004e0be31172b980
 Description:  Another Mihomo Kernel.
 
 Package: natmapt-client-script-deluge

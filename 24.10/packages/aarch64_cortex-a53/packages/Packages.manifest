@@ -317,14 +317,14 @@ License: GPL-2.0
 LicenseFiles: LICENSE
 Section: net
 Require-User: mihomo=7890:mihomo=7890
-SourceDateEpoch: 1747917262
+SourceDateEpoch: 1747929828
 URL: https://wiki.metacubex.one
 Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: aarch64_cortex-a53
 Installed-Size: 29777920
 Filename: mihomo_1.19.9-r1_aarch64_cortex-a53.ipk
-Size: 10678155
-SHA256sum: 172f6d9c0875af969c8d415deff5d0ee3ebc813c6bcb6d4035930bc5e87ec2bf
+Size: 10678745
+SHA256sum: 4923c3cb9497eea3f9462d3f1430a676fe05d4479d1f525d4da8f63fc8d7b2e5
 Description:  Another Mihomo Kernel.
 
 Package: natmapt-client-script-deluge

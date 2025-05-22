@@ -300,13 +300,13 @@ License: GPL-2.0
 LicenseFiles: LICENSE
 Section: net
 Require-User: mihomo=7890:mihomo=7890
-SourceDateEpoch: 1747917262
+SourceDateEpoch: 1747929828
 Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: arm_cortex-a9_vfpv3-d16
-Installed-Size: 12228261
+Installed-Size: 12228268
 Filename: mihomo_1.19.9-1_arm_cortex-a9_vfpv3-d16.ipk
-Size: 12205170
-SHA256sum: 066a9536b98bf124db0933fa5606a04d36c3886cc06b3d3a1397f71e5989893f
+Size: 12204880
+SHA256sum: 343ea69f9849e515c05a983de902d34a081632df84a97a407973af30b24713e2
 Description:  Another Mihomo Kernel.
 
 Package: natmapt-client-script-deluge
