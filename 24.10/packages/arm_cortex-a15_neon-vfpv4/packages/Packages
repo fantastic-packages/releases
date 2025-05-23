@@ -244,8 +244,8 @@ URL: https://wiki.metacubex.one
 Architecture: arm_cortex-a15_neon-vfpv4
 Installed-Size: 28579840
 Filename: mihomo_1.19.9-r1_arm_cortex-a15_neon-vfpv4.ipk
-Size: 10781860
-SHA256sum: e82165fad0da2ef290d7ee48b1b5bab82d936003318501ea3c46718b266212a5
+Size: 10782128
+SHA256sum: c6fea489aeeddcdb744161e4237695777d214e79d9570a53b38741ce029bc26b
 Description:  Another Mihomo Kernel.
 
 Package: natmapt-client-script-deluge

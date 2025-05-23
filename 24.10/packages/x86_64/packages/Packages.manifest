@@ -317,14 +317,14 @@ License: GPL-2.0
 LicenseFiles: LICENSE
 Section: net
 Require-User: mihomo=7890:mihomo=7890
-SourceDateEpoch: 1747929828
+SourceDateEpoch: 1748009225
 URL: https://wiki.metacubex.one
 Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: x86_64
 Installed-Size: 31272960
 Filename: mihomo_1.19.9-r1_x86_64.ipk
-Size: 11629089
-SHA256sum: 75964c1b045a2383768e83f755e77bb97ed9278812757e61cafa2c799682c2d5
+Size: 11629102
+SHA256sum: ac50677acdbcdf1e34554cee4dad55f02d1bd1303234347d8ba77d29abd8cfb2
 Description:  Another Mihomo Kernel.
 
 Package: natmapt-client-script-deluge

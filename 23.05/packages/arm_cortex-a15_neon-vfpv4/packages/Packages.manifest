@@ -300,13 +300,13 @@ License: GPL-2.0
 LicenseFiles: LICENSE
 Section: net
 Require-User: mihomo=7890:mihomo=7890
-SourceDateEpoch: 1747929828
+SourceDateEpoch: 1748009225
 Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: arm_cortex-a15_neon-vfpv4
-Installed-Size: 12227261
+Installed-Size: 12227260
 Filename: mihomo_1.19.9-1_arm_cortex-a15_neon-vfpv4.ipk
-Size: 12204825
-SHA256sum: 32b5460fd88a60be1c05649771782284c136da976c213447e271693e1d0d42ce
+Size: 12204949
+SHA256sum: a4552742edae77a2f1b60b131c99a5e873fd1a9d2b7c7bf2338c659e5ffd7321
 Description:  Another Mihomo Kernel.
 
 Package: natmapt-client-script-deluge

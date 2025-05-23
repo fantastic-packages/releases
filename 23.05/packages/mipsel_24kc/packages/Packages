@@ -224,10 +224,10 @@ Depends: libc
 License: GPL-2.0
 Section: net
 Architecture: mipsel_24kc
-Installed-Size: 11531626
+Installed-Size: 11531625
 Filename: mihomo_1.19.9-1_mipsel_24kc.ipk
-Size: 11503464
-SHA256sum: f80741e9d6166fae6c73066377a3a137c526033b656e7911b1edb0fa376cb1c4
+Size: 11503922
+SHA256sum: b34514544c68c51e2577783270383e76df83896cff620010e1d0ad302d84d81c
 Description:  Another Mihomo Kernel.
 
 Package: natmapt-client-script-deluge

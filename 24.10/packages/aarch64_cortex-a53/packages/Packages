@@ -244,8 +244,8 @@ URL: https://wiki.metacubex.one
 Architecture: aarch64_cortex-a53
 Installed-Size: 29777920
 Filename: mihomo_1.19.9-r1_aarch64_cortex-a53.ipk
-Size: 10678745
-SHA256sum: 4923c3cb9497eea3f9462d3f1430a676fe05d4479d1f525d4da8f63fc8d7b2e5
+Size: 10678662
+SHA256sum: 83a823daa0eef2650dee0146ac3dcdb45200c62c31f83e0fac60520171d0deef
 Description:  Another Mihomo Kernel.
 
 Package: natmapt-client-script-deluge
