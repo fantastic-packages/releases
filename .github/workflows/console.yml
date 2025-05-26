@@ -1,0 +1,26 @@
+name: Console
+
+on:
+  workflow_dispatch:
+
+jobs:
+  Console:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # To push a branch
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+          fetch-depth: 0
+
+      - name: Set git user
+        run: |
+          git config --local user.name "GitHub Action"
+          git config --local user.email "actions-user@users.noreply.github.com"
+
+      - name: Setup tmate session
+        uses: mxschmitt/action-tmate@v3
+
