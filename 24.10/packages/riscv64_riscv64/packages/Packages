@@ -244,8 +244,8 @@ URL: https://wiki.metacubex.one
 Architecture: riscv64_riscv64
 Installed-Size: 29358080
 Filename: mihomo_1.19.9-r1_riscv64_riscv64.ipk
-Size: 10812982
-SHA256sum: 23cfc68e6d53a4aaafd2f8e86bc9b75f95485f7130f091c0f673cb5a7dc349e2
+Size: 10813263
+SHA256sum: 1fc4582df7ffee3d6274b6019cf819fb19b3825b564d3f15c8164ad483725db7
 Description:  Another Mihomo Kernel.
 
 Package: natmapt-client-script-deluge

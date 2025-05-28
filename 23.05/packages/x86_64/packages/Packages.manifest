@@ -300,13 +300,13 @@ License: GPL-2.0
 LicenseFiles: LICENSE
 Section: net
 Require-User: mihomo=7890:mihomo=7890
-SourceDateEpoch: 1748009225
+SourceDateEpoch: 1748416700
 Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: x86_64
-Installed-Size: 13015890
+Installed-Size: 13015900
 Filename: mihomo_1.19.9-1_x86_64.ipk
-Size: 12975921
-SHA256sum: a8be055a811d201c75f1c41fd61f377eef87b5a28d1d7ee776059f3432669a2b
+Size: 12976158
+SHA256sum: e41609aaed99b4b17dd14b5b17f9f753aa9f5549a5e739dd2feb628aa9d297fb
 Description:  Another Mihomo Kernel.
 
 Package: natmapt-client-script-deluge

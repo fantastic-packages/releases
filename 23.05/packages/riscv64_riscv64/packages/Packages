@@ -224,10 +224,10 @@ Depends: libc
 License: GPL-2.0
 Section: net
 Architecture: riscv64_riscv64
-Installed-Size: 12360358
+Installed-Size: 12360367
 Filename: mihomo_1.19.9-1_riscv64_riscv64.ipk
-Size: 12318537
-SHA256sum: 15d59656cee6466568c5286c9849ed91e1913a62de20143108c1208d5f06c215
+Size: 12318853
+SHA256sum: 0db7362fedd8ba488f30ed3937b97da71bac6f9809b0888082b3d9fa406eaac3
 Description:  Another Mihomo Kernel.
 
 Package: natmapt-client-script-deluge
