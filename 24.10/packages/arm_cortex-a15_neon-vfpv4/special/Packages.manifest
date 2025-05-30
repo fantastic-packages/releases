@@ -719,8 +719,8 @@ Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: arm_cortex-a15_neon-vfpv4
 Installed-Size: 7731200
 Filename: shadowsocks-rust-ssservice_1.23.2-r1_arm_cortex-a15_neon-vfpv4.ipk
-Size: 3526339
-SHA256sum: 034ad76e07eb912ad5ef71f0b5d8245723f6de9d3e479b4e291f97227e639f89
+Size: 3526354
+SHA256sum: f73dff63bedafa3996549f218a6acd2c83b3aa644462499ceafac77fad758ce3
 Description:  shadowsocks-rust ssservice. single bundled of local,server,manager. also used to generate safed secured password.
 
 Package: shadowsocks-rust-ssurl

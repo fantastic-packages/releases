@@ -374,8 +374,8 @@ Maintainer: yichya <mail@yichya.dev>
 Architecture: all
 Installed-Size: 3375
 Filename: luci-app-xray-status_3.5.0-1_all.ipk
-Size: 4152
-SHA256sum: 70482f3d05c3ef6255b7fbecceba4cfeeb73b968366fbe853a9041203e9cdb45
+Size: 4150
+SHA256sum: 3da3230b4565d96e1872b2d338e45f41acad3f74388be126c41830d48d9d7a07
 Description:  LuCI Support for Xray (Client-side Rendered) (status page).
 
 Package: luci-app-xray
