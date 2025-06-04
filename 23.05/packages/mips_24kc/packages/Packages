@@ -224,75 +224,75 @@ Depends: libc
 License: GPL-2.0
 Section: net
 Architecture: mips_24kc
-Installed-Size: 11757555
+Installed-Size: 11757554
 Filename: mihomo_1.19.9-1_mips_24kc.ipk
-Size: 11727151
-SHA256sum: 07fcfad9663755f7b1cfa32f5f533270586a79d36e09e65f8967e8ef8ed054af
+Size: 11727215
+SHA256sum: 05d8f021b813132101d1370322c41dc02a983286e723bb572a6a5e49ff07d3f4
 Description:  Another Mihomo Kernel.
 
 Package: natmapt-client-script-deluge
-Version: 0.2025.2.19
+Version: 0.2025.6.4
 Depends: libc, natmapt
 Provides: natmapt-client-scripts
 License: MIT
 Section: net
 Architecture: all
-Installed-Size: 819
-Filename: natmapt-client-script-deluge_0.2025.2.19_all.ipk
-Size: 1621
-SHA256sum: ebab12ba347347b1abcc040f605b62465f4faee6ff193f485c1a5876354a3a2d
+Installed-Size: 815
+Filename: natmapt-client-script-deluge_0.2025.6.4_all.ipk
+Size: 1616
+SHA256sum: 32e81a231edf7918d3f199c6042b08efaa4a93d8ec86481685740b782d864de7
 Description:  NATMap client scripts (Deluge)
 
 Package: natmapt-client-script-transmission
-Version: 0.2025.2.19
+Version: 0.2025.6.4
 Depends: libc, natmapt
 Provides: natmapt-client-scripts
 License: MIT
 Section: net
 Architecture: all
-Installed-Size: 635
-Filename: natmapt-client-script-transmission_0.2025.2.19_all.ipk
-Size: 1429
-SHA256sum: 3252adae3e1ffb83f989528ce1bfecbfb139d1f8831f9de40a131561c235891d
+Installed-Size: 634
+Filename: natmapt-client-script-transmission_0.2025.6.4_all.ipk
+Size: 1424
+SHA256sum: c9b2341b8ef5ca7d8bc3f22a3ddfc53b911764303cb9f7bfe11bdb46a59592a7
 Description:  NATMap client scripts (Transmission)
 
 Package: natmapt-notify-script-pushbullet
-Version: 0.2025.2.19
+Version: 0.2025.6.4
 Depends: libc, natmapt
 Provides: natmapt-notify-scripts
 License: MIT
 Section: net
 Architecture: all
 Installed-Size: 626
-Filename: natmapt-notify-script-pushbullet_0.2025.2.19_all.ipk
-Size: 1420
-SHA256sum: 6e6d9b460e4220a757f196a7169acd585aac931f083fd888ab8203287b9ea1fc
+Filename: natmapt-notify-script-pushbullet_0.2025.6.4_all.ipk
+Size: 1423
+SHA256sum: 874309f8f76b89efc5960df06e850093b41ae91c04e918d4d89d4a74bc6bbd8a
 Description:  NATMap notify scripts (Pushbullet)
 
 Package: natmapt-notify-script-pushover
-Version: 0.2025.2.19
+Version: 0.2025.6.4
 Depends: libc, natmapt
 Provides: natmapt-notify-scripts
 License: MIT
 Section: net
 Architecture: all
 Installed-Size: 646
-Filename: natmapt-notify-script-pushover_0.2025.2.19_all.ipk
-Size: 1442
-SHA256sum: 1e298210350804683018eab39aab1c988aa05f568d14dbe81aca577b02b99de2
+Filename: natmapt-notify-script-pushover_0.2025.6.4_all.ipk
+Size: 1440
+SHA256sum: 0b96adcd012845bdda5e4786a7bb0e8e95b0cc00282c89522ac248a9b1bcc8ba
 Description:  NATMap notify scripts (Pushover)
 
 Package: natmapt-notify-script-telegram
-Version: 0.2025.2.19
+Version: 0.2025.6.4
 Depends: libc, natmapt
 Provides: natmapt-notify-scripts
 License: MIT
 Section: net
 Architecture: all
-Installed-Size: 639
-Filename: natmapt-notify-script-telegram_0.2025.2.19_all.ipk
-Size: 1437
-SHA256sum: 95e3a95d0d5c70f5e67fdbad8b970bc72d65928972d90c55410e42f4968935fc
+Installed-Size: 753
+Filename: natmapt-notify-script-telegram_0.2025.6.4_all.ipk
+Size: 1548
+SHA256sum: 250fe50c95f4929a6eef791886db1235fa967560d3bee2d244c2507b5300f9a9
 Description:  NATMap notify scripts (Telegram)
 
 Package: natmapt
@@ -301,10 +301,10 @@ Depends: libc, curl, jsonfilter, bash
 License: MIT
 Section: net
 Architecture: mips_24kc
-Installed-Size: 26526
+Installed-Size: 26523
 Filename: natmapt_20250512-3_mips_24kc.ipk
 Size: 27109
-SHA256sum: f88c1896505513c8a4f06851de562e780c5f62f1f83ca885c3bd9bfe3fe7edb0
+SHA256sum: 205f80ecfc599efdee0957ee1ff3b00076567cbb0ff9b9d76836c49c44f3bbeb
 Description:  TCP/UDP port mapping tool for full cone NAT
 
 Package: netdata-ssl
@@ -554,4 +554,6 @@ Filename: uci-alwaysonline_0.2024.07.31_mips_24kc.ipk
 Size: 3371
 SHA256sum: a6348aee3040647efc8faa6ef4da5fbd4ab03f344c04f03de92b3597198f0e97
 Description:  alwaysonline uci metapackage
+
+
 

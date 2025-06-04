@@ -244,73 +244,73 @@ URL: https://wiki.metacubex.one
 Architecture: aarch64_generic
 Installed-Size: 29777920
 Filename: mihomo_1.19.9-r1_aarch64_generic.ipk
-Size: 10678787
-SHA256sum: e968d2ab9a45d093393ceef5e6deb2b5984400ce8dca98840ad3a44160e6f9c1
+Size: 10678702
+SHA256sum: ee4ce4225b938be206f80b9b5d3297a617322ae07184c8c61fc6503612cf0c61
 Description:  Another Mihomo Kernel.
 
 Package: natmapt-client-script-deluge
-Version: 0.2025.2.19
+Version: 0.2025.6.4
 Depends: libc, natmapt
 Provides: natmapt-client-scripts
 License: MIT
 Section: net
 Architecture: all
 Installed-Size: 10240
-Filename: natmapt-client-script-deluge_0.2025.2.19_all.ipk
-Size: 1625
-SHA256sum: 5dc6d08bf8c50fffbd8424fed1f830a85aba7020b1c845f64ad443809680abcb
+Filename: natmapt-client-script-deluge_0.2025.6.4_all.ipk
+Size: 1617
+SHA256sum: f725034045f7b28802537b73be41936a1109045066c139a40fd473574a2e6835
 Description:  NATMap client scripts (Deluge)
 
 Package: natmapt-client-script-transmission
-Version: 0.2025.2.19
+Version: 0.2025.6.4
 Depends: libc, natmapt
 Provides: natmapt-client-scripts
 License: MIT
 Section: net
 Architecture: all
 Installed-Size: 10240
-Filename: natmapt-client-script-transmission_0.2025.2.19_all.ipk
-Size: 1433
-SHA256sum: ec54252b0a7be2305d45dae50e12de1816c443b625ecb4687fd7005133ae680b
+Filename: natmapt-client-script-transmission_0.2025.6.4_all.ipk
+Size: 1432
+SHA256sum: 859ec13d7f487262f239282d5ce633ba558dce9cdcad5fd709a68587b814e6cb
 Description:  NATMap client scripts (Transmission)
 
 Package: natmapt-notify-script-pushbullet
-Version: 0.2025.2.19
+Version: 0.2025.6.4
 Depends: libc, natmapt
 Provides: natmapt-notify-scripts
 License: MIT
 Section: net
 Architecture: all
 Installed-Size: 10240
-Filename: natmapt-notify-script-pushbullet_0.2025.2.19_all.ipk
-Size: 1427
-SHA256sum: bc869bc2ec659330f4a4a93b30dd98e1c3a876b9e82a25ef49ecfe2907033fa8
+Filename: natmapt-notify-script-pushbullet_0.2025.6.4_all.ipk
+Size: 1428
+SHA256sum: b85bec94c4a32e5eee88e56b303d8b36ec1c8a67100b48aeb8362fc98f6b465a
 Description:  NATMap notify scripts (Pushbullet)
 
 Package: natmapt-notify-script-pushover
-Version: 0.2025.2.19
+Version: 0.2025.6.4
 Depends: libc, natmapt
 Provides: natmapt-notify-scripts
 License: MIT
 Section: net
 Architecture: all
 Installed-Size: 10240
-Filename: natmapt-notify-script-pushover_0.2025.2.19_all.ipk
-Size: 1445
-SHA256sum: 154ecad439b4612e02540daf7c17e0a61ff7d6635aaaf3ff4d5dd57542fe88a5
+Filename: natmapt-notify-script-pushover_0.2025.6.4_all.ipk
+Size: 1441
+SHA256sum: 07e75a62845518e8d3690d885b8b6d1829a40ffa8222267b034360d057901de2
 Description:  NATMap notify scripts (Pushover)
 
 Package: natmapt-notify-script-telegram
-Version: 0.2025.2.19
+Version: 0.2025.6.4
 Depends: libc, natmapt
 Provides: natmapt-notify-scripts
 License: MIT
 Section: net
 Architecture: all
 Installed-Size: 10240
-Filename: natmapt-notify-script-telegram_0.2025.2.19_all.ipk
-Size: 1439
-SHA256sum: e996cba0ddb7a2ab106917b18ae75edc1e2e39bd00cb7abd792148effd88dcac
+Filename: natmapt-notify-script-telegram_0.2025.6.4_all.ipk
+Size: 1555
+SHA256sum: 06f280520150536e7a0ca2d56caf30686d930fe1e3729794dcb52a3d2f9c6aec
 Description:  NATMap notify scripts (Telegram)
 
 Package: natmapt
@@ -322,8 +322,8 @@ URL: https://github.com/heiher/natmap
 Architecture: aarch64_generic
 Installed-Size: 112640
 Filename: natmapt_20250512-r3_aarch64_generic.ipk
-Size: 30188
-SHA256sum: b549c177035c70079ae33bc80de3084f2ed8dd5e47f63c6292695781534bcc0c
+Size: 30173
+SHA256sum: 47fecf65954cbc45912dfefeabc92739088a3ba51ee6e165050fe1126d5c4c5b
 Description:  TCP/UDP port mapping tool for full cone NAT
 
 Package: netdata-ssl
