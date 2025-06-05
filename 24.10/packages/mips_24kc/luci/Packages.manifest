@@ -184,19 +184,19 @@ SHA256sum: 390b3feb9bddc17c56477428ae1520f2248caff425426e013b255ff5660a623b
 Description:  Network interfaces statistics
 
 Package: luci-app-internet-detector
-Version: 1.4.5-r1
+Version: 1.4.6-r1
 Depends: libc, internet-detector
 Source: /feed/luci/luci-app-internet-detector/luci-app-internet-detector
 SourceName: luci-app-internet-detector
 Section: luci
-SourceDateEpoch: 1743942903
+SourceDateEpoch: 1748633730
 URL: https://github.com/openwrt/luci
 Maintainer: OpenWrt LuCI community
 Architecture: all
 Installed-Size: 51200
-Filename: luci-app-internet-detector_1.4.5-r1_all.ipk
-Size: 9594
-SHA256sum: 7e5ca18c6ed32c23ab4dfe81eed734d90577db2cc5eee3574c6111788117880d
+Filename: luci-app-internet-detector_1.4.6-r1_all.ipk
+Size: 9601
+SHA256sum: 8777afb84eb7d4957c78df0ac6207f2237ed074d0d1ba9a2f3c206bb3283b419
 Description:  LuCI support for internet-detector
 
 Package: luci-app-ipinfo
@@ -334,20 +334,20 @@ SHA256sum: 6b1ddd795f2ab94694ac68de7b6627fbf4bcfa369ec81a8e4d52f589212cee41
 Description:  LuCI support for qBittorrent
 
 Package: luci-app-temp-status
-Version: 0.5.6-r1
+Version: 0.5.6-r2
 Depends: libc, lua, luci-lib-nixio, luci-lib-jsonc
 Source: /feed/luci/luci-app-temp-status
 SourceName: luci-app-temp-status
 License: MIT
 Section: luci
-SourceDateEpoch: 1746458814
+SourceDateEpoch: 1746734154
 URL: https://github.com/openwrt/luci
 Maintainer: OpenWrt LuCI community
 Architecture: all
 Installed-Size: 40960
-Filename: luci-app-temp-status_0.5.6-r1_all.ipk
-Size: 7659
-SHA256sum: ac4889ac4c60eb88442ed1ac95b49d206fd891bc35685b94c2fa1deb8f8a034e
+Filename: luci-app-temp-status_0.5.6-r2_all.ipk
+Size: 7681
+SHA256sum: 626e8f6c609caaa915e741f705a674b676cff5ed5c751fc0d398e8b3d0971ce0
 Description:  Temperature sensors data for the LuCI status page
 
 Package: luci-app-tinyfilemanager
@@ -385,37 +385,37 @@ SHA256sum: 3e4c5c1b38580797dc7c97da9816dab200b35da06c86b07c5934ea0b92a982a1
 Description:  Network ports status LuCI application
 
 Package: luci-app-xray-status
-Version: 3.5.0-r1
+Version: 3.6.0-r1
 Depends: libc, luci-app-xray, wget
 Source: /feed/luci/luci-app-xray/status
 SourceName: luci-app-xray-status
 License: MPLv2
 LicenseFiles: LICENSE
 Section: Custom
-SourceDateEpoch: 1738998171
+SourceDateEpoch: 1747136092
 Maintainer: yichya <mail@yichya.dev>
 Architecture: all
 Installed-Size: 30720
-Filename: luci-app-xray-status_3.5.0-r1_all.ipk
-Size: 4149
-SHA256sum: d439de5d2dfd5fad26fafb11f25459ef7810290bb36ff67752382604dc465c73
+Filename: luci-app-xray-status_3.6.0-r1_all.ipk
+Size: 4147
+SHA256sum: 079c82668408e7c877f38bb7aef2acca230e0f9ea1c1c1449f7377e761a97eb2
 Description:  LuCI Support for Xray (Client-side Rendered) (status page).
 
 Package: luci-app-xray
-Version: 3.5.0-r1
+Version: 3.6.0-r1
 Depends: libc, firewall4, kmod-nft-tproxy, luci-base, xray-core, dnsmasq, ca-bundle
 Source: /feed/luci/luci-app-xray/core
 SourceName: luci-app-xray
 License: MPLv2
 LicenseFiles: LICENSE
 Section: Custom
-SourceDateEpoch: 1738998171
+SourceDateEpoch: 1747136092
 Maintainer: yichya <mail@yichya.dev>
 Architecture: all
 Installed-Size: 215040
-Filename: luci-app-xray_3.5.0-r1_all.ipk
-Size: 32639
-SHA256sum: 9b7ed755c5dc19d2c07bb8d4d29a91518d362a1efa668e6c5493addc92e23a9f
+Filename: luci-app-xray_3.6.0-r1_all.ipk
+Size: 32625
+SHA256sum: 43d0ad0a848572a13e8a55d653cb1e27997aa013a30719bf7411a9e6461d73f8
 Description:  LuCI Support for Xray (Client-side Rendered).
 
 Package: luci-i18n-alwaysonline-zh-cn
@@ -754,17 +754,17 @@ SHA256sum: e349132435d31c1d7bbb5575ce0105ad87d23f5dcfd8353fc7f16bc551dec3ee
 Description:  Translation for luci-app-interfaces-statistics - 简体中文 (Chinese Simplified)
 
 Package: luci-i18n-internet-detector-ru
-Version: 25.096.45303~36a70fa
+Version: 25.150.70530~d0c1f03
 Depends: libc, luci-app-internet-detector
 Source: /feed/luci/luci-app-internet-detector/luci-app-internet-detector
 SourceName: luci-app-internet-detector
 Section: luci
-SourceDateEpoch: 1743942903
+SourceDateEpoch: 1748633730
 Architecture: all
 Installed-Size: 20480
-Filename: luci-i18n-internet-detector-ru_25.096.45303~36a70fa_all.ipk
-Size: 5438
-SHA256sum: 0e07038956c682d23c9175f835817fef5a0e4bf394ab00038fcaa93f06fc4197
+Filename: luci-i18n-internet-detector-ru_25.150.70530~d0c1f03_all.ipk
+Size: 5437
+SHA256sum: 11176e70886d761d3a2b76d09a7dd5ab49f4ae3e86647d0c553f778f802b55a9
 Description:  Translation for luci-app-internet-detector - Русский (Russian)
 
 Package: luci-i18n-log-viewer-ru
@@ -1209,33 +1209,33 @@ SHA256sum: 18bc9f8221babc1c4cdf5e068739f7cbdf494d67b8b76a5619cc1c1dc6410c0f
 Description:  Translation for luci-app-qbittorrent - 简体中文 (Chinese Simplified)
 
 Package: luci-i18n-temp-status-es
-Version: 25.125.55614~d214235
+Version: 25.128.71754~582f6d4
 Depends: libc, luci-app-temp-status
 Source: /feed/luci/luci-app-temp-status
 SourceName: luci-app-temp-status
 License: MIT
 Section: luci
-SourceDateEpoch: 1746458814
+SourceDateEpoch: 1746734154
 Architecture: all
 Installed-Size: 10240
-Filename: luci-i18n-temp-status-es_25.125.55614~d214235_all.ipk
-Size: 1179
-SHA256sum: fb69e8654ccf4033f4b8cb4d7b34e463e96642ba9cdbe50a987ca92078160ed6
+Filename: luci-i18n-temp-status-es_25.128.71754~582f6d4_all.ipk
+Size: 1180
+SHA256sum: eb364ae2fdbfcbfec1418f7b4c956b98cd405ba7392c49f6da4028427374810f
 Description:  Translation for luci-app-temp-status - Español (Spanish)
 
 Package: luci-i18n-temp-status-ru
-Version: 25.125.55614~d214235
+Version: 25.128.71754~582f6d4
 Depends: libc, luci-app-temp-status
 Source: /feed/luci/luci-app-temp-status
 SourceName: luci-app-temp-status
 License: MIT
 Section: luci
-SourceDateEpoch: 1746458814
+SourceDateEpoch: 1746734154
 Architecture: all
 Installed-Size: 10240
-Filename: luci-i18n-temp-status-ru_25.125.55614~d214235_all.ipk
-Size: 1573
-SHA256sum: 04970ad9dde879628d275342bec7bc8728905f2cf82007e2fdb28c878891d796
+Filename: luci-i18n-temp-status-ru_25.128.71754~582f6d4_all.ipk
+Size: 1567
+SHA256sum: 12a09be3e76dfbb9f094036ec16f2484d47a495f655a15bfbab524cc6a74b7d1
 Description:  Translation for luci-app-temp-status - Русский (Russian)
 
 Package: luci-i18n-tinyfilemanager-zh-cn
