@@ -1,0 +1,1 @@
+{"architecture": "riscv64_generic", "packages":{"shadowsocks-rust-config": "1.23.4-r1", "shadowsocks-rust-sslocal": "1.23.4-r1", "shadowsocks-rust-ssmanager": "1.23.4-r1", "shadowsocks-rust-ssserver": "1.23.4-r1", "shadowsocks-rust-ssservice": "1.23.4-r1", "shadowsocks-rust-ssurl": "1.23.4-r1"}}
