@@ -78,10 +78,10 @@ Section: utils
 SourceDateEpoch: 1748017171
 Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: aarch64_cortex-a53
-Installed-Size: 406762
+Installed-Size: 410566
 Filename: fastfetch_2.44.0-1_aarch64_cortex-a53.ipk
-Size: 407277
-SHA256sum: ac9364f623645ccbd6b829bbe830b82f023d6c323815223b542f0cbc98df5e08
+Size: 411049
+SHA256sum: 994fcc0b3a2b2a41c6f79ab4829439673d66874aecf1b3dd2a964a3edc7315c0
 Description:  Fastfetch is a neofetch-like tool for fetching
  system information and displaying it prettily.
 
@@ -105,33 +105,33 @@ Description:  go-stun is a STUN (RFC 3489, 5389) client implementation in golang
  RFC 5389: Session Traversal Utilities for NAT (STUN)
 
 Package: internet-detector-mod-email
-Version: 1.4.5-1
+Version: 1.4.6-1
 Depends: libc, internet-detector, mailsend
 Source: /feed/luci/luci-app-internet-detector/internet-detector-mod-email
 SourceName: internet-detector-mod-email
 Section: net
-SourceDateEpoch: 1743942903
+SourceDateEpoch: 1748633730
 Maintainer: gSpot <https://github.com/gSpotx2f/luci-app-internet-detector>
 Architecture: all
-Installed-Size: 1872
-Filename: internet-detector-mod-email_1.4.5-1_all.ipk
+Installed-Size: 1871
+Filename: internet-detector-mod-email_1.4.6-1_all.ipk
 Size: 2630
-SHA256sum: d39afe753d07a0b940e6a0791456c5366b9689f7df1baa82517df86a50efed87
+SHA256sum: 95b2b53db3a5f3f10a28449bae00fab8a1d2082244bb831883f7c62e6f198070
 Description:  Email support for internet-detector.
 
 Package: internet-detector-mod-modem-restart
-Version: 1.4.5-1
+Version: 1.4.6-1
 Depends: libc, internet-detector, modemmanager
 Source: /feed/luci/luci-app-internet-detector/internet-detector-mod-modem-restart
 SourceName: internet-detector-mod-modem-restart
 Section: net
-SourceDateEpoch: 1743942903
+SourceDateEpoch: 1748633730
 Maintainer: gSpot <https://github.com/gSpotx2f/luci-app-internet-detector>
 Architecture: all
-Installed-Size: 1087
-Filename: internet-detector-mod-modem-restart_1.4.5-1_all.ipk
-Size: 1851
-SHA256sum: 7e0f9cb9086f8cfc13827d5dafec9eb1a4dde3169cce702edbb215b76d569eec
+Installed-Size: 1088
+Filename: internet-detector-mod-modem-restart_1.4.6-1_all.ipk
+Size: 1849
+SHA256sum: 41c49a7a88b1cd4e79fc1aca5fa58c4957f977134f2a764fc2b5be3af238ed97
 Description:  Support modem restart for internet detector.
 
 Package: internet-detector
@@ -303,10 +303,10 @@ Require-User: mihomo=7890:mihomo=7890
 SourceDateEpoch: 1748505827
 Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: aarch64_cortex-a53
-Installed-Size: 11971242
+Installed-Size: 11971243
 Filename: mihomo_1.19.9-1_aarch64_cortex-a53.ipk
-Size: 11929178
-SHA256sum: e13755df74374d20e30bfeafe236972ab93d82a2e3ee92e518200e0b45e7dd78
+Size: 11929154
+SHA256sum: f2b4ca50d147aa66fdeaed65943e70ce4478c7be4207e436cc1783f163144823
 Description:  Another Mihomo Kernel.
 
 Package: natmapt-client-script-deluge

@@ -52,10 +52,10 @@ Depends: libc
 License: MIT
 Section: utils
 Architecture: arm_cortex-a9_vfpv3-d16
-Installed-Size: 405397
+Installed-Size: 407611
 Filename: fastfetch_2.44.0-1_arm_cortex-a9_vfpv3-d16.ipk
-Size: 405877
-SHA256sum: 9d7a084b5550f12347cc0b2246c825b65eb47ceb921e4ed4bdc6a282dd19a553
+Size: 408217
+SHA256sum: 582058f36bec8a3e3c9f4d60adf981e7d7c182f3087df17030e247076a092283
 Description:  Fastfetch is a neofetch-like tool for fetching
  system information and displaying it prettily.
 
@@ -74,25 +74,25 @@ Description:  go-stun is a STUN (RFC 3489, 5389) client implementation in golang
  RFC 5389: Session Traversal Utilities for NAT (STUN)
 
 Package: internet-detector-mod-email
-Version: 1.4.5-1
+Version: 1.4.6-1
 Depends: libc, internet-detector, mailsend
 Section: net
 Architecture: all
-Installed-Size: 1872
-Filename: internet-detector-mod-email_1.4.5-1_all.ipk
+Installed-Size: 1871
+Filename: internet-detector-mod-email_1.4.6-1_all.ipk
 Size: 2630
-SHA256sum: d39afe753d07a0b940e6a0791456c5366b9689f7df1baa82517df86a50efed87
+SHA256sum: 95b2b53db3a5f3f10a28449bae00fab8a1d2082244bb831883f7c62e6f198070
 Description:  Email support for internet-detector.
 
 Package: internet-detector-mod-modem-restart
-Version: 1.4.5-1
+Version: 1.4.6-1
 Depends: libc, internet-detector, modemmanager
 Section: net
 Architecture: all
-Installed-Size: 1087
-Filename: internet-detector-mod-modem-restart_1.4.5-1_all.ipk
-Size: 1851
-SHA256sum: 7e0f9cb9086f8cfc13827d5dafec9eb1a4dde3169cce702edbb215b76d569eec
+Installed-Size: 1088
+Filename: internet-detector-mod-modem-restart_1.4.6-1_all.ipk
+Size: 1849
+SHA256sum: 41c49a7a88b1cd4e79fc1aca5fa58c4957f977134f2a764fc2b5be3af238ed97
 Description:  Support modem restart for internet detector.
 
 Package: internet-detector
@@ -226,8 +226,8 @@ Section: net
 Architecture: arm_cortex-a9_vfpv3-d16
 Installed-Size: 12228261
 Filename: mihomo_1.19.9-1_arm_cortex-a9_vfpv3-d16.ipk
-Size: 12205207
-SHA256sum: 3dd34cc3a7a8329041c9aee0b2ff24315bda1ce5548894ca95e137e86d87bf18
+Size: 12205151
+SHA256sum: 17d21d488236b9634f8d3781d3b330f5dc72d203e3a09e7a11cba26bbaa62c64
 Description:  Another Mihomo Kernel.
 
 Package: natmapt-client-script-deluge
