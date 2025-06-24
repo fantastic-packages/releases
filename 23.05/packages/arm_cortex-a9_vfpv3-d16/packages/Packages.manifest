@@ -305,8 +305,8 @@ Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: arm_cortex-a9_vfpv3-d16
 Installed-Size: 12240711
 Filename: mihomo_1.19.10-1_arm_cortex-a9_vfpv3-d16.ipk
-Size: 12217864
-SHA256sum: 9f95bce38e774fb97ce03a1ec88e99268dc0abb514e53b1ed3ce26898ebbc46f
+Size: 12217838
+SHA256sum: 1f3b428a453e030f7d0656b189f2f4725855f4e22c0a82c35a001e584fec1915
 Description:  Another Mihomo Kernel.
 
 Package: natmapt-client-script-deluge

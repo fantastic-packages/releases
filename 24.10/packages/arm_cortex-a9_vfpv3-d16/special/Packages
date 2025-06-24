@@ -533,8 +533,8 @@ URL: https://github.com/shadowsocks/shadowsocks-rust
 Architecture: arm_cortex-a9_vfpv3-d16
 Installed-Size: 7751680
 Filename: shadowsocks-rust-ssservice_1.23.4-r1_arm_cortex-a9_vfpv3-d16.ipk
-Size: 3538242
-SHA256sum: 798d80e81e42adaa9308d5d80d006ad85ff08b5daa1b394edafb9a5465a63660
+Size: 3538293
+SHA256sum: 233e1c74672a69171c49e63b053df6e18688592b3ae7f44490e717da1f40e593
 Description:  shadowsocks-rust ssservice. single bundled of local,server,manager. also used to generate safed secured password.
 
 Package: shadowsocks-rust-ssurl

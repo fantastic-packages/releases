@@ -226,8 +226,8 @@ Section: net
 Architecture: aarch64_cortex-a53
 Installed-Size: 11992865
 Filename: mihomo_1.19.10-1_aarch64_cortex-a53.ipk
-Size: 11950609
-SHA256sum: 7a90e9a15e5ad9850c62aa52d8d20d64190d4dc5bf589441dc87c45c9aa6d4a2
+Size: 11950344
+SHA256sum: cf22b95e5127f4a2a07a440db5e9f7aa4ccdedc7502b3d39334e5f589cbca077
 Description:  Another Mihomo Kernel.
 
 Package: natmapt-client-script-deluge

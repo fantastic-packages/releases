@@ -226,8 +226,8 @@ Section: net
 Architecture: arm_cortex-a15_neon-vfpv4
 Installed-Size: 12242631
 Filename: mihomo_1.19.10-1_arm_cortex-a15_neon-vfpv4.ipk
-Size: 12219460
-SHA256sum: 2f6b63c810443a5ff672d68c17983b39772e3ef78a8df9cd1006045d110d714b
+Size: 12219576
+SHA256sum: 8399103b0c878689f4b1588e44de7bf143e68e9b1f80430fe4167f3b750174b0
 Description:  Another Mihomo Kernel.
 
 Package: natmapt-client-script-deluge

@@ -303,10 +303,10 @@ Require-User: mihomo=7890:mihomo=7890
 SourceDateEpoch: 1750729717
 Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: mips_24kc
-Installed-Size: 11776835
+Installed-Size: 11776829
 Filename: mihomo_1.19.10-1_mips_24kc.ipk
-Size: 11746211
-SHA256sum: 958350a0da7c82202c20c2edd6eeefb02e61c742ed94a8ef909f927a208e84c8
+Size: 11746176
+SHA256sum: 2444f07faf16e186e31835a73cbe73d09c8def479ab0c2d6bcd5df0e1cd33436
 Description:  Another Mihomo Kernel.
 
 Package: natmapt-client-script-deluge

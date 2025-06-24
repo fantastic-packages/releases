@@ -533,8 +533,8 @@ URL: https://github.com/shadowsocks/shadowsocks-rust
 Architecture: aarch64_generic
 Installed-Size: 8601600
 Filename: shadowsocks-rust-ssservice_1.23.4-r1_aarch64_generic.ipk
-Size: 3952957
-SHA256sum: b9f25069da28612fab625c725e795481703e8a7418bbeb134c3b750954fe4446
+Size: 3952917
+SHA256sum: 544151c8813310f5fecf0ccf7b8f7c0e2b35145ca410a4332e0eb1c00bfd3d03
 Description:  shadowsocks-rust ssservice. single bundled of local,server,manager. also used to generate safed secured password.
 
 Package: shadowsocks-rust-ssurl

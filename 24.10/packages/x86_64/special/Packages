@@ -533,8 +533,8 @@ URL: https://github.com/shadowsocks/shadowsocks-rust
 Architecture: x86_64
 Installed-Size: 9922560
 Filename: shadowsocks-rust-ssservice_1.23.4-r1_x86_64.ipk
-Size: 4088318
-SHA256sum: 061e695d38640d041d5099f463e73402e3429d1b13f233cbe860343859bd396a
+Size: 4088295
+SHA256sum: 1b97afd4dd51f9c225baf948c9a40c365f7fbe9e267be40af6abf5aad02d9fd9
 Description:  shadowsocks-rust ssservice. single bundled of local,server,manager. also used to generate safed secured password.
 
 Package: shadowsocks-rust-ssurl
