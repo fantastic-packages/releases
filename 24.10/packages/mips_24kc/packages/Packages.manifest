@@ -309,7 +309,7 @@ SHA256sum: e51a1195ae7a62179c82f1911ecffae7c8c28fb50f046171527ed04ec3821be6
 Description:  This package provides the Qt6 Xml v6.8.3 library.
 
 Package: mihomo
-Version: 1.19.9-r1
+Version: 1.19.10-r1
 Depends: libc
 Source: /feed/packages/openwrt-fchomo/mihomo
 SourceName: mihomo
@@ -317,14 +317,14 @@ License: GPL-2.0
 LicenseFiles: LICENSE
 Section: net
 Require-User: mihomo=7890:mihomo=7890
-SourceDateEpoch: 1748505827
+SourceDateEpoch: 1750729717
 URL: https://wiki.metacubex.one
 Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: mips_24kc
-Installed-Size: 32696320
-Filename: mihomo_1.19.9-r1_mips_24kc.ipk
-Size: 10484742
-SHA256sum: 2962601523b16cc66b18d48989f25e350a83a6895af8bc8c7a7edc2c78132d4c
+Installed-Size: 32768000
+Filename: mihomo_1.19.10-r1_mips_24kc.ipk
+Size: 10500695
+SHA256sum: b1c002a0fb6cff3cc1c7d3b538aa4949d44b6e57aca3cc7a67494caa4ea7a6b2
 Description:  Another Mihomo Kernel.
 
 Package: natmapt-client-script-deluge
@@ -653,27 +653,6 @@ Filename: qt6-plugin-libqxdgdesktopportal_6.8.3-r1_mips_24kc.ipk
 Size: 42439
 SHA256sum: a9106f41c40c531f5a454661ddd14572f35f90fb662c0b1f989049791749ac0b
 Description:  Qt6 Plugin libqxdgdesktopportal
-
-Package: rblibtorrent2.0
-Version: 2.0.11-r1
-Depends: libc, boost, boost-system, libatomic1, libgcc1, libopenssl3, libstdcpp6
-Provides: rblibtorrent
-Source: /feed/luci/luci-app-qbittorrent/rblibtorrent
-SourceName: rblibtorrent
-License: BSD
-LicenseFiles: COPYING
-Section: libs
-SourceDateEpoch: 1745791274
-URL: https://www.libtorrent.org
-ABIVersion: 2.0
-Architecture: mips_24kc
-Installed-Size: 4567040
-Filename: rblibtorrent2.0_2.0.11-r1_mips_24kc.ipk
-Size: 1568213
-SHA256sum: 63d5e2714ce3f2ca7f54ac11fad7ebb583f0e3d4f3332c65a7c5c295805af79c
-Description:  Rasterbar libtorrent is a C++ library that aims to be a good alternative to
- all the other bittorrent implementations around. It is a library and not a
- full featured client, although it comes with a working example client.
 
 Package: rgmac
 Version: 1.5.1-r20240803

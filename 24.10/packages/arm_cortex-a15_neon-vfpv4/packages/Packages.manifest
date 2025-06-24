@@ -309,7 +309,7 @@ SHA256sum: 297341767b5e9109000ab68a834c717c7c1c61ce69f884e871e79bc4902d13d9
 Description:  This package provides the Qt6 Xml v6.8.3 library.
 
 Package: mihomo
-Version: 1.19.9-r1
+Version: 1.19.10-r1
 Depends: libc
 Source: /feed/packages/openwrt-fchomo/mihomo
 SourceName: mihomo
@@ -317,14 +317,14 @@ License: GPL-2.0
 LicenseFiles: LICENSE
 Section: net
 Require-User: mihomo=7890:mihomo=7890
-SourceDateEpoch: 1748505827
+SourceDateEpoch: 1750729717
 URL: https://wiki.metacubex.one
 Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: arm_cortex-a15_neon-vfpv4
-Installed-Size: 28579840
-Filename: mihomo_1.19.9-r1_arm_cortex-a15_neon-vfpv4.ipk
-Size: 10781632
-SHA256sum: 5b0f1ae492d13d37d248a8ecc692971f2734ffcdc9656f78a6e44e60f9fe2140
+Installed-Size: 28620800
+Filename: mihomo_1.19.10-r1_arm_cortex-a15_neon-vfpv4.ipk
+Size: 10796846
+SHA256sum: 9c50c4e5329ef23a18a97271bc1739feb146c0454effc8763d977d12bbb43771
 Description:  Another Mihomo Kernel.
 
 Package: natmapt-client-script-deluge
@@ -653,27 +653,6 @@ Filename: qt6-plugin-libqxdgdesktopportal_6.8.3-r1_arm_cortex-a15_neon-vfpv4.ipk
 Size: 40712
 SHA256sum: 16e5cd1405f28bc8299697385589bae57c68b07d5cd5e6b5ffa0c649690fe9ec
 Description:  Qt6 Plugin libqxdgdesktopportal
-
-Package: rblibtorrent2.0
-Version: 2.0.11-r1
-Depends: libc, boost, boost-system, libatomic1, libgcc1, libopenssl3, libstdcpp6
-Provides: rblibtorrent
-Source: /feed/luci/luci-app-qbittorrent/rblibtorrent
-SourceName: rblibtorrent
-License: BSD
-LicenseFiles: COPYING
-Section: libs
-SourceDateEpoch: 1745791274
-URL: https://www.libtorrent.org
-ABIVersion: 2.0
-Architecture: arm_cortex-a15_neon-vfpv4
-Installed-Size: 3041280
-Filename: rblibtorrent2.0_2.0.11-r1_arm_cortex-a15_neon-vfpv4.ipk
-Size: 1256168
-SHA256sum: fe0b427e24a96932a795cf13bb025eb58a5518b63a0c1a639b7ab02804f12202
-Description:  Rasterbar libtorrent is a C++ library that aims to be a good alternative to
- all the other bittorrent implementations around. It is a library and not a
- full featured client, although it comes with a working example client.
 
 Package: rgmac
 Version: 1.5.1-r20240803

@@ -309,7 +309,7 @@ SHA256sum: 2e76126fb40cfd2bcefec5facbd2280385d67f8994156eacf8001047d0a6dd7f
 Description:  This package provides the Qt6 Xml v6.8.3 library.
 
 Package: mihomo
-Version: 1.19.9-r1
+Version: 1.19.10-r1
 Depends: libc
 Source: /feed/packages/openwrt-fchomo/mihomo
 SourceName: mihomo
@@ -317,14 +317,14 @@ License: GPL-2.0
 LicenseFiles: LICENSE
 Section: net
 Require-User: mihomo=7890:mihomo=7890
-SourceDateEpoch: 1748505827
+SourceDateEpoch: 1750729717
 URL: https://wiki.metacubex.one
 Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: aarch64_generic
-Installed-Size: 29777920
-Filename: mihomo_1.19.9-r1_aarch64_generic.ipk
-Size: 10679040
-SHA256sum: 46b87cc356517da1e93690d2481b745b7db7352c1bebbf94298e186dc45b760d
+Installed-Size: 29849600
+Filename: mihomo_1.19.10-r1_aarch64_generic.ipk
+Size: 10699012
+SHA256sum: d7f9dd97f13e3b44586a8c369850fa9974a368f00e4dd05d2f3bdbd655d31dde
 Description:  Another Mihomo Kernel.
 
 Package: natmapt-client-script-deluge
@@ -653,27 +653,6 @@ Filename: qt6-plugin-libqxdgdesktopportal_6.8.3-r1_aarch64_generic.ipk
 Size: 46720
 SHA256sum: 77cf6bba3d0e50647031a66974908de89327d977b7565279a60d441801f2d86c
 Description:  Qt6 Plugin libqxdgdesktopportal
-
-Package: rblibtorrent2.0
-Version: 2.0.11-r1
-Depends: libc, boost, boost-system, libatomic1, libgcc1, libopenssl3, libstdcpp6
-Provides: rblibtorrent
-Source: /feed/luci/luci-app-qbittorrent/rblibtorrent
-SourceName: rblibtorrent
-License: BSD
-LicenseFiles: COPYING
-Section: libs
-SourceDateEpoch: 1745791274
-URL: https://www.libtorrent.org
-ABIVersion: 2.0
-Architecture: aarch64_generic
-Installed-Size: 3809280
-Filename: rblibtorrent2.0_2.0.11-r1_aarch64_generic.ipk
-Size: 1389864
-SHA256sum: e4bc15acb3868b2393ae7a924b25f226c40778f78940a3d7bddf9156c944af1a
-Description:  Rasterbar libtorrent is a C++ library that aims to be a good alternative to
- all the other bittorrent implementations around. It is a library and not a
- full featured client, although it comes with a working example client.
 
 Package: rgmac
 Version: 1.5.1-r20240803

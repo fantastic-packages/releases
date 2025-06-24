@@ -219,15 +219,15 @@ SHA256sum: 36cd910c1de31ce8bcf586f6dd6e8b2be12785a6f51874bcc57e50f5ea2368d8
 Description:  This package provides the Qt6 Xml v6.8.3 library.
 
 Package: mihomo
-Version: 1.19.9-1
+Version: 1.19.10-1
 Depends: libc
 License: GPL-2.0
 Section: net
 Architecture: aarch64_generic
-Installed-Size: 11971240
-Filename: mihomo_1.19.9-1_aarch64_generic.ipk
-Size: 11928944
-SHA256sum: 8f33054ec03fa096d8881a20b8abc2fc61501b5d73559b4ad3f956db2c7e11ca
+Installed-Size: 11992898
+Filename: mihomo_1.19.10-1_aarch64_generic.ipk
+Size: 11949482
+SHA256sum: 3c45742c942ac1bfc5c04522c3e010c636a29b38cdded9b50d882b2789380ae6
 Description:  Another Mihomo Kernel.
 
 Package: natmapt-client-script-deluge

@@ -309,7 +309,7 @@ SHA256sum: 02db87251e77d9e6b791041a6f9248881d5d2249cb621471f5d35c1f9831e47e
 Description:  This package provides the Qt6 Xml v6.8.3 library.
 
 Package: mihomo
-Version: 1.19.9-r1
+Version: 1.19.10-r1
 Depends: libc
 Source: /feed/packages/openwrt-fchomo/mihomo
 SourceName: mihomo
@@ -317,14 +317,14 @@ License: GPL-2.0
 LicenseFiles: LICENSE
 Section: net
 Require-User: mihomo=7890:mihomo=7890
-SourceDateEpoch: 1748505827
+SourceDateEpoch: 1750729717
 URL: https://wiki.metacubex.one
 Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: mipsel_24kc
-Installed-Size: 32696320
-Filename: mihomo_1.19.9-r1_mipsel_24kc.ipk
-Size: 10288442
-SHA256sum: d5325d09631648ac89ef0042469eccb48e76df300f8ba5e81cc0c66d3644919a
+Installed-Size: 32768000
+Filename: mihomo_1.19.10-r1_mipsel_24kc.ipk
+Size: 10303908
+SHA256sum: dbb0a352ade71f4f110db045f01b8210250586821e5084849544218d1abe9559
 Description:  Another Mihomo Kernel.
 
 Package: natmapt-client-script-deluge
@@ -653,27 +653,6 @@ Filename: qt6-plugin-libqxdgdesktopportal_6.8.3-r1_mipsel_24kc.ipk
 Size: 42304
 SHA256sum: db7366a3ada8c04258a3475d391ffa1101cc5e2de0e733ad7493ca9f38dea592
 Description:  Qt6 Plugin libqxdgdesktopportal
-
-Package: rblibtorrent2.0
-Version: 2.0.11-r1
-Depends: libc, boost, boost-system, libatomic1, libgcc1, libopenssl3, libstdcpp6
-Provides: rblibtorrent
-Source: /feed/luci/luci-app-qbittorrent/rblibtorrent
-SourceName: rblibtorrent
-License: BSD
-LicenseFiles: COPYING
-Section: libs
-SourceDateEpoch: 1745791274
-URL: https://www.libtorrent.org
-ABIVersion: 2.0
-Architecture: mipsel_24kc
-Installed-Size: 4567040
-Filename: rblibtorrent2.0_2.0.11-r1_mipsel_24kc.ipk
-Size: 1536366
-SHA256sum: be086728b3bb2f8f005bdf667005ad89e2728c0899c84d8de2dde8f446014896
-Description:  Rasterbar libtorrent is a C++ library that aims to be a good alternative to
- all the other bittorrent implementations around. It is a library and not a
- full featured client, although it comes with a working example client.
 
 Package: rgmac
 Version: 1.5.1-r20240803

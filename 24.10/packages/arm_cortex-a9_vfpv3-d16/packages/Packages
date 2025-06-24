@@ -236,16 +236,16 @@ SHA256sum: d8f4dba1e24c23cfa8774e449e264d20af1109d46503d340993bf82c8b1f2c92
 Description:  This package provides the Qt6 Xml v6.8.3 library.
 
 Package: mihomo
-Version: 1.19.9-r1
+Version: 1.19.10-r1
 Depends: libc
 License: GPL-2.0
 Section: net
 URL: https://wiki.metacubex.one
 Architecture: arm_cortex-a9_vfpv3-d16
-Installed-Size: 28579840
-Filename: mihomo_1.19.9-r1_arm_cortex-a9_vfpv3-d16.ipk
-Size: 10782369
-SHA256sum: dc341c5e1f3465b3b597a4b488d0bab3562633903f16a79785bace95721dabac
+Installed-Size: 28620800
+Filename: mihomo_1.19.10-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 10798116
+SHA256sum: c7b844a502a7eb5570a7d516e5e28368de88eb9e8f6d8c6c9ec75ba48ff349ea
 Description:  Another Mihomo Kernel.
 
 Package: natmapt-client-script-deluge
@@ -472,23 +472,6 @@ Size: 40595
 SHA256sum: 473e9dd69769848e3518eca3cd3fec3dd92a31c15eb72d7dbb17b508046b2d1b
 Description:  Qt6 Plugin libqxdgdesktopportal
 
-Package: rblibtorrent2.0
-Version: 2.0.11-r1
-Depends: libc, boost, boost-system, libatomic1, libgcc1, libopenssl3, libstdcpp6
-Provides: rblibtorrent
-License: BSD
-Section: libs
-URL: https://www.libtorrent.org
-ABIVersion: 2.0
-Architecture: arm_cortex-a9_vfpv3-d16
-Installed-Size: 3051520
-Filename: rblibtorrent2.0_2.0.11-r1_arm_cortex-a9_vfpv3-d16.ipk
-Size: 1258686
-SHA256sum: 5f67dd1d14960b68ae47396407bbb09f757b61c10c363a7f588a383c85fbad99
-Description:  Rasterbar libtorrent is a C++ library that aims to be a good alternative to
- all the other bittorrent implementations around. It is a library and not a
- full featured client, although it comes with a working example client.
-
 Package: rgmac
 Version: 1.5.1-r20240803
 Depends: libc, bash, curl, coreutils-cksum, getopt
@@ -566,6 +549,4 @@ Filename: uci-alwaysonline_0.2025.01.25_arm_cortex-a9_vfpv3-d16.ipk
 Size: 3402
 SHA256sum: 82d046379e3f22062205fe85b892e58b643f1bc6421b4d1b780bb42992525e8a
 Description:  alwaysonline uci metapackage
-
-
 
