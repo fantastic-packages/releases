@@ -151,19 +151,19 @@ SHA256sum: bafe1539efdad77c2d2beed4a01d651c963f3f2a69e896856250b850b77e1c7d
 Description:  Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
 
 Package: luci-app-fchomo
-Version: 25.175.06517~291c305
+Version: 25.177.07374~d87c9f6
 Depends: libc, mihomo, ca-bundle, firewall4, kmod-inet-diag, kmod-nft-tproxy, yq, wget-ssl, coreutils-timeout
 Source: /feed/packages/openwrt-fchomo/luci-app-fchomo
 SourceName: luci-app-fchomo
 Section: luci
-SourceDateEpoch: 1750729717
+SourceDateEpoch: 1750903374
 URL: https://github.com/openwrt/luci
 Maintainer: OpenWrt LuCI community
 Architecture: all
 Installed-Size: 593920
-Filename: luci-app-fchomo_25.175.06517~291c305_all.ipk
-Size: 273161
-SHA256sum: 740ae8785bfe2404917043aef136874bb0ca506cf7338d3b8e4c883fc09a808b
+Filename: luci-app-fchomo_25.177.07374~d87c9f6_all.ipk
+Size: 273167
+SHA256sum: 6f636f18169a40d6fe0f17af36c54850a62c32bc4af7183cf15d7452929219cd
 Description:  FullCombo Shark! supplies maximum customization of mihomo on OpenWrt.
 
 Package: luci-app-interfaces-statistics
@@ -184,19 +184,19 @@ SHA256sum: 390b3feb9bddc17c56477428ae1520f2248caff425426e013b255ff5660a623b
 Description:  Network interfaces statistics
 
 Package: luci-app-internet-detector
-Version: 1.4.6-r1
+Version: 1.5.2-r1
 Depends: libc, internet-detector
 Source: /feed/luci/luci-app-internet-detector/luci-app-internet-detector
 SourceName: luci-app-internet-detector
 Section: luci
-SourceDateEpoch: 1748633730
+SourceDateEpoch: 1750778655
 URL: https://github.com/openwrt/luci
 Maintainer: OpenWrt LuCI community
 Architecture: all
 Installed-Size: 51200
-Filename: luci-app-internet-detector_1.4.6-r1_all.ipk
-Size: 9601
-SHA256sum: 8777afb84eb7d4957c78df0ac6207f2237ed074d0d1ba9a2f3c206bb3283b419
+Filename: luci-app-internet-detector_1.5.2-r1_all.ipk
+Size: 10326
+SHA256sum: afd22769ddc31f477b8a44d0a1c090f3497de50f132b1f95e51e1fc88f6df16d
 Description:  LuCI support for internet-detector
 
 Package: luci-app-ipinfo
@@ -323,14 +323,14 @@ Depends: libc, qbittorrent
 Source: /feed/luci/luci-app-qbittorrent/luci-app-qbittorrent
 SourceName: luci-app-qbittorrent
 Section: luci
-SourceDateEpoch: 1745791274
+SourceDateEpoch: 1750637522
 URL: https://github.com/openwrt/luci
 Maintainer: OpenWrt LuCI community
 Architecture: all
 Installed-Size: 20480
 Filename: luci-app-qbittorrent_1.0.1-r1_all.ipk
-Size: 2657
-SHA256sum: 6b1ddd795f2ab94694ac68de7b6627fbf4bcfa369ec81a8e4d52f589212cee41
+Size: 2649
+SHA256sum: 763c55468ff336c3048ed19b3a0db70ceab9c18518c02c10ebff1a3a5025873b
 Description:  LuCI support for qBittorrent
 
 Package: luci-app-temp-status
@@ -696,31 +696,31 @@ SHA256sum: 8a6dc2d5651951796396556d4a8fba6aef86c6f4dfce0194cf705b720af4c8b6
 Description:  Translation for luci-app-disks-info - 简体中文 (Chinese Simplified)
 
 Package: luci-i18n-fchomo-zh-cn
-Version: 25.175.06517~291c305
+Version: 25.177.07374~d87c9f6
 Depends: libc, luci-app-fchomo
 Source: /feed/packages/openwrt-fchomo/luci-app-fchomo
 SourceName: luci-app-fchomo
 Section: luci
-SourceDateEpoch: 1750729717
+SourceDateEpoch: 1750903374
 Architecture: all
 Installed-Size: 30720
-Filename: luci-i18n-fchomo-zh-cn_25.175.06517~291c305_all.ipk
-Size: 11546
-SHA256sum: 56d2f25fb97ed3d7a70bb1caa945fe05e1a3b120bcae69e2b8e76651a1db73e0
+Filename: luci-i18n-fchomo-zh-cn_25.177.07374~d87c9f6_all.ipk
+Size: 11544
+SHA256sum: 7d621715792771be6d6e275cc276cc03a6179b7d62c14d7d3d3a9f58ad660f31
 Description:  Translation for luci-app-fchomo - 简体中文 (Chinese Simplified)
 
 Package: luci-i18n-fchomo-zh-tw
-Version: 25.175.06517~291c305
+Version: 25.177.07374~d87c9f6
 Depends: libc, luci-app-fchomo
 Source: /feed/packages/openwrt-fchomo/luci-app-fchomo
 SourceName: luci-app-fchomo
 Section: luci
-SourceDateEpoch: 1750729717
+SourceDateEpoch: 1750903374
 Architecture: all
 Installed-Size: 30720
-Filename: luci-i18n-fchomo-zh-tw_25.175.06517~291c305_all.ipk
-Size: 11594
-SHA256sum: 6a6ead91023dfdd2e6ed43270bb13c32fc238db1293e0e5cf21a0cee98028bc8
+Filename: luci-i18n-fchomo-zh-tw_25.177.07374~d87c9f6_all.ipk
+Size: 11601
+SHA256sum: 3a25268c3f201908002528a148705fa2bcfeb3cf311ab489a0ea47ccb7138436
 Description:  Translation for luci-app-fchomo - 繁體中文 (Chinese Traditional)
 
 Package: luci-i18n-interfaces-statistics-ru
@@ -754,17 +754,17 @@ SHA256sum: e349132435d31c1d7bbb5575ce0105ad87d23f5dcfd8353fc7f16bc551dec3ee
 Description:  Translation for luci-app-interfaces-statistics - 简体中文 (Chinese Simplified)
 
 Package: luci-i18n-internet-detector-ru
-Version: 25.150.70530~d0c1f03
+Version: 25.175.55455~f9aa55c
 Depends: libc, luci-app-internet-detector
 Source: /feed/luci/luci-app-internet-detector/luci-app-internet-detector
 SourceName: luci-app-internet-detector
 Section: luci
-SourceDateEpoch: 1748633730
+SourceDateEpoch: 1750778655
 Architecture: all
-Installed-Size: 20480
-Filename: luci-i18n-internet-detector-ru_25.150.70530~d0c1f03_all.ipk
-Size: 5437
-SHA256sum: 11176e70886d761d3a2b76d09a7dd5ab49f4ae3e86647d0c553f778f802b55a9
+Installed-Size: 30720
+Filename: luci-i18n-internet-detector-ru_25.175.55455~f9aa55c_all.ipk
+Size: 5843
+SHA256sum: 69447332c0b62b6feb917929b9a1bc231281648cee94e9c7e8ade77a51fdfe9e
 Description:  Translation for luci-app-internet-detector - Русский (Russian)
 
 Package: luci-i18n-log-viewer-ru
@@ -1195,17 +1195,17 @@ SHA256sum: e77b6bf94e9919898b577beb0571344156ccb9239a9bc2cfff2dbb6b33430d2e
 Description:  Translation for luci-app-pcap-dnsproxy - 繁體中文 (Chinese Traditional)
 
 Package: luci-i18n-qbittorrent-zh-cn
-Version: 25.117.79274~0396953
+Version: 25.174.00722~c1d1850
 Depends: libc, luci-app-qbittorrent
 Source: /feed/luci/luci-app-qbittorrent/luci-app-qbittorrent
 SourceName: luci-app-qbittorrent
 Section: luci
-SourceDateEpoch: 1745791274
+SourceDateEpoch: 1750637522
 Architecture: all
 Installed-Size: 10240
-Filename: luci-i18n-qbittorrent-zh-cn_25.117.79274~0396953_all.ipk
-Size: 1447
-SHA256sum: 18bc9f8221babc1c4cdf5e068739f7cbdf494d67b8b76a5619cc1c1dc6410c0f
+Filename: luci-i18n-qbittorrent-zh-cn_25.174.00722~c1d1850_all.ipk
+Size: 1448
+SHA256sum: 5e75de3ea13328e97c1559cb05257c605b3695c57c3739ed4905dde52762a2ee
 Description:  Translation for luci-app-qbittorrent - 简体中文 (Chinese Simplified)
 
 Package: luci-i18n-temp-status-es
