@@ -226,8 +226,8 @@ Section: net
 Architecture: arm_cortex-a9_vfpv3-d16
 Installed-Size: 12266545
 Filename: mihomo_1.19.11-1_arm_cortex-a9_vfpv3-d16.ipk
-Size: 12243788
-SHA256sum: 977d9600c44bf9511ecd6102298ae907ab9557a46d401af7d71ddf654ad4dee3
+Size: 12243789
+SHA256sum: d36efb9f1b85fd0c4317446165c93170fb7b3b7a65ea291409209d20b6d477d0
 Description:  Another Mihomo Kernel.
 
 Package: natmapt-client-script-deluge

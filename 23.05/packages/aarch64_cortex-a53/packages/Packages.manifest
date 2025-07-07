@@ -305,8 +305,8 @@ Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: aarch64_cortex-a53
 Installed-Size: 12006872
 Filename: mihomo_1.19.11-1_aarch64_cortex-a53.ipk
-Size: 11966059
-SHA256sum: 3a63bb54bee7cf03baaaae2f766589247573ad9d398ab0fc396808aebe581be7
+Size: 11966193
+SHA256sum: b2a1ff5344efc25ff45ec1b672b91715ae5f7c65ddcc0cf6ae0b31ece9be9a9c
 Description:  Another Mihomo Kernel.
 
 Package: natmapt-client-script-deluge

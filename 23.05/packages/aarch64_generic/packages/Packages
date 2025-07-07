@@ -226,8 +226,8 @@ Section: net
 Architecture: aarch64_generic
 Installed-Size: 12006962
 Filename: mihomo_1.19.11-1_aarch64_generic.ipk
-Size: 11965949
-SHA256sum: 7252de897bdfa7721f8daffb405cf6360ba58e2d3eecb214627cbba594b162bd
+Size: 11965920
+SHA256sum: b000e9bab32d0627f222cf7c576e774b602919b6825d974e80c2a32bfb67918c
 Description:  Another Mihomo Kernel.
 
 Package: natmapt-client-script-deluge

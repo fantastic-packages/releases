@@ -226,8 +226,8 @@ Section: net
 Architecture: mipsel_24kc
 Installed-Size: 11567428
 Filename: mihomo_1.19.11-1_mipsel_24kc.ipk
-Size: 11538772
-SHA256sum: 232436070fffca443878992c7ab30d46f5d1c28a7001d38756ebb4c90ffadf37
+Size: 11538912
+SHA256sum: 130e2ad18e95ddca9d4b925eb9d9afe641e840063020ad9769db7be3257644f0
 Description:  Another Mihomo Kernel.
 
 Package: natmapt-client-script-deluge

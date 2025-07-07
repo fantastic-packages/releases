@@ -99,10 +99,10 @@ Version: git-25.177.07374-d87c9f6
 Depends: libc, mihomo, ca-bundle, firewall4, kmod-inet-diag, kmod-nft-tproxy, yq, wget-ssl, coreutils-timeout
 Section: luci
 Architecture: all
-Installed-Size: 269376
+Installed-Size: 272065
 Filename: luci-app-fchomo_git-25.177.07374-d87c9f6_all.ipk
-Size: 270264
-SHA256sum: 3a727bcce40b3c0077926394eee27bef48e1bfffe24a2b4e02a91c4475d1eb66
+Size: 273139
+SHA256sum: 44a9b9c476f50681fb020ad66e916adffa3ff9678c6bad12cff320da1f25b6f2
 Description:  FullCombo Shark! supplies maximum customization of mihomo on OpenWrt.
 
 Package: luci-app-interfaces-statistics
@@ -264,10 +264,10 @@ Depends: libc, luci-app-xray, wget
 License: MPLv2
 Section: Custom
 Architecture: all
-Installed-Size: 3371
+Installed-Size: 3370
 Filename: luci-app-xray-status_3.6.0-1_all.ipk
-Size: 4141
-SHA256sum: 95f79021b4b828aceebf377fac4cbc3f6bec00071c62194db49f98e4221e6d22
+Size: 4142
+SHA256sum: 18a1c39dd055ca181fe8df4ffe8da3b21fdadaea5ba1de785175582b35a372f5
 Description:  LuCI Support for Xray (Client-side Rendered) (status page).
 
 Package: luci-app-xray

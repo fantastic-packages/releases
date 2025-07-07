@@ -146,8 +146,8 @@ Maintainer: OpenWrt LuCI community
 Architecture: all
 Installed-Size: 593920
 Filename: luci-app-fchomo_25.177.07374~d87c9f6_all.ipk
-Size: 270292
-SHA256sum: 2c89f3101985863d89c72926266fe249d565de1b572fe71d51c887d0979d755b
+Size: 273167
+SHA256sum: 6f636f18169a40d6fe0f17af36c54850a62c32bc4af7183cf15d7452929219cd
 Description:  FullCombo Shark! supplies maximum customization of mihomo on OpenWrt.
 
 Package: luci-app-interfaces-statistics
@@ -381,8 +381,8 @@ Maintainer: yichya <mail@yichya.dev>
 Architecture: all
 Installed-Size: 30720
 Filename: luci-app-xray-status_3.6.0-r1_all.ipk
-Size: 4147
-SHA256sum: b8df623ad4c7f0b5ad495abb51b86ec5b5f4dc25725a95c591f90587fdea6905
+Size: 4148
+SHA256sum: 05c466b461bb53c7ef9fc551d7a38ad06fdf45ce738e41c018cae2732467b081
 Description:  LuCI Support for Xray (Client-side Rendered) (status page).
 
 Package: luci-app-xray

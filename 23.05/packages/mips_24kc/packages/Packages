@@ -226,8 +226,8 @@ Section: net
 Architecture: mips_24kc
 Installed-Size: 11796377
 Filename: mihomo_1.19.11-1_mips_24kc.ipk
-Size: 11765457
-SHA256sum: 7c02258fdd91765c1aee9f8a068ccd40a015addcbe687aefacd22dcb6bbb7082
+Size: 11765393
+SHA256sum: 630d853474fe8d466c0ccd7023b0ee94375585a642036194102167dc1da0db8a
 Description:  Another Mihomo Kernel.
 
 Package: natmapt-client-script-deluge

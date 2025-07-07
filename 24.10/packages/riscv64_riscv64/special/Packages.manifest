@@ -719,8 +719,8 @@ Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: riscv64_riscv64
 Installed-Size: 8560640
 Filename: shadowsocks-rust-ssservice_1.23.4-r1_riscv64_riscv64.ipk
-Size: 3702344
-SHA256sum: 5c14c5219b0c524675cb65523d5a7f0f540c898969723c744a26b97bc3766483
+Size: 3702454
+SHA256sum: 32b7162414b7b71b8b011e971b3d6b9ca3334976fc4f8c4dc88458edf1d1625b
 Description:  shadowsocks-rust ssservice. single bundled of local,server,manager. also used to generate safed secured password.
 
 Package: shadowsocks-rust-ssurl
