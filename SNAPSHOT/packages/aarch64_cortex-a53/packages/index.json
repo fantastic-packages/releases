@@ -4,10 +4,11 @@
   "packages": {
     "Toolkit": "0.4.0.2~631954ea-r2",
     "alwaysonline": "1.2.1~206292ca-r1",
+    "fakehttp": "0.9.18-r3",
     "fantastic-keyring": "20241123-r1",
-    "fastfetch": "2.46.0-r1",
+    "fastfetch": "2.47.0-r1",
     "go-stun": "0.1.4~d32c135f-r10",
-    "internet-detector": "1.5.2-r1",
+    "internet-detector": "1.6.0-r1",
     "internet-detector-mod-email": "1.4.5-r1",
     "internet-detector-mod-modem-restart": "1.4.5-r1",
     "libQt6Concurrent": "6.8.3-r1",
