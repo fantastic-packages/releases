@@ -473,80 +473,80 @@ SHA256sum: f2979c2a4f8363257030466a7b93370d2b5f41861e2a638c02f0c64c1fd43778
 Description:  Translation for luci-app-shadowsocks-rust - 繁體中文 (Chinese Traditional)
 
 Package: shadowsocks-rust-config
-Version: 1.23.4-r1
+Version: 1.23.5-r1
 Depends: libc, shadowsocks-rust-ssservice
 License: MIT
 Section: net
 URL: https://github.com/shadowsocks/shadowsocks-rust
 Architecture: all
 Installed-Size: 10240
-Filename: shadowsocks-rust-config_1.23.4-r1_all.ipk
-Size: 1058
-SHA256sum: 8f621cf327c32f7d692becd4381b9f24b6d076fe354f9127904aab5653eb0dbd
+Filename: shadowsocks-rust-config_1.23.5-r1_all.ipk
+Size: 1068
+SHA256sum: 33e3dbd1c3d910003db8d9aec151de84f4d34ffc32bbf25a0182782d8e9c1ee2
 Description:  shadowsocks-rust config scripts
 
 Package: shadowsocks-rust-sslocal
-Version: 1.23.4-r1
+Version: 1.23.5-r1
 Depends: libc, shadowsocks-rust-ssservice
 License: MIT
 Section: net
 URL: https://github.com/shadowsocks/shadowsocks-rust
 Architecture: arm_cortex-a9_vfpv3-d16
 Installed-Size: 10240
-Filename: shadowsocks-rust-sslocal_1.23.4-r1_arm_cortex-a9_vfpv3-d16.ipk
-Size: 1018
-SHA256sum: ae81d476799ae63f8973f64e56470b9f82f93ee69bc00c88a4500386d2ee8aeb
+Filename: shadowsocks-rust-sslocal_1.23.5-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 1015
+SHA256sum: fe423c038172d25a31eb3ccfd83578f9b4b1ec083bc5babca061ac9e879d6f5a
 Description:  shadowsocks-rust sslocal. client provides HTTP/SOCKS proxy, port forwarding, transparent proxy and tun.
 
 Package: shadowsocks-rust-ssmanager
-Version: 1.23.4-r1
+Version: 1.23.5-r1
 Depends: libc, shadowsocks-rust-ssservice
 License: MIT
 Section: net
 URL: https://github.com/shadowsocks/shadowsocks-rust
 Architecture: arm_cortex-a9_vfpv3-d16
 Installed-Size: 10240
-Filename: shadowsocks-rust-ssmanager_1.23.4-r1_arm_cortex-a9_vfpv3-d16.ipk
-Size: 969
-SHA256sum: 5b5df8ed353ece319ade5b07efb90f810baf01a7e97862e39b6b962737466a69
+Filename: shadowsocks-rust-ssmanager_1.23.5-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 970
+SHA256sum: c17f500ed3eb56129c949a11cdc144ae576175c731b1018f58a2f48826668777
 Description:  shadowsocks-rust ssmanager. server manager.
 
 Package: shadowsocks-rust-ssserver
-Version: 1.23.4-r1
+Version: 1.23.5-r1
 Depends: libc, shadowsocks-rust-ssservice
 License: MIT
 Section: net
 URL: https://github.com/shadowsocks/shadowsocks-rust
 Architecture: arm_cortex-a9_vfpv3-d16
 Installed-Size: 10240
-Filename: shadowsocks-rust-ssserver_1.23.4-r1_arm_cortex-a9_vfpv3-d16.ipk
-Size: 954
-SHA256sum: 2b44497e3f174a42c2a4ef62bd7def0c66dbe2bd4e158d6ba0b0c62f3a5c5db3
+Filename: shadowsocks-rust-ssserver_1.23.5-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 956
+SHA256sum: 52f0afb3f86147082e9f2617aefaa4941e5ffed4bd049b9392ebd938a3d2211c
 Description:  shadowsocks-rust ssserver. 
 
 Package: shadowsocks-rust-ssservice
-Version: 1.23.4-r1
+Version: 1.23.5-r1
 Depends: libc
 License: MIT
 Section: net
 URL: https://github.com/shadowsocks/shadowsocks-rust
 Architecture: arm_cortex-a9_vfpv3-d16
-Installed-Size: 7751680
-Filename: shadowsocks-rust-ssservice_1.23.4-r1_arm_cortex-a9_vfpv3-d16.ipk
-Size: 3538277
-SHA256sum: 252fb71fb2b240a1d57b01a8138c3613c5d5f6cad6a3918f1a4f134b34741b0d
+Installed-Size: 7761920
+Filename: shadowsocks-rust-ssservice_1.23.5-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 3543905
+SHA256sum: 5b2855a8881ea8f1b005cbc181f6b547b1969e289763a0ef3d11d3bd688ecc40
 Description:  shadowsocks-rust ssservice. single bundled of local,server,manager. also used to generate safed secured password.
 
 Package: shadowsocks-rust-ssurl
-Version: 1.23.4-r1
+Version: 1.23.5-r1
 Depends: libc
 License: MIT
 Section: net
 URL: https://github.com/shadowsocks/shadowsocks-rust
 Architecture: arm_cortex-a9_vfpv3-d16
 Installed-Size: 2191360
-Filename: shadowsocks-rust-ssurl_1.23.4-r1_arm_cortex-a9_vfpv3-d16.ipk
-Size: 960508
-SHA256sum: 90890e262ec30fd1645a4e1bcd8c240085e81ff483be09217b9dd86c1976c150
+Filename: shadowsocks-rust-ssurl_1.23.5-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 959546
+SHA256sum: 51eca4f6691482bbdea75eda0aada29a166337d47e840db41d2d589247847c20
 Description:  shadowsocks-rust ssurl. for encoding/decoding SIP002 URLs.
 

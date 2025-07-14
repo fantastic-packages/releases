@@ -33,6 +33,23 @@ Size: 1901555
 SHA256sum: 41b59ecb89dc98c9efc8a3beeec4d633b7579306e3c020456e05a32d68004182
 Description:  AlwaysOnline is a HTTP and DNS server which mocks a lot network/internet/portal detection servers.
 
+Package: fakehttp
+Version: 0.9.18-3
+Depends: libc, libmnl0, libnfnetlink0, libnetfilter-queue1, kmod-nft-queue, nftables
+Source: /feed/packages/openwrt-fakehttp
+SourceName: fakehttp
+License: GPL-3.0-or-later
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1752301017
+Maintainer: Yuxi Yang <i@bgme.me>
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 21144
+Filename: fakehttp_0.9.18-3_arm_cortex-a9_vfpv3-d16.ipk
+Size: 21954
+SHA256sum: b4cd7a88b2de63e200977d2d3c6de7de6300a078d56b3f216abf92ff4daf5503
+Description:  Obfuscate all your TCP connections into HTTP protocol.
+
 Package: fantastic-keyring
 Version: 20240427-1
 Depends: libc
@@ -68,20 +85,20 @@ SHA256sum: 19b6a16c1d9a024e7687fa040d5015587e316c4a9cd187c4414aeda73c8b336d
 Description:  Installer for fantastic-packages feeds
 
 Package: fastfetch
-Version: 2.46.0-1
+Version: 2.47.0-1
 Depends: libc
 Source: /feed/packages/openwrt-fastfetch
 SourceName: fastfetch
 License: MIT
 LicenseFiles: LICENSE
 Section: utils
-SourceDateEpoch: 1750436432
+SourceDateEpoch: 1751646003
 Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: arm_cortex-a9_vfpv3-d16
-Installed-Size: 411726
-Filename: fastfetch_2.46.0-1_arm_cortex-a9_vfpv3-d16.ipk
-Size: 412191
-SHA256sum: db460ee3cc610f8ed1ae230223984cf16bcba12bf41879b8e5d3618f351490bf
+Installed-Size: 422993
+Filename: fastfetch_2.47.0-1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 423477
+SHA256sum: 97aa2fa2666773b5560613b07da808bc9f18abac788dcda1c3f3d99f4617f631
 Description:  Fastfetch is a neofetch-like tool for fetching
  system information and displaying it prettily.
 
@@ -135,18 +152,18 @@ SHA256sum: 7bb2fec0f91dd64342a434e463880c8af02e04e8f9b19d7532fc9b5360c49a2e
 Description:  Support modem restart for internet detector.
 
 Package: internet-detector
-Version: 1.5.2-1
+Version: 1.6.0-1
 Depends: libc, lua, luaposix, libuci-lua
 Source: /feed/luci/luci-app-internet-detector/internet-detector
 SourceName: internet-detector
 Section: net
-SourceDateEpoch: 1750778655
+SourceDateEpoch: 1751579857
 Maintainer: gSpot <https://github.com/gSpotx2f/luci-app-internet-detector>
 Architecture: all
-Installed-Size: 12213
-Filename: internet-detector_1.5.2-1_all.ipk
-Size: 13093
-SHA256sum: 321e6def73fe1ba9115a0c668825605aecc5df2f8b81c0068b6c2c08d8dc66b4
+Installed-Size: 12927
+Filename: internet-detector_1.6.0-1_all.ipk
+Size: 13769
+SHA256sum: 697729e49fc1cfae547f251dc7f16dcfc8b6e2320cdc93d88930d55954f14ced
 Description:  Internet-detector is a small daemon
  for checking Internet availability.
  Written in Lua using the luaposix library.
@@ -157,12 +174,12 @@ Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Core
 Source: /feed/luci/luci-app-qbittorrent/qt6base
 SourceName: libQt6Concurrent
 Section: libs
-SourceDateEpoch: 1750637522
+SourceDateEpoch: 1751440335
 Architecture: arm_cortex-a9_vfpv3-d16
-Installed-Size: 6706
+Installed-Size: 6704
 Filename: libQt6Concurrent_6.8.3-1_arm_cortex-a9_vfpv3-d16.ipk
-Size: 7485
-SHA256sum: 43a16714fe10c047d0ab37d6d651e805162590b25da31c771a85aed5f2d5ef66
+Size: 7479
+SHA256sum: 0fa6dea2200a214197d99f77e09933eeb7d2ed25ad1aa84cddc63d27802d04de
 Description:  This package provides the Qt6 Concurrent v6.8.3 library.
 
 Package: libQt6Core
@@ -171,12 +188,12 @@ Depends: libc, libatomic1, libstdcpp6, zlib, libpcre2-16
 Source: /feed/luci/luci-app-qbittorrent/qt6base
 SourceName: libQt6Core
 Section: libs
-SourceDateEpoch: 1750637522
+SourceDateEpoch: 1751440335
 Architecture: arm_cortex-a9_vfpv3-d16
-Installed-Size: 2461089
+Installed-Size: 2461088
 Filename: libQt6Core_6.8.3-1_arm_cortex-a9_vfpv3-d16.ipk
-Size: 2445925
-SHA256sum: a845a73e5565e0d4038d837e4ee98ae3a5b4317cc46491aa7cefd348dc279a2b
+Size: 2446017
+SHA256sum: eb13d1e242434c40e9374993fc6052893100896600be1e7b06c946da29dd4547
 Description:  This package provides the Qt6 Core v6.8.3 library.
 
 Package: libQt6DBus
@@ -185,12 +202,12 @@ Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Core
 Source: /feed/luci/luci-app-qbittorrent/qt6base
 SourceName: libQt6DBus
 Section: libs
-SourceDateEpoch: 1750637522
+SourceDateEpoch: 1751440335
 Architecture: arm_cortex-a9_vfpv3-d16
-Installed-Size: 309919
+Installed-Size: 309920
 Filename: libQt6DBus_6.8.3-1_arm_cortex-a9_vfpv3-d16.ipk
-Size: 308862
-SHA256sum: 32d5f0cf7ffbc419425fdaac78fba5b289943bbaa1a1231c956a04cf190b52a3
+Size: 308814
+SHA256sum: a9c230095c18629c3cdf2879fd52d50fb1fc5781e7b91b6ec99cc0346e7e40d4
 Description:  This package provides the Qt6 DBus v6.8.3 library.
 
 Package: libQt6Gui
@@ -199,12 +216,12 @@ Depends: libc, libatomic1, libstdcpp6, zlib, libQt6DBus, libdrm, libfreetype
 Source: /feed/luci/luci-app-qbittorrent/qt6base
 SourceName: libQt6Gui
 Section: libs
-SourceDateEpoch: 1750637522
+SourceDateEpoch: 1751440335
 Architecture: arm_cortex-a9_vfpv3-d16
 Installed-Size: 2780610
 Filename: libQt6Gui_6.8.3-1_arm_cortex-a9_vfpv3-d16.ipk
-Size: 2766903
-SHA256sum: 4bf4d79ecd67ab4e6ab602d58786f0c57c754cbcbda9d2552200a26cbf1eb90e
+Size: 2766872
+SHA256sum: f260d148fb8eac0218aa681205489d602aa7c7f1dd14480242c8e6340df58f5e
 Description:  This package provides the Qt6 Gui v6.8.3 library.
 
 Package: libQt6Network
@@ -213,12 +230,12 @@ Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Core, libopenssl3, krb5-libs
 Source: /feed/luci/luci-app-qbittorrent/qt6base
 SourceName: libQt6Network
 Section: libs
-SourceDateEpoch: 1750637522
+SourceDateEpoch: 1751440335
 Architecture: arm_cortex-a9_vfpv3-d16
-Installed-Size: 841725
+Installed-Size: 841720
 Filename: libQt6Network_6.8.3-1_arm_cortex-a9_vfpv3-d16.ipk
-Size: 837673
-SHA256sum: 4e36b21bfd439eb42fb9eb5397b37f8f67ef72f02d5425a132ea397ef7d00ab2
+Size: 837667
+SHA256sum: cfeb8abac372302d58af85cc245b4788458d55bbf294226f969154e77dda7715
 Description:  This package provides the Qt6 Network v6.8.3 library.
 
 Package: libQt6PrintSupport
@@ -227,12 +244,12 @@ Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Widgets
 Source: /feed/luci/luci-app-qbittorrent/qt6base
 SourceName: libQt6PrintSupport
 Section: libs
-SourceDateEpoch: 1750637522
+SourceDateEpoch: 1751440335
 Architecture: arm_cortex-a9_vfpv3-d16
-Installed-Size: 153508
+Installed-Size: 153505
 Filename: libQt6PrintSupport_6.8.3-1_arm_cortex-a9_vfpv3-d16.ipk
-Size: 152970
-SHA256sum: e7bfd4e8fe827936b71351a6ed4c7202cf62e4aadf706c26a0ee348f7868663c
+Size: 152976
+SHA256sum: 8b749b4a323bb5e6dab2ba1553477579fe8fd8376776e9e043fc9eeba6dd5785
 Description:  This package provides the Qt6 PrintSupport v6.8.3 library.
 
 Package: libQt6Sql
@@ -241,12 +258,12 @@ Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Core
 Source: /feed/luci/luci-app-qbittorrent/qt6base
 SourceName: libQt6Sql
 Section: libs
-SourceDateEpoch: 1750637522
+SourceDateEpoch: 1751440335
 Architecture: arm_cortex-a9_vfpv3-d16
-Installed-Size: 79510
+Installed-Size: 79508
 Filename: libQt6Sql_6.8.3-1_arm_cortex-a9_vfpv3-d16.ipk
-Size: 80157
-SHA256sum: b714882ba06b984e9889d6896a20985b2f3e1e5ac6b126ec2ba484fba21a7584
+Size: 80192
+SHA256sum: dd0f92a276dd3f452eb6a7641c64159741e52b251eaf095ca796b22099034f19
 Description:  This package provides the Qt6 Sql v6.8.3 library.
 
 Package: libQt6Test
@@ -255,12 +272,12 @@ Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Core
 Source: /feed/luci/luci-app-qbittorrent/qt6base
 SourceName: libQt6Test
 Section: libs
-SourceDateEpoch: 1750637522
+SourceDateEpoch: 1751440335
 Architecture: arm_cortex-a9_vfpv3-d16
-Installed-Size: 142363
+Installed-Size: 142362
 Filename: libQt6Test_6.8.3-1_arm_cortex-a9_vfpv3-d16.ipk
-Size: 142401
-SHA256sum: 0183c4cceaf46eea0f60d196e7ae57b10e542911e76979864357399aad00120f
+Size: 142394
+SHA256sum: 1e7ea3a167800f436e26b9ca408ff6cec9f662b5b35c8c2930b21d8ad232a1c4
 Description:  This package provides the Qt6 Test v6.8.3 library.
 
 Package: libQt6Widgets
@@ -269,12 +286,12 @@ Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Gui
 Source: /feed/luci/luci-app-qbittorrent/qt6base
 SourceName: libQt6Widgets
 Section: libs
-SourceDateEpoch: 1750637522
+SourceDateEpoch: 1751440335
 Architecture: arm_cortex-a9_vfpv3-d16
-Installed-Size: 3094570
+Installed-Size: 3094565
 Filename: libQt6Widgets_6.8.3-1_arm_cortex-a9_vfpv3-d16.ipk
-Size: 3076811
-SHA256sum: a4528ac8cba8dfb4b8b37080c35bc2ef633fa5176eda5e46b5f56533d4afb656
+Size: 3076585
+SHA256sum: fa7420f82e6936abb8c71a11824b33ba693208f4902e49582929464f974b4aa4
 Description:  This package provides the Qt6 Widgets v6.8.3 library.
 
 Package: libQt6Xml
@@ -283,12 +300,12 @@ Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Core
 Source: /feed/luci/luci-app-qbittorrent/qt6base
 SourceName: libQt6Xml
 Section: libs
-SourceDateEpoch: 1750637522
+SourceDateEpoch: 1751440335
 Architecture: arm_cortex-a9_vfpv3-d16
 Installed-Size: 59240
 Filename: libQt6Xml_6.8.3-1_arm_cortex-a9_vfpv3-d16.ipk
-Size: 59930
-SHA256sum: 1be230f5dbd7411da47ef80f949ba837ae8f04e73248cd43d6d4c73d1cb91e87
+Size: 59937
+SHA256sum: 12659f2642bc2b1fe574c2c4f142bf0fb6053e24eace04f26d097c21d394b2f1
 Description:  This package provides the Qt6 Xml v6.8.3 library.
 
 Package: mihomo
@@ -490,7 +507,7 @@ SHA256sum: 5ee7473567f3ab1d9cbcd172a01dd8cf487badc7a41a0d76fd18fd2539d43c4f
 Description:  Read text document directly
 
 Package: qbittorrent
-Version: 5.1.1-1
+Version: 5.1.2-1
 Depends: libc, libgcc1, libstdcpp6, rblibtorrent2.0, libQt6Core, libQt6Network, libQt6Sql, libQt6Xml, qt6-plugin-libqopensslbackend, qt6-plugin-libqsqlite
 Provides: qBittorrent
 Source: /feed/luci/luci-app-qbittorrent/qbittorrent
@@ -498,13 +515,13 @@ SourceName: qbittorrent
 License: GPL-2.0+
 LicenseFiles: COPYING
 Section: net
-SourceDateEpoch: 1750637522
+SourceDateEpoch: 1751440335
 CPE-ID: cpe:/a:qbittorrent:qbittorrent
 Architecture: arm_cortex-a9_vfpv3-d16
-Installed-Size: 7941428
-Filename: qbittorrent_5.1.1-1_arm_cortex-a9_vfpv3-d16.ipk
-Size: 7938145
-SHA256sum: b3964526668fb7d41579e2215c41de55bf05c411de4037867d65397f11f14693
+Installed-Size: 7944585
+Filename: qbittorrent_5.1.2-1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 7941458
+SHA256sum: a6a99d21db8ed898ea75ab7900eb49de8571ca1d10af26c00f97e05524528273
 Description:  qBittorrent is a bittorrent client programmed in C++ / Qt that uses
  libtorrent (sometimes called libtorrent-rasterbar) by Arvid Norberg.
  It aims to be a good alternative to all other bittorrent clients out
@@ -517,12 +534,12 @@ Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Network
 Source: /feed/luci/luci-app-qbittorrent/qt6base
 SourceName: qt6-plugin-libqcertonlybackend
 Section: libs
-SourceDateEpoch: 1750637522
+SourceDateEpoch: 1751440335
 Architecture: arm_cortex-a9_vfpv3-d16
-Installed-Size: 35134
+Installed-Size: 35135
 Filename: qt6-plugin-libqcertonlybackend_6.8.3-1_arm_cortex-a9_vfpv3-d16.ipk
-Size: 35882
-SHA256sum: 5684676f4f17f4178d832ef84aa95483d0d8b6b7dfaf8c9c656e8bfe4793ed48
+Size: 35876
+SHA256sum: 8b6e7d9177e2174d675085a73eafc0e600bdb312483ff34ec27689e2ae1d09cc
 Description:  Qt6 Plugin libqcertonlybackend
 
 Package: qt6-plugin-libqminimal
@@ -531,12 +548,12 @@ Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Gui
 Source: /feed/luci/luci-app-qbittorrent/qt6base
 SourceName: qt6-plugin-libqminimal
 Section: libs
-SourceDateEpoch: 1750637522
+SourceDateEpoch: 1751440335
 Architecture: arm_cortex-a9_vfpv3-d16
-Installed-Size: 8306
+Installed-Size: 8307
 Filename: qt6-plugin-libqminimal_6.8.3-1_arm_cortex-a9_vfpv3-d16.ipk
-Size: 9044
-SHA256sum: 2cb614ceacc8f68daafa3d0cf40c90418f5a977f4c68e7655489406a907c1e5b
+Size: 9056
+SHA256sum: 467c555b6cc7bb4c847a23f2441a215698fa82b2f492942b110e91064007832c
 Description:  Qt6 Plugin libqminimal
 
 Package: qt6-plugin-libqnetworkmanager
@@ -545,12 +562,12 @@ Depends: libc, libatomic1, libstdcpp6, zlib, libQt6DBus, libQt6Network
 Source: /feed/luci/luci-app-qbittorrent/qt6base
 SourceName: qt6-plugin-libqnetworkmanager
 Section: libs
-SourceDateEpoch: 1750637522
+SourceDateEpoch: 1751440335
 Architecture: arm_cortex-a9_vfpv3-d16
 Installed-Size: 24843
 Filename: qt6-plugin-libqnetworkmanager_6.8.3-1_arm_cortex-a9_vfpv3-d16.ipk
-Size: 25536
-SHA256sum: 0be34cc824003cb421279f949b43e9c73fa4ca32ba12bddbd5dbf4c3563256ff
+Size: 25535
+SHA256sum: c0c13eb80e109d95bc3e794202427132b1d2fd5249b19e3e29a389b74a275bf8
 Description:  Qt6 Plugin libqnetworkmanager
 
 Package: qt6-plugin-libqoffscreen
@@ -559,12 +576,12 @@ Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Gui
 Source: /feed/luci/luci-app-qbittorrent/qt6base
 SourceName: qt6-plugin-libqoffscreen
 Section: libs
-SourceDateEpoch: 1750637522
+SourceDateEpoch: 1751440335
 Architecture: arm_cortex-a9_vfpv3-d16
 Installed-Size: 35190
 Filename: qt6-plugin-libqoffscreen_6.8.3-1_arm_cortex-a9_vfpv3-d16.ipk
-Size: 35929
-SHA256sum: 6bcccceaf9903179d68aa18a22c1284109c1d4e22e0d47c5bb3eaa7505d2bf1b
+Size: 35908
+SHA256sum: 1956faa07a334394090baabc417619e438b9905ca78c303c37fc0358ce083d41
 Description:  Qt6 Plugin libqoffscreen
 
 Package: qt6-plugin-libqopensslbackend
@@ -573,12 +590,12 @@ Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Network
 Source: /feed/luci/luci-app-qbittorrent/qt6base
 SourceName: qt6-plugin-libqopensslbackend
 Section: libs
-SourceDateEpoch: 1750637522
+SourceDateEpoch: 1751440335
 Architecture: arm_cortex-a9_vfpv3-d16
-Installed-Size: 113855
+Installed-Size: 113856
 Filename: qt6-plugin-libqopensslbackend_6.8.3-1_arm_cortex-a9_vfpv3-d16.ipk
-Size: 114212
-SHA256sum: 28ec45888d270353a0ccd8fed48c2a34808d9ac39c7c56e29d9ced15e3089b8f
+Size: 114236
+SHA256sum: 17fb433bbed880576bc0545b60e688fe3764d62e8fa724af4ff147c03cf62ad6
 Description:  Qt6 Plugin libqopensslbackend
 
 Package: qt6-plugin-libqsqlite
@@ -587,12 +604,12 @@ Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Sql
 Source: /feed/luci/luci-app-qbittorrent/qt6base
 SourceName: qt6-plugin-libqsqlite
 Section: libs
-SourceDateEpoch: 1750637522
+SourceDateEpoch: 1751440335
 Architecture: arm_cortex-a9_vfpv3-d16
-Installed-Size: 963642
+Installed-Size: 963643
 Filename: qt6-plugin-libqsqlite_6.8.3-1_arm_cortex-a9_vfpv3-d16.ipk
-Size: 963133
-SHA256sum: a68824c6dfa2f5184d3af7fcf8236c8e6b4a6e55d168f1ef8e71d23a8d38950e
+Size: 963166
+SHA256sum: 6316e53eb709bce89fd3f62d8a7e269944b30483653fd9f84367624e8565d895
 Description:  Qt6 Plugin libqsqlite
 
 Package: qt6-plugin-libqtuiotouchplugin
@@ -601,12 +618,12 @@ Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Gui, libQt6Network
 Source: /feed/luci/luci-app-qbittorrent/qt6base
 SourceName: qt6-plugin-libqtuiotouchplugin
 Section: libs
-SourceDateEpoch: 1750637522
+SourceDateEpoch: 1751440335
 Architecture: arm_cortex-a9_vfpv3-d16
-Installed-Size: 35891
+Installed-Size: 35893
 Filename: qt6-plugin-libqtuiotouchplugin_6.8.3-1_arm_cortex-a9_vfpv3-d16.ipk
-Size: 36682
-SHA256sum: 142345410bcd70eedc16e3547a775cf2dba52f2723dc278471eaef43273ae9b7
+Size: 36679
+SHA256sum: 05138fef7bc5a33e5d184d07ad33912b04f932d07148c5c16ff9d8b7f14aa9fb
 Description:  Qt6 Plugin libqtuiotouchplugin
 
 Package: qt6-plugin-libqxdgdesktopportal
@@ -615,12 +632,12 @@ Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Gui
 Source: /feed/luci/luci-app-qbittorrent/qt6base
 SourceName: qt6-plugin-libqxdgdesktopportal
 Section: libs
-SourceDateEpoch: 1750637522
+SourceDateEpoch: 1751440335
 Architecture: arm_cortex-a9_vfpv3-d16
-Installed-Size: 39781
+Installed-Size: 39783
 Filename: qt6-plugin-libqxdgdesktopportal_6.8.3-1_arm_cortex-a9_vfpv3-d16.ipk
-Size: 40462
-SHA256sum: b71eaf1cadd2e7928c1c1ef340b7957980a184697be2d0d36d5f8c001045d778
+Size: 40467
+SHA256sum: edb0699fba8d68274480b96051b533e59e29d166793658ea66c25a668bcb3429
 Description:  Qt6 Plugin libqxdgdesktopportal
 
 Package: rblibtorrent2.0
@@ -632,13 +649,13 @@ SourceName: rblibtorrent
 License: BSD
 LicenseFiles: COPYING
 Section: libs
-SourceDateEpoch: 1750637522
+SourceDateEpoch: 1751440335
 ABIVersion: 2.0
 Architecture: arm_cortex-a9_vfpv3-d16
-Installed-Size: 1246110
+Installed-Size: 1246108
 Filename: rblibtorrent2.0_2.0.11-1_arm_cortex-a9_vfpv3-d16.ipk
-Size: 1240388
-SHA256sum: 103434dcc28a703741944643fd77cac2180c0f9c9b47c934e387b61208405344
+Size: 1240327
+SHA256sum: 68745561a32b264b0784f1569ac9175707509691e1a026400cc98fb62d127e2e
 Description:  Rasterbar libtorrent is a C++ library that aims to be a good alternative to
  all the other bittorrent implementations around. It is a library and not a
  full featured client, although it comes with a working example client.

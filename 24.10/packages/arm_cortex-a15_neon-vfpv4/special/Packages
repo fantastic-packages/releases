@@ -473,80 +473,80 @@ SHA256sum: f2979c2a4f8363257030466a7b93370d2b5f41861e2a638c02f0c64c1fd43778
 Description:  Translation for luci-app-shadowsocks-rust - 繁體中文 (Chinese Traditional)
 
 Package: shadowsocks-rust-config
-Version: 1.23.4-r1
+Version: 1.23.5-r1
 Depends: libc, shadowsocks-rust-ssservice
 License: MIT
 Section: net
 URL: https://github.com/shadowsocks/shadowsocks-rust
 Architecture: all
 Installed-Size: 10240
-Filename: shadowsocks-rust-config_1.23.4-r1_all.ipk
-Size: 1058
-SHA256sum: 8f621cf327c32f7d692becd4381b9f24b6d076fe354f9127904aab5653eb0dbd
+Filename: shadowsocks-rust-config_1.23.5-r1_all.ipk
+Size: 1068
+SHA256sum: 33e3dbd1c3d910003db8d9aec151de84f4d34ffc32bbf25a0182782d8e9c1ee2
 Description:  shadowsocks-rust config scripts
 
 Package: shadowsocks-rust-sslocal
-Version: 1.23.4-r1
+Version: 1.23.5-r1
 Depends: libc, shadowsocks-rust-ssservice
 License: MIT
 Section: net
 URL: https://github.com/shadowsocks/shadowsocks-rust
 Architecture: arm_cortex-a15_neon-vfpv4
 Installed-Size: 10240
-Filename: shadowsocks-rust-sslocal_1.23.4-r1_arm_cortex-a15_neon-vfpv4.ipk
-Size: 1021
-SHA256sum: a86c71a5579e2d311c24d9b6cc5ac20b1ca4684445a6d3066b5c691ede5575ad
+Filename: shadowsocks-rust-sslocal_1.23.5-r1_arm_cortex-a15_neon-vfpv4.ipk
+Size: 1020
+SHA256sum: 8d02ae792e2605f07f774941f3b7b81664add2c7d95d037e1cfed1592c6406c5
 Description:  shadowsocks-rust sslocal. client provides HTTP/SOCKS proxy, port forwarding, transparent proxy and tun.
 
 Package: shadowsocks-rust-ssmanager
-Version: 1.23.4-r1
+Version: 1.23.5-r1
 Depends: libc, shadowsocks-rust-ssservice
 License: MIT
 Section: net
 URL: https://github.com/shadowsocks/shadowsocks-rust
 Architecture: arm_cortex-a15_neon-vfpv4
 Installed-Size: 10240
-Filename: shadowsocks-rust-ssmanager_1.23.4-r1_arm_cortex-a15_neon-vfpv4.ipk
-Size: 968
-SHA256sum: 0ca96f2bb63f816b987041da249ae0aea921637a713518880b3cb9e3cceca999
+Filename: shadowsocks-rust-ssmanager_1.23.5-r1_arm_cortex-a15_neon-vfpv4.ipk
+Size: 969
+SHA256sum: da4d7224757c57e48dbec3c53139417ba7174ddc6454f7dc689b9d29d3a29ecb
 Description:  shadowsocks-rust ssmanager. server manager.
 
 Package: shadowsocks-rust-ssserver
-Version: 1.23.4-r1
+Version: 1.23.5-r1
 Depends: libc, shadowsocks-rust-ssservice
 License: MIT
 Section: net
 URL: https://github.com/shadowsocks/shadowsocks-rust
 Architecture: arm_cortex-a15_neon-vfpv4
 Installed-Size: 10240
-Filename: shadowsocks-rust-ssserver_1.23.4-r1_arm_cortex-a15_neon-vfpv4.ipk
-Size: 957
-SHA256sum: be3de3fa5f464493990f52a1879b56db017ad61bbdcd45ccd6367ef1cbac93db
+Filename: shadowsocks-rust-ssserver_1.23.5-r1_arm_cortex-a15_neon-vfpv4.ipk
+Size: 954
+SHA256sum: 28301bdd459c9944df5cbeaa85bba12d8f73065f89df99a2e4f9caeba9a2ec9f
 Description:  shadowsocks-rust ssserver. 
 
 Package: shadowsocks-rust-ssservice
-Version: 1.23.4-r1
+Version: 1.23.5-r1
 Depends: libc
 License: MIT
 Section: net
 URL: https://github.com/shadowsocks/shadowsocks-rust
 Architecture: arm_cortex-a15_neon-vfpv4
-Installed-Size: 7751680
-Filename: shadowsocks-rust-ssservice_1.23.4-r1_arm_cortex-a15_neon-vfpv4.ipk
-Size: 3538618
-SHA256sum: fc087e639d68e9721b4e95a74ac0d3c42011f010ab8356cc0a6ee2400408f209
+Installed-Size: 7761920
+Filename: shadowsocks-rust-ssservice_1.23.5-r1_arm_cortex-a15_neon-vfpv4.ipk
+Size: 3543997
+SHA256sum: 50847950f29cbf1bc10c6dfefe0d6db34356849ff0eb65473412bf566bdd879b
 Description:  shadowsocks-rust ssservice. single bundled of local,server,manager. also used to generate safed secured password.
 
 Package: shadowsocks-rust-ssurl
-Version: 1.23.4-r1
+Version: 1.23.5-r1
 Depends: libc
 License: MIT
 Section: net
 URL: https://github.com/shadowsocks/shadowsocks-rust
 Architecture: arm_cortex-a15_neon-vfpv4
 Installed-Size: 2191360
-Filename: shadowsocks-rust-ssurl_1.23.4-r1_arm_cortex-a15_neon-vfpv4.ipk
-Size: 960218
-SHA256sum: a6cb897222756af45ba297a0ac47222c6bd2d744a7d4f3ab547f7120a87e6cad
+Filename: shadowsocks-rust-ssurl_1.23.5-r1_arm_cortex-a15_neon-vfpv4.ipk
+Size: 959338
+SHA256sum: 2d7205845686c395317c8f9f70af8a2cbe779a56408f738085863ebcf40af959
 Description:  shadowsocks-rust ssurl. for encoding/decoding SIP002 URLs.
 
