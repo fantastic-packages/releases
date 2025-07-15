@@ -389,10 +389,10 @@ Section: Custom
 SourceDateEpoch: 1747136092
 Maintainer: yichya <mail@yichya.dev>
 Architecture: all
-Installed-Size: 3371
+Installed-Size: 3370
 Filename: luci-app-xray-status_3.6.0-1_all.ipk
-Size: 4140
-SHA256sum: 886794c1cff1b51799c377076aceccee9d0bfb000660704d9f3a0c46da258997
+Size: 4147
+SHA256sum: 011eb2d6de9411b15c2dab9ed14bca4e257727aec073c39185804ed9b7d86d7d
 Description:  LuCI Support for Xray (Client-side Rendered) (status page).
 
 Package: luci-app-xray

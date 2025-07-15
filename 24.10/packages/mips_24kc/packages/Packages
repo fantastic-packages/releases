@@ -20,8 +20,8 @@ URL: https://github.com/Jamesits/alwaysonline
 Architecture: mips_24kc
 Installed-Size: 6563840
 Filename: alwaysonline_1.2.1~206292ca-r1_mips_24kc.ipk
-Size: 2265167
-SHA256sum: 41e9a3c8faba149d5d30db1d423f436b7c5689803f865ba3f2c14003d228d237
+Size: 2265536
+SHA256sum: 8fcdc68d4f6591b20c0ee10dff55a7b70fd82d35cfeb43b3e9eeabac705705d1
 Description:  AlwaysOnline is a HTTP and DNS server which mocks a lot network/internet/portal detection servers.
 
 Package: fakehttp
@@ -68,10 +68,10 @@ License: MIT
 Section: utils
 URL: https://github.com/fastfetch-cli/fastfetch
 Architecture: mips_24kc
-Installed-Size: 1259520
+Installed-Size: 1187840
 Filename: fastfetch_2.47.0-r1_mips_24kc.ipk
-Size: 399405
-SHA256sum: 002d547f1196979c3c4f1628e37d4a2b7118801a5e26e36d35c90632b9f4eef8
+Size: 388858
+SHA256sum: 0e9d2a6c4c606d3bbe3eb6c2390082ae0d513997086f342f43a8993f09580818
 Description:  Fastfetch is a neofetch-like tool for fetching
  system information and displaying it prettily.
 
@@ -84,34 +84,34 @@ URL: https://github.com/ccding/go-stun
 Architecture: mips_24kc
 Installed-Size: 2478080
 Filename: go-stun_0.1.4~d32c135f-r10_mips_24kc.ipk
-Size: 909562
-SHA256sum: 5805d5d58139d10b2d00c3f1b06b80187d9afbcc5ee4c96bbe9711bfef41bd46
+Size: 909664
+SHA256sum: 9d2e29b67602d7e1a5c5813cb7a72781d72f717441d8fad2019e2f9e992bf6ea
 Description:  go-stun is a STUN (RFC 3489, 5389) client implementation in golang (a.k.a. UDP hole punching).
  RFC 3489: STUN - Simple Traversal of User Datagram Protocol (UDP) Through Network Address Translators (NATs)
  RFC 5389: Session Traversal Utilities for NAT (STUN)
 
 Package: internet-detector-mod-email
-Version: 1.5.2-r1
+Version: 1.6.0-r1
 Depends: libc, internet-detector, mailsend
 Section: net
 URL: https://github.com/gSpotx2f/luci-app-internet-detector
 Architecture: all
 Installed-Size: 20480
-Filename: internet-detector-mod-email_1.5.2-r1_all.ipk
-Size: 2836
-SHA256sum: 17a60f214d5f8b30b15735e0a003306788a381763aafc99b1f27f45fcccfa894
+Filename: internet-detector-mod-email_1.6.0-r1_all.ipk
+Size: 2838
+SHA256sum: f2746711ea83ca28a93522cb04a26305df70413bf81b5dc22143f083af0dfae7
 Description:  Email support for internet-detector.
 
 Package: internet-detector-mod-modem-restart
-Version: 1.5.2-r1
+Version: 1.6.0-r1
 Depends: libc, internet-detector, modemmanager
 Section: net
 URL: https://github.com/gSpotx2f/luci-app-internet-detector
 Architecture: all
 Installed-Size: 10240
-Filename: internet-detector-mod-modem-restart_1.5.2-r1_all.ipk
-Size: 2191
-SHA256sum: 2058a0eb67f47a4450e4d32a54965da7345afe87d15d74b904ee8e32f6a2ca3a
+Filename: internet-detector-mod-modem-restart_1.6.0-r1_all.ipk
+Size: 2193
+SHA256sum: 18cbbe8b5e967f496a3576d11b42fe6964a0d7b62784bdfa727262ffeb8d5ed7
 Description:  Support modem restart for internet detector.
 
 Package: internet-detector
@@ -257,8 +257,8 @@ URL: https://wiki.metacubex.one
 Architecture: mips_24kc
 Installed-Size: 32768000
 Filename: mihomo_1.19.11-r1_mips_24kc.ipk
-Size: 10516011
-SHA256sum: cedb277942bfb85b0e2d2afee321e2c7489cc1f3fbd50c708ef4d3501600f155
+Size: 10517057
+SHA256sum: b65724e0ddd19f1f7299ab56b481a693652d99c4e74d46da6a1b6d1445d0aa99
 Description:  Another Mihomo Kernel.
 
 Package: natmapt-client-script-deluge
@@ -549,8 +549,8 @@ URL: https://github.com/showwin/speedtest-go
 Architecture: mips_24kc
 Installed-Size: 27146240
 Filename: speedtest-go_1.7.10-r1_mips_24kc.ipk
-Size: 9542498
-SHA256sum: 56b31bc00da815b93964e5886789f3dba7b3e896c376f6f16a339d5e8d096334
+Size: 9540728
+SHA256sum: 6bcd8ff0547f00b0fa16622cb58629abbceadbd838236b16d07e229c72037bed
 Description:  Command Line Interface and pure Go API to
  Test Internet Speed using speedtest.net
 

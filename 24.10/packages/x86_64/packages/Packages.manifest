@@ -31,8 +31,8 @@ Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: x86_64
 Installed-Size: 6041600
 Filename: alwaysonline_1.2.1~206292ca-r1_x86_64.ipk
-Size: 2521233
-SHA256sum: f9d00e2b52c3813dc8612043ff5c3a92423e3cf02f7d5fa327d8eb9696e3442d
+Size: 2521841
+SHA256sum: 0a0ae75782e8f04f8bf58d181029f1d8b7e8dc1dd9014c98208f61f4e81901f1
 Description:  AlwaysOnline is a HTTP and DNS server which mocks a lot network/internet/portal detection servers.
 
 Package: fakehttp
@@ -99,10 +99,10 @@ SourceDateEpoch: 1751646003
 URL: https://github.com/fastfetch-cli/fastfetch
 Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: x86_64
-Installed-Size: 1157120
+Installed-Size: 1136640
 Filename: fastfetch_2.47.0-r1_x86_64.ipk
-Size: 376101
-SHA256sum: 2dfd40634f7de961b00431388960b7098730d889970c5d2ae745bf368f24093a
+Size: 366853
+SHA256sum: 295670f459d6b73fc5631ed69d4306307de645fbb3d4187a2fe867ed3a787812
 Description:  Fastfetch is a neofetch-like tool for fetching
  system information and displaying it prettily.
 
@@ -120,42 +120,42 @@ Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: x86_64
 Installed-Size: 2232320
 Filename: go-stun_0.1.4~d32c135f-r10_x86_64.ipk
-Size: 972221
-SHA256sum: 1692d5dc276e42d57c10caa6c7c1f9777d322b0946ba0af6f4b82c6c01104a15
+Size: 972056
+SHA256sum: 46145f33326599a9cb5152583d0eb19c97350a5c1f258ae397d4d4cd8199750b
 Description:  go-stun is a STUN (RFC 3489, 5389) client implementation in golang (a.k.a. UDP hole punching).
  RFC 3489: STUN - Simple Traversal of User Datagram Protocol (UDP) Through Network Address Translators (NATs)
  RFC 5389: Session Traversal Utilities for NAT (STUN)
 
 Package: internet-detector-mod-email
-Version: 1.5.2-r1
+Version: 1.6.0-r1
 Depends: libc, internet-detector, mailsend
 Source: /feed/luci/luci-app-internet-detector/internet-detector-mod-email
 SourceName: internet-detector-mod-email
 Section: net
-SourceDateEpoch: 1750778655
+SourceDateEpoch: 1751579857
 URL: https://github.com/gSpotx2f/luci-app-internet-detector
 Maintainer: gSpot <https://github.com/gSpotx2f/luci-app-internet-detector>
 Architecture: all
 Installed-Size: 20480
-Filename: internet-detector-mod-email_1.5.2-r1_all.ipk
-Size: 2836
-SHA256sum: 17a60f214d5f8b30b15735e0a003306788a381763aafc99b1f27f45fcccfa894
+Filename: internet-detector-mod-email_1.6.0-r1_all.ipk
+Size: 2838
+SHA256sum: f2746711ea83ca28a93522cb04a26305df70413bf81b5dc22143f083af0dfae7
 Description:  Email support for internet-detector.
 
 Package: internet-detector-mod-modem-restart
-Version: 1.5.2-r1
+Version: 1.6.0-r1
 Depends: libc, internet-detector, modemmanager
 Source: /feed/luci/luci-app-internet-detector/internet-detector-mod-modem-restart
 SourceName: internet-detector-mod-modem-restart
 Section: net
-SourceDateEpoch: 1750778655
+SourceDateEpoch: 1751579857
 URL: https://github.com/gSpotx2f/luci-app-internet-detector
 Maintainer: gSpot <https://github.com/gSpotx2f/luci-app-internet-detector>
 Architecture: all
 Installed-Size: 10240
-Filename: internet-detector-mod-modem-restart_1.5.2-r1_all.ipk
-Size: 2191
-SHA256sum: 2058a0eb67f47a4450e4d32a54965da7345afe87d15d74b904ee8e32f6a2ca3a
+Filename: internet-detector-mod-modem-restart_1.6.0-r1_all.ipk
+Size: 2193
+SHA256sum: 18cbbe8b5e967f496a3576d11b42fe6964a0d7b62784bdfa727262ffeb8d5ed7
 Description:  Support modem restart for internet detector.
 
 Package: internet-detector
@@ -341,8 +341,8 @@ Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: x86_64
 Installed-Size: 31365120
 Filename: mihomo_1.19.11-r1_x86_64.ipk
-Size: 11666286
-SHA256sum: bdc8607ddd3b160a02a6fdcc50fa16283fde3bd7c996c57f99e8090dd1c5b87e
+Size: 11667040
+SHA256sum: e634d89ec137b69165ae480306c668da518c7d39d26ca3e158fa88707a0535e3
 Description:  Another Mihomo Kernel.
 
 Package: natmapt-client-script-deluge
@@ -725,8 +725,8 @@ Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: x86_64
 Installed-Size: 25077760
 Filename: speedtest-go_1.7.10-r1_x86_64.ipk
-Size: 10587608
-SHA256sum: f695bb0db7fe90eb6d538664467e071412afdc36bc4dd5b61403742de5393a88
+Size: 10587749
+SHA256sum: 67b82614e3778d3fcea2b01687b2350ddbe6db3bac2c42e7d83b96f207c2ed84
 Description:  Command Line Interface and pure Go API to
  Test Internet Speed using speedtest.net
 

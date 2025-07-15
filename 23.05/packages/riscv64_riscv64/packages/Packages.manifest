@@ -95,10 +95,10 @@ Section: utils
 SourceDateEpoch: 1751646003
 Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: riscv64_riscv64
-Installed-Size: 400373
+Installed-Size: 390361
 Filename: fastfetch_2.47.0-1_riscv64_riscv64.ipk
-Size: 401147
-SHA256sum: 50e46930c03eff3cb4ff13c2c7f738bfd74054de27cfff00a9aefed8d276b8a7
+Size: 391034
+SHA256sum: b8502e5c9ab5da232898b5cde6757f0ae65a0c512d2fb7650bd7861b220bab32
 Description:  Fastfetch is a neofetch-like tool for fetching
  system information and displaying it prettily.
 
@@ -122,33 +122,33 @@ Description:  go-stun is a STUN (RFC 3489, 5389) client implementation in golang
  RFC 5389: Session Traversal Utilities for NAT (STUN)
 
 Package: internet-detector-mod-email
-Version: 1.5.2-1
+Version: 1.6.0-1
 Depends: libc, internet-detector, mailsend
 Source: /feed/luci/luci-app-internet-detector/internet-detector-mod-email
 SourceName: internet-detector-mod-email
 Section: net
-SourceDateEpoch: 1750778655
+SourceDateEpoch: 1751579857
 Maintainer: gSpot <https://github.com/gSpotx2f/luci-app-internet-detector>
 Architecture: all
-Installed-Size: 2097
-Filename: internet-detector-mod-email_1.5.2-1_all.ipk
+Installed-Size: 2100
+Filename: internet-detector-mod-email_1.6.0-1_all.ipk
 Size: 2828
-SHA256sum: ba6baed9a6290527c376ff717cff65dc18033de08923132a56be25f79c3d8d69
+SHA256sum: c23fadf0e867e93981173b1a4afb006781b7da9a1ea1074e8621d70be12a276d
 Description:  Email support for internet-detector.
 
 Package: internet-detector-mod-modem-restart
-Version: 1.5.2-1
+Version: 1.6.0-1
 Depends: libc, internet-detector, modemmanager
 Source: /feed/luci/luci-app-internet-detector/internet-detector-mod-modem-restart
 SourceName: internet-detector-mod-modem-restart
 Section: net
-SourceDateEpoch: 1750778655
+SourceDateEpoch: 1751579857
 Maintainer: gSpot <https://github.com/gSpotx2f/luci-app-internet-detector>
 Architecture: all
-Installed-Size: 1408
-Filename: internet-detector-mod-modem-restart_1.5.2-1_all.ipk
-Size: 2173
-SHA256sum: 7bb2fec0f91dd64342a434e463880c8af02e04e8f9b19d7532fc9b5360c49a2e
+Installed-Size: 1411
+Filename: internet-detector-mod-modem-restart_1.6.0-1_all.ipk
+Size: 2179
+SHA256sum: fb326a7545703ec41926b6076cd9833f08dbcde9de76d175b8d87af8f25a6611
 Description:  Support modem restart for internet detector.
 
 Package: internet-detector
@@ -320,10 +320,10 @@ Require-User: mihomo=7890:mihomo=7890
 SourceDateEpoch: 1750903374
 Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: riscv64_riscv64
-Installed-Size: 12398788
+Installed-Size: 12398789
 Filename: mihomo_1.19.11-1_riscv64_riscv64.ipk
-Size: 12358371
-SHA256sum: 20125230863ba081285c72f40e25551c74843b28c1e35916ef57d1761ffb4ff7
+Size: 12358581
+SHA256sum: 9f428bb0e776950325c8daac10085598d1cf474babcef80515124ac5dbff5265
 Description:  Another Mihomo Kernel.
 
 Package: natmapt-client-script-deluge

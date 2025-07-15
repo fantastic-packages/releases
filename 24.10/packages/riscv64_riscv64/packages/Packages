@@ -7,8 +7,8 @@ URL: https://github.com/chengr28/Toolkit
 Architecture: riscv64_riscv64
 Installed-Size: 317440
 Filename: Toolkit_0.4.0.2~631954ea-r2_riscv64_riscv64.ipk
-Size: 123960
-SHA256sum: b19538a6ca8455d85e7689bbb54b4402dc739626506591d598d291ca543e809c
+Size: 123969
+SHA256sum: 0b4e272851820aa097a7b2a90a6051fd0deb062fe5c40b03549b27f629399292
 Description:  A network util can ping with DNS request.
 
 Package: alwaysonline
@@ -20,8 +20,8 @@ URL: https://github.com/Jamesits/alwaysonline
 Architecture: riscv64_riscv64
 Installed-Size: 5601280
 Filename: alwaysonline_1.2.1~206292ca-r1_riscv64_riscv64.ipk
-Size: 2267463
-SHA256sum: e0f1503fe866d1a6f3c099f9a8349c0a8fd98e2b76f53108cc07277fe51842f2
+Size: 2267042
+SHA256sum: 6c9225e368ecf589bb68fd7f7e2bc282705a57164139e40a01fc4c3a04592719
 Description:  AlwaysOnline is a HTTP and DNS server which mocks a lot network/internet/portal detection servers.
 
 Package: fakehttp
@@ -68,10 +68,10 @@ License: MIT
 Section: utils
 URL: https://github.com/fastfetch-cli/fastfetch
 Architecture: riscv64_riscv64
-Installed-Size: 1075200
+Installed-Size: 1054720
 Filename: fastfetch_2.47.0-r1_riscv64_riscv64.ipk
-Size: 403904
-SHA256sum: 115a9f09b5d5308fde0751bd89101090500c71e76f6a472f73d5ee81410bdd09
+Size: 392660
+SHA256sum: 3eee1f36d5d9cafdebbf5183c257be79d9d7df4965e5dc4c062f01da25b1b5df
 Description:  Fastfetch is a neofetch-like tool for fetching
  system information and displaying it prettily.
 
@@ -84,34 +84,34 @@ URL: https://github.com/ccding/go-stun
 Architecture: riscv64_riscv64
 Installed-Size: 2140160
 Filename: go-stun_0.1.4~d32c135f-r10_riscv64_riscv64.ipk
-Size: 908480
-SHA256sum: bc22be56da1f6b0896611f99406baa4765d7636b3efe89cb54c25d51ce592637
+Size: 908251
+SHA256sum: 4a293a853bd17370a7db346da48423473fb207148506d199c6e47d5e36cdcbdc
 Description:  go-stun is a STUN (RFC 3489, 5389) client implementation in golang (a.k.a. UDP hole punching).
  RFC 3489: STUN - Simple Traversal of User Datagram Protocol (UDP) Through Network Address Translators (NATs)
  RFC 5389: Session Traversal Utilities for NAT (STUN)
 
 Package: internet-detector-mod-email
-Version: 1.5.2-r1
+Version: 1.6.0-r1
 Depends: libc, internet-detector, mailsend
 Section: net
 URL: https://github.com/gSpotx2f/luci-app-internet-detector
 Architecture: all
 Installed-Size: 20480
-Filename: internet-detector-mod-email_1.5.2-r1_all.ipk
-Size: 2836
-SHA256sum: 17a60f214d5f8b30b15735e0a003306788a381763aafc99b1f27f45fcccfa894
+Filename: internet-detector-mod-email_1.6.0-r1_all.ipk
+Size: 2838
+SHA256sum: f2746711ea83ca28a93522cb04a26305df70413bf81b5dc22143f083af0dfae7
 Description:  Email support for internet-detector.
 
 Package: internet-detector-mod-modem-restart
-Version: 1.5.2-r1
+Version: 1.6.0-r1
 Depends: libc, internet-detector, modemmanager
 Section: net
 URL: https://github.com/gSpotx2f/luci-app-internet-detector
 Architecture: all
 Installed-Size: 10240
-Filename: internet-detector-mod-modem-restart_1.5.2-r1_all.ipk
-Size: 2191
-SHA256sum: 2058a0eb67f47a4450e4d32a54965da7345afe87d15d74b904ee8e32f6a2ca3a
+Filename: internet-detector-mod-modem-restart_1.6.0-r1_all.ipk
+Size: 2193
+SHA256sum: 18cbbe8b5e967f496a3576d11b42fe6964a0d7b62784bdfa727262ffeb8d5ed7
 Description:  Support modem restart for internet detector.
 
 Package: internet-detector
@@ -257,8 +257,8 @@ URL: https://wiki.metacubex.one
 Architecture: riscv64_riscv64
 Installed-Size: 29440000
 Filename: mihomo_1.19.11-r1_riscv64_riscv64.ipk
-Size: 10847235
-SHA256sum: dfb00b626f2554b0dc40ef3f7352c2577a2db33a689017717a427dc2b5d9c32b
+Size: 10847452
+SHA256sum: d815d3eaa7244bad3446d3dd3eed0fa55b1b3f6024bb0ca75dd258a84b4ccbbb
 Description:  Another Mihomo Kernel.
 
 Package: natmapt-client-script-deluge
@@ -335,8 +335,8 @@ URL: https://github.com/heiher/natmap
 Architecture: riscv64_riscv64
 Installed-Size: 92160
 Filename: natmapt_20250512-r3_riscv64_riscv64.ipk
-Size: 30642
-SHA256sum: a29a6da770edbcac1c15192c8932d901a4a673a51f133c61981f70f58c0d7e7e
+Size: 30644
+SHA256sum: 7a64f466180701f65aa43f9cfea65c39b8b64079b1c5a27a7cab4a13f07d4c4d
 Description:  TCP/UDP port mapping tool for full cone NAT
 
 Package: netdata-ssl
@@ -349,8 +349,8 @@ CPE-ID: cpe:/a:my-netdata:netdata
 Architecture: riscv64_riscv64
 Installed-Size: 26931200
 Filename: netdata-ssl_1.33.1-r4_riscv64_riscv64.ipk
-Size: 7999180
-SHA256sum: 42a8736e8d9bacc917e2898541eaf3c82c5256a2f41a59d9ae8ce3e5d6e66cdd
+Size: 7999231
+SHA256sum: 1dd341f0ee855e6bd6ccfbe8ba148731f70abbef449d98c9b4a71ecb355f445a
 Description:  netdata is a highly optimized Linux daemon providing real-time performance
  monitoring for Linux systems, applications and SNMP devices over the web.
  
@@ -366,8 +366,8 @@ URL: https://github.com/chengr28/Pcap_DNSProxy
 Architecture: riscv64_riscv64
 Installed-Size: 880640
 Filename: pcap-dnsproxy_0.4.9.13~70a40bb3-r1_riscv64_riscv64.ipk
-Size: 379096
-SHA256sum: 5468171dc6530fdfbf4faa31b55ef837a5fb525438ee1211076e3a2f6269bd82
+Size: 379094
+SHA256sum: e57e7b677ce7b8b15031fa4a9bb10e20bd51e5940550eee6f0d3aac4f5076da5
 Description:  A local DNS server based on LibPcap
 
 Package: qbittorrent
@@ -524,8 +524,8 @@ URL: https://github.com/showwin/speedtest-go
 Architecture: riscv64_riscv64
 Installed-Size: 23224320
 Filename: speedtest-go_1.7.10-r1_riscv64_riscv64.ipk
-Size: 9515520
-SHA256sum: 45dc28c98dc7265f8174aba3c65556c1b9d3ccc0831b1161835baff2ef0d45b5
+Size: 9515991
+SHA256sum: bcce3b7f4b39023b191d02a63a8ea2e8ed05295e1376ce4142ece72de85bf10b
 Description:  Command Line Interface and pure Go API to
  Test Internet Speed using speedtest.net
 
@@ -538,8 +538,8 @@ URL: https://github.com/jselbie/stunserver
 Architecture: riscv64_riscv64
 Installed-Size: 81920
 Filename: stuntman-client_1.2.17~cc5b875b-r20240806_riscv64_riscv64.ipk
-Size: 40517
-SHA256sum: 9765d850864a3737b4f2b4a7d20027c3a3709c202d63aac19bf2e47062c5b7dc
+Size: 40529
+SHA256sum: a1379618462b3836e644a5bc088b2918b4f1d6c0785ce5f4f1d55c25a411b1b2
 Description:  An open source STUN server and client code by john selbie. Compliant with the latest RFCs including 5389, 5769, and 5780. Also includes backwards compatibility for RFC 3489.
 
 Package: stuntman-server
@@ -551,8 +551,8 @@ URL: https://github.com/jselbie/stunserver
 Architecture: riscv64_riscv64
 Installed-Size: 174080
 Filename: stuntman-server_1.2.17~cc5b875b-r20240806_riscv64_riscv64.ipk
-Size: 91754
-SHA256sum: 2f9bb8fa1de565be4ef46da20f4fa357be012e573977690238d9c1539d28a87e
+Size: 91755
+SHA256sum: 4b1bcce392f8b3178bc13ca33f5b6d4871e8d2993c921ca28216fed91972f0df
 Description:  An open source STUN server and client code by john selbie. Compliant with the latest RFCs including 5389, 5769, and 5780. Also includes backwards compatibility for RFC 3489.
 
 Package: stuntman-testcode
@@ -564,8 +564,8 @@ URL: https://github.com/jselbie/stunserver
 Architecture: riscv64_riscv64
 Installed-Size: 133120
 Filename: stuntman-testcode_1.2.17~cc5b875b-r20240806_riscv64_riscv64.ipk
-Size: 66552
-SHA256sum: 6962e237d473e0934f7e21356e45385ad13f3ff6c5f8ba6059c173047433cbca
+Size: 66550
+SHA256sum: ff696ed4c5ccffde470299396f319a4bd6f66c436cc315322ea42580d7a56aaf
 Description:  An open source STUN server and client code by john selbie. Compliant with the latest RFCs including 5389, 5769, and 5780. Also includes backwards compatibility for RFC 3489.
 
 Package: uci-alwaysonline

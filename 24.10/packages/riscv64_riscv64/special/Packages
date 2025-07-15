@@ -533,8 +533,8 @@ URL: https://github.com/shadowsocks/shadowsocks-rust
 Architecture: riscv64_riscv64
 Installed-Size: 8570880
 Filename: shadowsocks-rust-ssservice_1.23.5-r1_riscv64_riscv64.ipk
-Size: 3706098
-SHA256sum: 17d66fa533d5dd808f0332442a31f56cb1853dfcf24b1b72915008cfd0413d68
+Size: 3706153
+SHA256sum: 0dea45b50a97528ccfc2fde71707bbbc28d89760e67c0ce14101bc9a7c415d7a
 Description:  shadowsocks-rust ssservice. single bundled of local,server,manager. also used to generate safed secured password.
 
 Package: shadowsocks-rust-ssurl
