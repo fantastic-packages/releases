@@ -62,7 +62,6 @@
     "qt6-plugin-libqsqlite": "6.8.3-r1",
     "qt6-plugin-libqtuiotouchplugin": "6.8.3-r1",
     "qt6-plugin-libqxdgdesktopportal": "6.8.3-r1",
-    "rblibtorrent": "2.0.11-r1",
     "shadowsocks-rust-config": "1.23.5-r1",
     "shadowsocks-rust-sslocal": "1.23.5-r1",
     "shadowsocks-rust-ssmanager": "1.23.5-r1",
