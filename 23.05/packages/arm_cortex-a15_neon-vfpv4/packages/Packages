@@ -236,10 +236,10 @@ Depends: libc
 License: GPL-2.0
 Section: net
 Architecture: arm_cortex-a15_neon-vfpv4
-Installed-Size: 12267569
+Installed-Size: 12267500
 Filename: mihomo_1.19.11-1_arm_cortex-a15_neon-vfpv4.ipk
-Size: 12245057
-SHA256sum: 87d25685d4290b94cd870830c08fbcc4e4fa9f8cab990f4461fcdd161a19f209
+Size: 12244710
+SHA256sum: 33f1ab1dde9b003bfdd148abdc33cd2879a08ec623a31021647122f22ed52a9f
 Description:  Another Mihomo Kernel.
 
 Package: natmapt-client-script-deluge

@@ -335,14 +335,14 @@ License: GPL-2.0
 LicenseFiles: LICENSE
 Section: net
 Require-User: mihomo=7890:mihomo=7890
-SourceDateEpoch: 1750903374
+SourceDateEpoch: 1752671373
 URL: https://wiki.metacubex.one
 Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: aarch64_cortex-a72
 Installed-Size: 29849600
 Filename: mihomo_1.19.11-r1_aarch64_cortex-a72.ipk
-Size: 10715750
-SHA256sum: 0ce3b69f60028b05182081fd0b51212c56fa541f56140e8ac7e068f25060fd7b
+Size: 10715714
+SHA256sum: 9a11b4348caee69b431f1ef8865647f1248cc3a4766f48120b999a333e1288e6
 Description:  Another Mihomo Kernel.
 
 Package: natmapt-client-script-deluge
@@ -636,27 +636,6 @@ Filename: qt6-plugin-libqxdgdesktopportal_6.8.3-r1_aarch64_cortex-a72.ipk
 Size: 46721
 SHA256sum: de6103b0f3a7de96b2b4e766b3dc8147abec4ff207ec1a66bbc84fde4dc12e28
 Description:  Qt6 Plugin libqxdgdesktopportal
-
-Package: rblibtorrent2.0
-Version: 2.0.11-r1
-Depends: libc, boost, boost-system, libatomic1, libgcc1, libopenssl3, libstdcpp6
-Provides: rblibtorrent
-Source: /feed/luci/luci-app-qbittorrent/rblibtorrent
-SourceName: rblibtorrent
-License: BSD
-LicenseFiles: COPYING
-Section: libs
-SourceDateEpoch: 1751440335
-URL: https://www.libtorrent.org
-ABIVersion: 2.0
-Architecture: aarch64_cortex-a72
-Installed-Size: 3809280
-Filename: rblibtorrent2.0_2.0.11-r1_aarch64_cortex-a72.ipk
-Size: 1389841
-SHA256sum: 482099a592e0f3effd48bb810ad80818e2dd3e1dfa5962e0fa4b0167c62a8722
-Description:  Rasterbar libtorrent is a C++ library that aims to be a good alternative to
- all the other bittorrent implementations around. It is a library and not a
- full featured client, although it comes with a working example client.
 
 Package: rgmac
 Version: 1.5.1-r20240803

@@ -317,13 +317,13 @@ License: GPL-2.0
 LicenseFiles: LICENSE
 Section: net
 Require-User: mihomo=7890:mihomo=7890
-SourceDateEpoch: 1750903374
+SourceDateEpoch: 1752671373
 Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: mipsel_24kc
-Installed-Size: 11567428
+Installed-Size: 11567499
 Filename: mihomo_1.19.11-1_mipsel_24kc.ipk
-Size: 11538928
-SHA256sum: 2090a355e42eba8674228ac2a12ce044eef464684514564a7b53b721c681e92a
+Size: 11539011
+SHA256sum: 120749e9aa1be1f1c3ffa2fabaac6edcfea061bb62401126779b4cc02daae4a9
 Description:  Another Mihomo Kernel.
 
 Package: natmapt-client-script-deluge

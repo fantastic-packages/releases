@@ -257,8 +257,8 @@ URL: https://wiki.metacubex.one
 Architecture: aarch64_cortex-a72
 Installed-Size: 29849600
 Filename: mihomo_1.19.11-r1_aarch64_cortex-a72.ipk
-Size: 10715750
-SHA256sum: 0ce3b69f60028b05182081fd0b51212c56fa541f56140e8ac7e068f25060fd7b
+Size: 10715714
+SHA256sum: 9a11b4348caee69b431f1ef8865647f1248cc3a4766f48120b999a333e1288e6
 Description:  Another Mihomo Kernel.
 
 Package: natmapt-client-script-deluge
@@ -485,23 +485,6 @@ Size: 46721
 SHA256sum: de6103b0f3a7de96b2b4e766b3dc8147abec4ff207ec1a66bbc84fde4dc12e28
 Description:  Qt6 Plugin libqxdgdesktopportal
 
-Package: rblibtorrent2.0
-Version: 2.0.11-r1
-Depends: libc, boost, boost-system, libatomic1, libgcc1, libopenssl3, libstdcpp6
-Provides: rblibtorrent
-License: BSD
-Section: libs
-URL: https://www.libtorrent.org
-ABIVersion: 2.0
-Architecture: aarch64_cortex-a72
-Installed-Size: 3809280
-Filename: rblibtorrent2.0_2.0.11-r1_aarch64_cortex-a72.ipk
-Size: 1389841
-SHA256sum: 482099a592e0f3effd48bb810ad80818e2dd3e1dfa5962e0fa4b0167c62a8722
-Description:  Rasterbar libtorrent is a C++ library that aims to be a good alternative to
- all the other bittorrent implementations around. It is a library and not a
- full featured client, although it comes with a working example client.
-
 Package: rgmac
 Version: 1.5.1-r20240803
 Depends: libc, bash, curl, coreutils-cksum, getopt
@@ -579,4 +562,6 @@ Filename: uci-alwaysonline_0.2025.01.25_aarch64_cortex-a72.ipk
 Size: 3399
 SHA256sum: 8d2132b4108761a3e82c9394be5d9c05403503e77a67f2eb2849fe24da24da88
 Description:  alwaysonline uci metapackage
+
+
 
