@@ -28,7 +28,7 @@
     "natmapt-notify-script-pushbullet": "0.2025.6.4",
     "natmapt-notify-script-pushover": "0.2025.6.4",
     "natmapt-notify-script-telegram": "0.2025.6.4",
-    "natmapt": "20250512-r3",
+    "natmapt": "20250721-r2",
     "netdata-ssl": "1.33.1-r4",
     "pcap-dnsproxy": "0.4.9.13~70a40bb3-r1",
     "qbittorrent": "5.1.2-r1",
