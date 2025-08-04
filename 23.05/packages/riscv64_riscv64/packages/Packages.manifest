@@ -320,10 +320,10 @@ Require-User: mihomo=7890:mihomo=7890
 SourceDateEpoch: 1753966983
 Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: riscv64_riscv64
-Installed-Size: 12212587
+Installed-Size: 12212588
 Filename: mihomo_1.19.12-1_riscv64_riscv64.ipk
-Size: 12171350
-SHA256sum: 95a510e2bbfe53919c200692eff24d4943f3971afd2daec3f7d236749429d706
+Size: 12171390
+SHA256sum: 57d6215fae21035e4b65c42241af0e76f05120e64371eb94c7cb4eecb3ee339c
 Description:  Another Mihomo Kernel.
 
 Package: natmapt-client-script-deluge

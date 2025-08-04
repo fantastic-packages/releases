@@ -719,8 +719,8 @@ Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: aarch64_generic
 Installed-Size: 8601600
 Filename: shadowsocks-rust-ssservice_1.23.5-r1_aarch64_generic.ipk
-Size: 3953141
-SHA256sum: 648fb6448ca05f033e574499642d5d9ed0067c3e8651ecbd062263b6fcbf39a5
+Size: 3953152
+SHA256sum: 7b8b1e5e0115d2d62286a0f85fb6a2453f61d72c727bd815bb0dabca61bb2d84
 Description:  shadowsocks-rust ssservice. single bundled of local,server,manager. also used to generate safed secured password.
 
 Package: shadowsocks-rust-ssurl

@@ -719,8 +719,8 @@ Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: arm_cortex-a9_vfpv3-d16
 Installed-Size: 7761920
 Filename: shadowsocks-rust-ssservice_1.23.5-r1_arm_cortex-a9_vfpv3-d16.ipk
-Size: 3543895
-SHA256sum: 16d8a58d06a9d26bb93e109b440e25508bb6506e36d12ddbf1ef0aa09d37bdcb
+Size: 3543938
+SHA256sum: 41d8b980570a02961ad4dd1714168bebd47ec28c6f3c34ecd528a8792d9fa816
 Description:  shadowsocks-rust ssservice. single bundled of local,server,manager. also used to generate safed secured password.
 
 Package: shadowsocks-rust-ssurl

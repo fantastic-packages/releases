@@ -341,8 +341,8 @@ Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: x86_64
 Installed-Size: 31027200
 Filename: mihomo_1.19.12-r1_x86_64.ipk
-Size: 11519438
-SHA256sum: 3e8a17d0450059c8651296bcaad4f5708791764d2dc230672fe2e22cc0ddf3d4
+Size: 11519346
+SHA256sum: 9d854835b0c919d114f5d430d7b8f217de62548201ac5cf8eb883e4b871c445e
 Description:  Another Mihomo Kernel.
 
 Package: natmapt-client-script-deluge
@@ -671,6 +671,27 @@ Filename: qt6-plugin-libqxdgdesktopportal_6.8.3-r1_x86_64.ipk
 Size: 45333
 SHA256sum: 2316613c18df62fe94b0502b365c2683ea1ca3f817605d4607c70ee2560f35c1
 Description:  Qt6 Plugin libqxdgdesktopportal
+
+Package: rblibtorrent2.0
+Version: 2.0.11-r1
+Depends: libc, boost, boost-system, libatomic1, libgcc1, libopenssl3, libstdcpp6
+Provides: rblibtorrent
+Source: /feed/luci/luci-app-qbittorrent/rblibtorrent
+SourceName: rblibtorrent
+License: BSD
+LicenseFiles: COPYING
+Section: libs
+SourceDateEpoch: 1751440335
+URL: https://www.libtorrent.org
+ABIVersion: 2.0
+Architecture: x86_64
+Installed-Size: 3512320
+Filename: rblibtorrent2.0_2.0.11-r1_x86_64.ipk
+Size: 1382996
+SHA256sum: 7f09df3f80297fb4847d038c39d55e53c46698eb87ff8a7bac001637c09c7367
+Description:  Rasterbar libtorrent is a C++ library that aims to be a good alternative to
+ all the other bittorrent implementations around. It is a library and not a
+ full featured client, although it comes with a working example client.
 
 Package: rgmac
 Version: 1.5.1-r20240803

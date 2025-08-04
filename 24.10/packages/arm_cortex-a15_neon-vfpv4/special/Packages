@@ -533,8 +533,8 @@ URL: https://github.com/shadowsocks/shadowsocks-rust
 Architecture: arm_cortex-a15_neon-vfpv4
 Installed-Size: 7761920
 Filename: shadowsocks-rust-ssservice_1.23.5-r1_arm_cortex-a15_neon-vfpv4.ipk
-Size: 3543948
-SHA256sum: 4729e5952564c569cfc2b99da529385c55854d5b0285cb3599d0ef2b1539562a
+Size: 3543947
+SHA256sum: e330f25a00aed28ceb9749b86b030d3bc05113dc5fb77f1c9aff0b08c9e6a486
 Description:  shadowsocks-rust ssservice. single bundled of local,server,manager. also used to generate safed secured password.
 
 Package: shadowsocks-rust-ssurl

@@ -238,8 +238,8 @@ Section: net
 Architecture: x86_64
 Installed-Size: 12840426
 Filename: mihomo_1.19.12-1_x86_64.ipk
-Size: 12803430
-SHA256sum: ad4847270f644b4bfac89273c54d8498d69bdb0777ae31dea07dc0ea2470ed01
+Size: 12803439
+SHA256sum: d0f7cb5d598f8ddef135162f10dd47414f7cb0104259775fa139b81891fe0e90
 Description:  Another Mihomo Kernel.
 
 Package: natmapt-client-script-deluge

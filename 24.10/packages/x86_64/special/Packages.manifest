@@ -719,8 +719,8 @@ Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: x86_64
 Installed-Size: 9932800
 Filename: shadowsocks-rust-ssservice_1.23.5-r1_x86_64.ipk
-Size: 4091586
-SHA256sum: 67a1ce8dec70fe7867dbf4f419999dfcc433a560ec5867243898f42cbec0a877
+Size: 4091585
+SHA256sum: 33e6a47add8fd81f8bc40c5def2064ed4bd22c02528165642b9cf9af5fb72a2b
 Description:  shadowsocks-rust ssservice. single bundled of local,server,manager. also used to generate safed secured password.
 
 Package: shadowsocks-rust-ssurl

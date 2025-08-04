@@ -322,8 +322,8 @@ Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: aarch64_generic
 Installed-Size: 11825397
 Filename: mihomo_1.19.12-1_aarch64_generic.ipk
-Size: 11784326
-SHA256sum: 5fa01ecbfd47d2b35988538abe966ee3ec287847ac8fe9abfe08ca6f10275162
+Size: 11784330
+SHA256sum: 75d9029e536f3948490319e9353a2c070ac2c671e41295046ad09d2f3d8f5045
 Description:  Another Mihomo Kernel.
 
 Package: natmapt-client-script-deluge
