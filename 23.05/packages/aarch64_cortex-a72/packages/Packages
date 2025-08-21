@@ -236,10 +236,10 @@ Depends: libc
 License: GPL-2.0
 Section: net
 Architecture: aarch64_cortex-a72
-Installed-Size: 11825397
+Installed-Size: 11825357
 Filename: mihomo_1.19.12-1_aarch64_cortex-a72.ipk
-Size: 11784326
-SHA256sum: eb458d1bfe24645fe033894afc2a5e67407348ec6a7fd4ad5857bae6c86d7000
+Size: 11784014
+SHA256sum: 4af42def2de038c028cd6ca28019c7fd5d15bf3f3ae4ac33291ace1a1cd322d7
 Description:  Another Mihomo Kernel.
 
 Package: natmapt-client-script-deluge

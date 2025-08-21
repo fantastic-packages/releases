@@ -236,10 +236,10 @@ Depends: libc
 License: GPL-2.0
 Section: net
 Architecture: arm_cortex-a9_vfpv3-d16
-Installed-Size: 12073582
+Installed-Size: 12073581
 Filename: mihomo_1.19.12-1_arm_cortex-a9_vfpv3-d16.ipk
-Size: 12050328
-SHA256sum: 27e32d3e8c8f2c311ccd3fc4fdb83609407c103e297bd17b1d6884fb0b424ee2
+Size: 12050395
+SHA256sum: 7263644abfcac4eaf2b1bc6823ba1d2e073d64eaedd21e47537a764ca4308baf
 Description:  Another Mihomo Kernel.
 
 Package: natmapt-client-script-deluge

@@ -317,13 +317,13 @@ License: GPL-2.0
 LicenseFiles: LICENSE
 Section: net
 Require-User: mihomo=7890:mihomo=7890
-SourceDateEpoch: 1753966983
+SourceDateEpoch: 1755766211
 Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: riscv64_riscv64
 Installed-Size: 12212588
 Filename: mihomo_1.19.12-1_riscv64_riscv64.ipk
-Size: 12171390
-SHA256sum: 57d6215fae21035e4b65c42241af0e76f05120e64371eb94c7cb4eecb3ee339c
+Size: 12170849
+SHA256sum: 77196e13b332e7d93a3a195a455698f444c8f0ea7c1e251d381982a35dc23848
 Description:  Another Mihomo Kernel.
 
 Package: natmapt-client-script-deluge

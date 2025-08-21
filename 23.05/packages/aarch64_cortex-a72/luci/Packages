@@ -107,14 +107,14 @@ SHA256sum: bbcb5d88f077d29b7aa4306462b348c6271318cb527dc07fc562ec7f6866b858
 Description:  LuCI Support for fakehttp
 
 Package: luci-app-fchomo
-Version: git-25.212.46983-6c1311c
+Version: git-25.233.31811-77d7e8b
 Depends: libc, mihomo, ca-bundle, firewall4, kmod-inet-diag, kmod-nft-tproxy, yq, wget-ssl, coreutils-timeout
 Section: luci
 Architecture: all
-Installed-Size: 272359
-Filename: luci-app-fchomo_git-25.212.46983-6c1311c_all.ipk
-Size: 273325
-SHA256sum: a57f70a72c0989a4d27d1a91f94af2df9b1de494c7bf13a6d6833996dea6228c
+Installed-Size: 272407
+Filename: luci-app-fchomo_git-25.233.31811-77d7e8b_all.ipk
+Size: 273446
+SHA256sum: 3ca06ab9a444bc22393d3ecd6b19ef6c00929df8896a276365f0abf974898046
 Description:  FullCombo Shark! supplies flexible customization of mihomo on OpenWrt.
 
 Package: luci-app-interfaces-statistics
@@ -475,25 +475,25 @@ SHA256sum: b420f7cf689251ad4b0030adaae88b87065d2514e5479e661c44b0bb7e0dd8f2
 Description:  Translation for luci-app-disks-info - 简体中文 (Chinese Simplified)
 
 Package: luci-i18n-fchomo-zh-cn
-Version: git-25.212.46983-6c1311c
+Version: git-25.233.31811-77d7e8b
 Depends: libc, luci-app-fchomo
 Section: luci
 Architecture: all
-Installed-Size: 10817
-Filename: luci-i18n-fchomo-zh-cn_git-25.212.46983-6c1311c_all.ipk
-Size: 11595
-SHA256sum: 5b301322072f8dbd57903d006964a1a85137ea485b36f37a77b1945d36da7e5c
+Installed-Size: 10820
+Filename: luci-i18n-fchomo-zh-cn_git-25.233.31811-77d7e8b_all.ipk
+Size: 11599
+SHA256sum: 7584ea82e048b4ce18b97316a5dc1085812962062a41bfdf074c2ba9c888a752
 Description:  Translation for luci-app-fchomo - 简体中文 (Chinese Simplified)
 
 Package: luci-i18n-fchomo-zh-tw
-Version: git-25.212.46983-6c1311c
+Version: git-25.233.31811-77d7e8b
 Depends: libc, luci-app-fchomo
 Section: luci
 Architecture: all
-Installed-Size: 10873
-Filename: luci-i18n-fchomo-zh-tw_git-25.212.46983-6c1311c_all.ipk
-Size: 11638
-SHA256sum: 30dd5aee8d17c018ed123069874bf48959f904abf82839a20ae28fac6af848de
+Installed-Size: 10876
+Filename: luci-i18n-fchomo-zh-tw_git-25.233.31811-77d7e8b_all.ipk
+Size: 11648
+SHA256sum: a1d35e3836d47e29d7aea67389b2cc36f4667198112398b19e991892283aaa92
 Description:  Translation for luci-app-fchomo - 繁體中文 (Chinese Traditional)
 
 Package: luci-i18n-interfaces-statistics-ru
