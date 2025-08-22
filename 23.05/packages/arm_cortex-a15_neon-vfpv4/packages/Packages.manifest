@@ -85,20 +85,20 @@ SHA256sum: 19b6a16c1d9a024e7687fa040d5015587e316c4a9cd187c4414aeda73c8b336d
 Description:  Installer for fantastic-packages feeds
 
 Package: fastfetch
-Version: 2.47.0-1
+Version: 2.49.0-1
 Depends: libc
 Source: /feed/packages/openwrt-fastfetch
 SourceName: fastfetch
 License: MIT
 LicenseFiles: LICENSE
 Section: utils
-SourceDateEpoch: 1751646003
+SourceDateEpoch: 1754065379
 Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: arm_cortex-a15_neon-vfpv4
-Installed-Size: 411468
-Filename: fastfetch_2.47.0-1_arm_cortex-a15_neon-vfpv4.ipk
-Size: 412172
-SHA256sum: 32095a925d5c7315d2a7cf030e05b4f12fe490f2129290bb5e280e50e4bffe39
+Installed-Size: 415469
+Filename: fastfetch_2.49.0-1_arm_cortex-a15_neon-vfpv4.ipk
+Size: 415977
+SHA256sum: 816eba3d8e99c60645d732e0ff07ec8af8ff5e3db52d470cd556f36b2a811db8
 Description:  Fastfetch is a neofetch-like tool for fetching
  system information and displaying it prettily.
 
@@ -152,18 +152,18 @@ SHA256sum: fb326a7545703ec41926b6076cd9833f08dbcde9de76d175b8d87af8f25a6611
 Description:  Support modem restart for internet detector.
 
 Package: internet-detector
-Version: 1.6.0-1
+Version: 1.6.2-1
 Depends: libc, lua, luaposix, libuci-lua
 Source: /feed/luci/luci-app-internet-detector/internet-detector
 SourceName: internet-detector
 Section: net
-SourceDateEpoch: 1751579857
+SourceDateEpoch: 1754783498
 Maintainer: gSpot <https://github.com/gSpotx2f/luci-app-internet-detector>
 Architecture: all
-Installed-Size: 12927
-Filename: internet-detector_1.6.0-1_all.ipk
-Size: 13769
-SHA256sum: 697729e49fc1cfae547f251dc7f16dcfc8b6e2320cdc93d88930d55954f14ced
+Installed-Size: 14202
+Filename: internet-detector_1.6.2-1_all.ipk
+Size: 15074
+SHA256sum: f74ff4b6e7aa04ed0a3c7b5dd6c0565d4718ff653b77a88769dedd1132d0b33a
 Description:  Internet-detector is a small daemon
  for checking Internet availability.
  Written in Lua using the luaposix library.

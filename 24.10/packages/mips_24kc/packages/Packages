@@ -62,16 +62,16 @@ SHA256sum: a82881ee9dd1fc4a7cefe8b3f862ff9b896826eab14e4d6f2ea6061edb17aa25
 Description:  Installer for fantastic-packages feeds
 
 Package: fastfetch
-Version: 2.47.0-r1
+Version: 2.49.0-r1
 Depends: libc
 License: MIT
 Section: utils
 URL: https://github.com/fastfetch-cli/fastfetch
 Architecture: mips_24kc
-Installed-Size: 1187840
-Filename: fastfetch_2.47.0-r1_mips_24kc.ipk
-Size: 388851
-SHA256sum: 3403abe6e41e7cb48293843b113ae10fede77cb2fc014faf1dc192190bf6d401
+Installed-Size: 1259520
+Filename: fastfetch_2.49.0-r1_mips_24kc.ipk
+Size: 392266
+SHA256sum: 190595c7338276107ce3e2b7f9b848a525ae85fbc00c1d33b17fff907b5b7ab5
 Description:  Fastfetch is a neofetch-like tool for fetching
  system information and displaying it prettily.
 
@@ -115,15 +115,15 @@ SHA256sum: 18cbbe8b5e967f496a3576d11b42fe6964a0d7b62784bdfa727262ffeb8d5ed7
 Description:  Support modem restart for internet detector.
 
 Package: internet-detector
-Version: 1.6.0-r1
+Version: 1.6.2-r1
 Depends: libc, lua, luaposix, libuci-lua
 Section: net
 URL: https://github.com/gSpotx2f/luci-app-internet-detector
 Architecture: all
 Installed-Size: 81920
-Filename: internet-detector_1.6.0-r1_all.ipk
-Size: 13787
-SHA256sum: 19fda66feaf2e4e1633194f88a233a0d28c5a4684d2ef7fb2f7b17c836d171e0
+Filename: internet-detector_1.6.2-r1_all.ipk
+Size: 15089
+SHA256sum: 4ee7490ae6e342d967cf949e1970934fc2f2ff3c786cdb63f2656bf55866dfe8
 Description:  Internet-detector is a small daemon
  for checking Internet availability.
  Written in Lua using the luaposix library.

@@ -2,7 +2,7 @@
   "version": 2,
   "architecture": "arm_cortex-a15_neon-vfpv4",
   "packages": {
-    "einat-ebpf": "0.1.9-r1",
+    "einat-ebpf": "0.1.9-r2",
     "luci-app-einat": "25.087.04343~82838e7",
     "luci-app-shadowsocks-rust": "24.354.13337~0fc7009",
     "luci-i18n-einat-zh-cn": "25.087.04343~82838e7",
@@ -41,11 +41,11 @@
     "luci-i18n-shadowsocks-rust-vi": "24.354.13337~0fc7009",
     "luci-i18n-shadowsocks-rust-zh-cn": "24.354.13337~0fc7009",
     "luci-i18n-shadowsocks-rust-zh-tw": "24.354.13337~0fc7009",
-    "shadowsocks-rust-config": "1.23.5-r1",
-    "shadowsocks-rust-sslocal": "1.23.5-r1",
-    "shadowsocks-rust-ssmanager": "1.23.5-r1",
-    "shadowsocks-rust-ssserver": "1.23.5-r1",
-    "shadowsocks-rust-ssservice": "1.23.5-r1",
-    "shadowsocks-rust-ssurl": "1.23.5-r1"
+    "shadowsocks-rust-config": "1.23.5-r2",
+    "shadowsocks-rust-sslocal": "1.23.5-r2",
+    "shadowsocks-rust-ssmanager": "1.23.5-r2",
+    "shadowsocks-rust-ssserver": "1.23.5-r2",
+    "shadowsocks-rust-ssservice": "1.23.5-r2",
+    "shadowsocks-rust-ssurl": "1.23.5-r2"
   }
 }
