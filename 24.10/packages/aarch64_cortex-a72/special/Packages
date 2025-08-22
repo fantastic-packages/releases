@@ -533,8 +533,8 @@ URL: https://github.com/shadowsocks/shadowsocks-rust
 Architecture: aarch64_cortex-a72
 Installed-Size: 8611840
 Filename: shadowsocks-rust-ssservice_1.23.5-r2_aarch64_cortex-a72.ipk
-Size: 3937637
-SHA256sum: ec25556d11e3fecce050bbe605d16dd0df2038d508277309ed1ad8017de3c016
+Size: 3937638
+SHA256sum: 22871cba5fb005fd8a5d0081a240bb31682bc7a88af9abbfa2a6d7bf7b287047
 Description:  shadowsocks-rust ssservice. single bundled of local,server,manager. also used to generate safed secured password.
 
 Package: shadowsocks-rust-ssurl

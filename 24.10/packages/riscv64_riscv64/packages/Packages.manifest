@@ -12,8 +12,8 @@ Maintainer: Chengr28 <chengr28@twitter>
 Architecture: riscv64_riscv64
 Installed-Size: 317440
 Filename: Toolkit_0.4.0.2~631954ea-r2_riscv64_riscv64.ipk
-Size: 123960
-SHA256sum: 5aef96e8ec930514ea27c37a38caf8c6b953234aeb509a1d2f92bd1b0767c295
+Size: 123963
+SHA256sum: 4f480a6dc4452552ec9a3e8d9983d6425835ac155d39195764bdf574f444c611
 Description:  A network util can ping with DNS request.
 
 Package: alwaysonline
@@ -31,8 +31,8 @@ Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: riscv64_riscv64
 Installed-Size: 5601280
 Filename: alwaysonline_1.2.1~206292ca-r1_riscv64_riscv64.ipk
-Size: 2269182
-SHA256sum: 2cf241fc651c38a6928d499a5463eb87df48e5926bbae5cc5fc0a243f72903b5
+Size: 2269103
+SHA256sum: 7cfae7dffdfeb703490f897f115280c83dd12e620464b724951c3b8489b1d484
 Description:  AlwaysOnline is a HTTP and DNS server which mocks a lot network/internet/portal detection servers.
 
 Package: fakehttp
@@ -49,8 +49,8 @@ Maintainer: Yuxi Yang <i@bgme.me>
 Architecture: riscv64_riscv64
 Installed-Size: 71680
 Filename: fakehttp_0.9.18-r3_riscv64_riscv64.ipk
-Size: 24686
-SHA256sum: 6628ecf3d6c0e6cb65c90dc52e6955415ba3372438591d197088f97fcb790d60
+Size: 24685
+SHA256sum: 9defd5d2177c515503e96957358fb41076f1a82f6d7147f4ea735575488864e1
 Description:  Obfuscate all your TCP connections into HTTP protocol.
 
 Package: fantastic-keyring
@@ -101,8 +101,8 @@ Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: riscv64_riscv64
 Installed-Size: 1064960
 Filename: fastfetch_2.49.0-r1_riscv64_riscv64.ipk
-Size: 397556
-SHA256sum: 0e444064a6dba37b244bab6d190c28c288a63c533332c4e40cf4591f86907774
+Size: 399866
+SHA256sum: 45654c561ab5b49f8e385a6f1a39601f0fa9327b336a62636f875e774dee4c85
 Description:  Fastfetch is a neofetch-like tool for fetching
  system information and displaying it prettily.
 
@@ -120,42 +120,42 @@ Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: riscv64_riscv64
 Installed-Size: 2140160
 Filename: go-stun_0.1.4~d32c135f-r10_riscv64_riscv64.ipk
-Size: 908415
-SHA256sum: 75b8aafe9d3732545669597c7cba57307db3b27eb7ad6dfed511d9bda587e75e
+Size: 908414
+SHA256sum: 120959df2ea871b833b91bf3a3b621fede30cc035b9085f6db6b741b01937770
 Description:  go-stun is a STUN (RFC 3489, 5389) client implementation in golang (a.k.a. UDP hole punching).
  RFC 3489: STUN - Simple Traversal of User Datagram Protocol (UDP) Through Network Address Translators (NATs)
  RFC 5389: Session Traversal Utilities for NAT (STUN)
 
 Package: internet-detector-mod-email
-Version: 1.6.0-r1
+Version: 1.6.2-r1
 Depends: libc, internet-detector, mailsend
 Source: /feed/luci/luci-app-internet-detector/internet-detector-mod-email
 SourceName: internet-detector-mod-email
 Section: net
-SourceDateEpoch: 1751579857
+SourceDateEpoch: 1754783498
 URL: https://github.com/gSpotx2f/luci-app-internet-detector
 Maintainer: gSpot <https://github.com/gSpotx2f/luci-app-internet-detector>
 Architecture: all
 Installed-Size: 20480
-Filename: internet-detector-mod-email_1.6.0-r1_all.ipk
-Size: 2838
-SHA256sum: f2746711ea83ca28a93522cb04a26305df70413bf81b5dc22143f083af0dfae7
+Filename: internet-detector-mod-email_1.6.2-r1_all.ipk
+Size: 2844
+SHA256sum: c6a9d3e88c2f68d062e1454a6a6df913f3b80c3fb402785ded34cb5fb3f118c4
 Description:  Email support for internet-detector.
 
 Package: internet-detector-mod-modem-restart
-Version: 1.6.0-r1
+Version: 1.6.2-r1
 Depends: libc, internet-detector, modemmanager
 Source: /feed/luci/luci-app-internet-detector/internet-detector-mod-modem-restart
 SourceName: internet-detector-mod-modem-restart
 Section: net
-SourceDateEpoch: 1751579857
+SourceDateEpoch: 1754783498
 URL: https://github.com/gSpotx2f/luci-app-internet-detector
 Maintainer: gSpot <https://github.com/gSpotx2f/luci-app-internet-detector>
 Architecture: all
 Installed-Size: 10240
-Filename: internet-detector-mod-modem-restart_1.6.0-r1_all.ipk
-Size: 2193
-SHA256sum: 18cbbe8b5e967f496a3576d11b42fe6964a0d7b62784bdfa727262ffeb8d5ed7
+Filename: internet-detector-mod-modem-restart_1.6.2-r1_all.ipk
+Size: 2192
+SHA256sum: a17c142f139c4988508fdcaf652d3d9bafb68fa70e945dd74c85085197fc1364
 Description:  Support modem restart for internet detector.
 
 Package: internet-detector
@@ -187,8 +187,8 @@ URL: http://qt-project.org
 Architecture: riscv64_riscv64
 Installed-Size: 30720
 Filename: libQt6Concurrent_6.8.3-r1_riscv64_riscv64.ipk
-Size: 8082
-SHA256sum: c69786d9aee6ec6ca4598659190e3aa38572143415c6a12eee829aabf7704689
+Size: 8085
+SHA256sum: ba9e998bb8e8cbbc045d92f218151374499222305b52884dc1fb9123eaae39a8
 Description:  This package provides the Qt6 Concurrent v6.8.3 library.
 
 Package: libQt6Core
@@ -202,8 +202,8 @@ URL: http://qt-project.org
 Architecture: riscv64_riscv64
 Installed-Size: 5867520
 Filename: libQt6Core_6.8.3-r1_riscv64_riscv64.ipk
-Size: 2717455
-SHA256sum: a076aec1adf918314fa6d3ece3cf14301b5544dbc3efd0ea9f3a5a8fcb91e928
+Size: 2717483
+SHA256sum: a212235f447f8f124f659bcec6643adf9c66e1b9d6b3ca057670c84f48fa7bb6
 Description:  This package provides the Qt6 Core v6.8.3 library.
 
 Package: libQt6DBus
@@ -217,8 +217,8 @@ URL: http://qt-project.org
 Architecture: riscv64_riscv64
 Installed-Size: 737280
 Filename: libQt6DBus_6.8.3-r1_riscv64_riscv64.ipk
-Size: 326735
-SHA256sum: 332d8a426b884c9b50b465002dafd1b6dae7c016ceb02b6f0cb07a6f16235181
+Size: 326736
+SHA256sum: dc19426f028d6a056aa6cc0ee74a8d6e9f2f76e0f5c4b3ffdafe9b424ec5dc15
 Description:  This package provides the Qt6 DBus v6.8.3 library.
 
 Package: libQt6Gui
@@ -232,8 +232,8 @@ URL: http://qt-project.org
 Architecture: riscv64_riscv64
 Installed-Size: 6123520
 Filename: libQt6Gui_6.8.3-r1_riscv64_riscv64.ipk
-Size: 2967119
-SHA256sum: 53aae463b5478d23eac196bc07434ec09e7d8e4d2b3d29c92b557f1676ce3d26
+Size: 2967131
+SHA256sum: 61663cd5d92526c78c4fba269b7a18f89820edd2c0c98fb1c80cb39b2a6e2456
 Description:  This package provides the Qt6 Gui v6.8.3 library.
 
 Package: libQt6Network
@@ -247,8 +247,8 @@ URL: http://qt-project.org
 Architecture: riscv64_riscv64
 Installed-Size: 1894400
 Filename: libQt6Network_6.8.3-r1_riscv64_riscv64.ipk
-Size: 888679
-SHA256sum: 7a4a2bca714a535ac897219d1a4abd59f528f013c12c573f4ce56b690c13ea00
+Size: 888681
+SHA256sum: b0752ebefa721b68bcb86966ef637cc64050f4d4e7e3b0f714fb183f32382470
 Description:  This package provides the Qt6 Network v6.8.3 library.
 
 Package: libQt6PrintSupport
@@ -262,8 +262,8 @@ URL: http://qt-project.org
 Architecture: riscv64_riscv64
 Installed-Size: 409600
 Filename: libQt6PrintSupport_6.8.3-r1_riscv64_riscv64.ipk
-Size: 164353
-SHA256sum: 2ebcd211418d3c667b3c9b19d9b5a4ef5b45c688e8da2ff29a042f6c3577dd39
+Size: 164352
+SHA256sum: 3918a02d06bf81f2666ba8ea1c065de4b6a51f2f43f9e1451d2916f4840fd71f
 Description:  This package provides the Qt6 PrintSupport v6.8.3 library.
 
 Package: libQt6Sql
@@ -277,8 +277,8 @@ URL: http://qt-project.org
 Architecture: riscv64_riscv64
 Installed-Size: 204800
 Filename: libQt6Sql_6.8.3-r1_riscv64_riscv64.ipk
-Size: 89353
-SHA256sum: 4ad951d825bb7e595790c513b87f75ecedae76ab3aa18b2e6812143fe6ca2a46
+Size: 89355
+SHA256sum: 7dd92cc456626c4afd65d82f5eafc09d17e81ffde494948ac022ac6cf224e094
 Description:  This package provides the Qt6 Sql v6.8.3 library.
 
 Package: libQt6Test
@@ -292,8 +292,8 @@ URL: http://qt-project.org
 Architecture: riscv64_riscv64
 Installed-Size: 327680
 Filename: libQt6Test_6.8.3-r1_riscv64_riscv64.ipk
-Size: 151517
-SHA256sum: 9b214ddad7a18c4843f4c7f691b203ec65728560fb0b3b802066ebfa1ccfe157
+Size: 151516
+SHA256sum: fd7aebcf7f654ad72e2da1d81f30465330bddd5c5f4d9bb081418ba09a5eff98
 Description:  This package provides the Qt6 Test v6.8.3 library.
 
 Package: libQt6Widgets
@@ -307,8 +307,8 @@ URL: http://qt-project.org
 Architecture: riscv64_riscv64
 Installed-Size: 7096320
 Filename: libQt6Widgets_6.8.3-r1_riscv64_riscv64.ipk
-Size: 3370613
-SHA256sum: ca02ba13f81de78dd099f856e080c3353e3cb00ee239b823c7d6b541ee906436
+Size: 3370582
+SHA256sum: 437d9f3fca0616031a9a054f4f6293b368b73edf0da4f81b2fe668de7ca6d5a3
 Description:  This package provides the Qt6 Widgets v6.8.3 library.
 
 Package: libQt6Xml
@@ -322,8 +322,8 @@ URL: http://qt-project.org
 Architecture: riscv64_riscv64
 Installed-Size: 163840
 Filename: libQt6Xml_6.8.3-r1_riscv64_riscv64.ipk
-Size: 69212
-SHA256sum: dc190b9b6858a3d05718da1add3ce1ca54fa59fbc3897f888c2149ced77f535b
+Size: 69211
+SHA256sum: a8b1f06a8d0416916feaff150fa1faf01590e5a14ea75aa72ccf5afe63da43e4
 Description:  This package provides the Qt6 Xml v6.8.3 library.
 
 Package: mihomo
@@ -341,8 +341,8 @@ Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: riscv64_riscv64
 Installed-Size: 29296640
 Filename: mihomo_1.19.12-r1_riscv64_riscv64.ipk
-Size: 10733083
-SHA256sum: 261fd54621dda1cb95ba4b8f65934139f494cf2e295a0f4f72d610f8cffd7ad6
+Size: 10732696
+SHA256sum: 7ba31df99ac2ef7b24bbb6664b75f0d5b110727956250b146ec3800ee93d4f28
 Description:  Another Mihomo Kernel.
 
 Package: natmapt-client-script-deluge
@@ -449,8 +449,8 @@ Maintainer: Anya Lin <hukk1996@gmail.com>, Richard Yu <yurichard3839@gmail.com>,
 Architecture: riscv64_riscv64
 Installed-Size: 92160
 Filename: natmapt_20250721-r3_riscv64_riscv64.ipk
-Size: 30924
-SHA256sum: 4c380bbe43e14e44039bff90d8455e80caf067312ac2352bb1d7e06138324293
+Size: 30925
+SHA256sum: e4f13dab8eb1fc306bd7108ba36d6fe6aee07db966db9dddd1ae021628b8b105
 Description:  TCP/UDP port mapping tool for full cone NAT
 
 Package: netdata-ssl
@@ -468,8 +468,8 @@ Maintainer: Josef Schlehofer <pepe.schlehofer@gmail.com>, Daniel Engberg <daniel
 Architecture: riscv64_riscv64
 Installed-Size: 26931200
 Filename: netdata-ssl_1.33.1-r4_riscv64_riscv64.ipk
-Size: 7999234
-SHA256sum: 6f94c201336f28663e21142f104dbfce4d05889af670b817b6a8a05683ac1c21
+Size: 7999302
+SHA256sum: a939922d25cc661cb22dcbee67055daf320890e1dd5c8b16c69fdd6930d4fd90
 Description:  netdata is a highly optimized Linux daemon providing real-time performance
  monitoring for Linux systems, applications and SNMP devices over the web.
  
@@ -490,8 +490,8 @@ Maintainer: Chengr28 <chengr28@gmail.com>
 Architecture: riscv64_riscv64
 Installed-Size: 880640
 Filename: pcap-dnsproxy_0.4.9.13~70a40bb3-r1_riscv64_riscv64.ipk
-Size: 379093
-SHA256sum: fa91e09f520f722a85d3de52104e4878ae77b4c819c675bf870878f2d5e9bc24
+Size: 379094
+SHA256sum: fa9569cc2dbf4969a9409627659c4e6c26ffb4d34146875f4ed7a38c7d178f08
 Description:  A local DNS server based on LibPcap
 
 Package: qbittorrent
@@ -509,8 +509,8 @@ CPE-ID: cpe:/a:qbittorrent:qbittorrent
 Architecture: riscv64_riscv64
 Installed-Size: 9113600
 Filename: qbittorrent_5.1.2-r1_riscv64_riscv64.ipk
-Size: 8030379
-SHA256sum: 8fead007bbf114fa9d97b5a23753f574036f69b63cc4b7a3d7eb61873bd45937
+Size: 8030405
+SHA256sum: a7cc45a902af1b99392df96e2920f91a31921923b7aaf85b4b436ef20e6019c5
 Description:  qBittorrent is a bittorrent client programmed in C++ / Qt that uses
  libtorrent (sometimes called libtorrent-rasterbar) by Arvid Norberg.
  It aims to be a good alternative to all other bittorrent clients out
@@ -528,8 +528,8 @@ URL: http://qt-project.org
 Architecture: riscv64_riscv64
 Installed-Size: 81920
 Filename: qt6-plugin-libqcertonlybackend_6.8.3-r1_riscv64_riscv64.ipk
-Size: 37135
-SHA256sum: 490df3d58ffb03d475c153d83503d784b6ca7be43bf1fa82821711bf73da788a
+Size: 37137
+SHA256sum: fb7eeb3492f14d5e71331db063a02b9c2505f4a2bb73e7afcafdb20b8e2aa4ec
 Description:  Qt6 Plugin libqcertonlybackend
 
 Package: qt6-plugin-libqminimal
@@ -543,8 +543,8 @@ URL: http://qt-project.org
 Architecture: riscv64_riscv64
 Installed-Size: 40960
 Filename: qt6-plugin-libqminimal_6.8.3-r1_riscv64_riscv64.ipk
-Size: 9755
-SHA256sum: d7becf39719931c467bc3fb6430703b8444b406f5c4126cc06e34230d21a0f9a
+Size: 9751
+SHA256sum: 20956cd364cc3aa30c2cf4a2d4b8cfff6b51af5da61a07bca3f316b25ada5c57
 Description:  Qt6 Plugin libqminimal
 
 Package: qt6-plugin-libqnetworkmanager
@@ -558,8 +558,8 @@ URL: http://qt-project.org
 Architecture: riscv64_riscv64
 Installed-Size: 71680
 Filename: qt6-plugin-libqnetworkmanager_6.8.3-r1_riscv64_riscv64.ipk
-Size: 27687
-SHA256sum: 8499ddba8874087b83d4e727cd1f0795792f8e0bad79346ca570983471e9e851
+Size: 27689
+SHA256sum: 16379d89eab8251a80fba539e0d8db0f8926d7be4340b44ccf5218bf1c49c2f4
 Description:  Qt6 Plugin libqnetworkmanager
 
 Package: qt6-plugin-libqoffscreen
@@ -573,8 +573,8 @@ URL: http://qt-project.org
 Architecture: riscv64_riscv64
 Installed-Size: 102400
 Filename: qt6-plugin-libqoffscreen_6.8.3-r1_riscv64_riscv64.ipk
-Size: 37118
-SHA256sum: df5296a6d98fedd5d44baa9044ef4b60282390a6fcf2aee423732dda7ecd8458
+Size: 37117
+SHA256sum: 2d332f9624d45e95623ac2693d2d74567bb7a80ae98e65e5b78361247309eccd
 Description:  Qt6 Plugin libqoffscreen
 
 Package: qt6-plugin-libqopensslbackend
@@ -588,8 +588,8 @@ URL: http://qt-project.org
 Architecture: riscv64_riscv64
 Installed-Size: 266240
 Filename: qt6-plugin-libqopensslbackend_6.8.3-r1_riscv64_riscv64.ipk
-Size: 116102
-SHA256sum: 80c26ea4f46cff2299659d437cd50d49a5948d99cb5bc7b8700fd1719dabd7e7
+Size: 116111
+SHA256sum: 8b598501b47c1e28a827e938115e959d75d9531b1cb3297074b647397fd71819
 Description:  Qt6 Plugin libqopensslbackend
 
 Package: qt6-plugin-libqsqlite
@@ -603,8 +603,8 @@ URL: http://qt-project.org
 Architecture: riscv64_riscv64
 Installed-Size: 1597440
 Filename: qt6-plugin-libqsqlite_6.8.3-r1_riscv64_riscv64.ipk
-Size: 997011
-SHA256sum: 3a1a9f5dc8acc7190f503e6d925a51275bdc32899b05de70326d4283d502ce37
+Size: 997009
+SHA256sum: a2a7ab9d5c35434569db7357c020f96d7f43fb4629140a99f579c0de4e89255c
 Description:  Qt6 Plugin libqsqlite
 
 Package: qt6-plugin-libqtuiotouchplugin
@@ -618,8 +618,8 @@ URL: http://qt-project.org
 Architecture: riscv64_riscv64
 Installed-Size: 81920
 Filename: qt6-plugin-libqtuiotouchplugin_6.8.3-r1_riscv64_riscv64.ipk
-Size: 39117
-SHA256sum: 406a63ab6af2e1bbce3d8ab28aebedfb0067343b6147bbd14f33902e5c1ce281
+Size: 39110
+SHA256sum: 33812ef35f0d621b03f95f06175532f07711acc82c4602af1e722081eb67bb98
 Description:  Qt6 Plugin libqtuiotouchplugin
 
 Package: qt6-plugin-libqxdgdesktopportal
@@ -633,9 +633,30 @@ URL: http://qt-project.org
 Architecture: riscv64_riscv64
 Installed-Size: 112640
 Filename: qt6-plugin-libqxdgdesktopportal_6.8.3-r1_riscv64_riscv64.ipk
-Size: 44018
-SHA256sum: df84f21c30ec4b3fe120975a46844250610847244ba2f4bcb3a1909105ad8565
+Size: 44024
+SHA256sum: dbebe949af147e015cb600171c6500920092eace68edc90bbeb85e21b4b6e6df
 Description:  Qt6 Plugin libqxdgdesktopportal
+
+Package: rblibtorrent2.0
+Version: 2.0.11-r1
+Depends: libc, boost, boost-system, libatomic1, libgcc1, libopenssl3, libstdcpp6
+Provides: rblibtorrent
+Source: /feed/luci/luci-app-qbittorrent/rblibtorrent
+SourceName: rblibtorrent
+License: BSD
+LicenseFiles: COPYING
+Section: libs
+SourceDateEpoch: 1751440335
+URL: https://www.libtorrent.org
+ABIVersion: 2.0
+Architecture: riscv64_riscv64
+Installed-Size: 3092480
+Filename: rblibtorrent2.0_2.0.11-r1_riscv64_riscv64.ipk
+Size: 1384219
+SHA256sum: 28d75389f7077f6ab091a16812287d09d8ad333e2fca1a051e7bf567cb757976
+Description:  Rasterbar libtorrent is a C++ library that aims to be a good alternative to
+ all the other bittorrent implementations around. It is a library and not a
+ full featured client, although it comes with a working example client.
 
 Package: rgmac
 Version: 1.5.1-r20240803
@@ -669,8 +690,8 @@ Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: riscv64_riscv64
 Installed-Size: 23224320
 Filename: speedtest-go_1.7.10-r1_riscv64_riscv64.ipk
-Size: 9517104
-SHA256sum: 0e6412daa79396a6ff8d0a1d862901b44a7551da0db8cced1fdfe43ba6668fd9
+Size: 9517041
+SHA256sum: 4ab62576ed370546cc39385650caa98840e4102578515cec78685f85c745e62f
 Description:  Command Line Interface and pure Go API to
  Test Internet Speed using speedtest.net
 
@@ -688,8 +709,8 @@ Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: riscv64_riscv64
 Installed-Size: 81920
 Filename: stuntman-client_1.2.17~cc5b875b-r20240806_riscv64_riscv64.ipk
-Size: 40518
-SHA256sum: eed33bdc32fad2e3186256dfb62309a4a7c74d5a27d0d633e18a6864dff52d91
+Size: 40517
+SHA256sum: 2dbae31157ddd037e8bec9b3e7ca4d12c637b52f5a0fb88538c6adbb0738df9c
 Description:  An open source STUN server and client code by john selbie. Compliant with the latest RFCs including 5389, 5769, and 5780. Also includes backwards compatibility for RFC 3489.
 
 Package: stuntman-server
@@ -706,8 +727,8 @@ Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: riscv64_riscv64
 Installed-Size: 174080
 Filename: stuntman-server_1.2.17~cc5b875b-r20240806_riscv64_riscv64.ipk
-Size: 91758
-SHA256sum: d307ceafa1210304e6762a4cb56baeeb6490f706d9c722249eea9abca1b16439
+Size: 91753
+SHA256sum: ea0303672e435f41a44cc48c9d531b96abf32823bc59b03947426735a15e7726
 Description:  An open source STUN server and client code by john selbie. Compliant with the latest RFCs including 5389, 5769, and 5780. Also includes backwards compatibility for RFC 3489.
 
 Package: stuntman-testcode
@@ -724,8 +745,8 @@ Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: riscv64_riscv64
 Installed-Size: 133120
 Filename: stuntman-testcode_1.2.17~cc5b875b-r20240806_riscv64_riscv64.ipk
-Size: 66556
-SHA256sum: 6ccef971654b99173e749a50153642865515887f4540ed60669570d2a6164c5a
+Size: 66558
+SHA256sum: ee4dfd9350e527d1757b103939c83640414f39749c1baf4f507a1ab3533496dc
 Description:  An open source STUN server and client code by john selbie. Compliant with the latest RFCs including 5389, 5769, and 5780. Also includes backwards compatibility for RFC 3489.
 
 Package: uci-alwaysonline

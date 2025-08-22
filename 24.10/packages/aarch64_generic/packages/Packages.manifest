@@ -101,8 +101,8 @@ Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: aarch64_generic
 Installed-Size: 1198080
 Filename: fastfetch_2.49.0-r1_aarch64_generic.ipk
-Size: 395015
-SHA256sum: 38c822b40a53484fbe72f88498ccab53d6738357f261d22deb9efa7fb9779d75
+Size: 397366
+SHA256sum: aa704ecc25cf33187ef88656e87a300508db0ac60b8fca4ce163f9504027578b
 Description:  Fastfetch is a neofetch-like tool for fetching
  system information and displaying it prettily.
 
@@ -127,35 +127,35 @@ Description:  go-stun is a STUN (RFC 3489, 5389) client implementation in golang
  RFC 5389: Session Traversal Utilities for NAT (STUN)
 
 Package: internet-detector-mod-email
-Version: 1.6.0-r1
+Version: 1.6.2-r1
 Depends: libc, internet-detector, mailsend
 Source: /feed/luci/luci-app-internet-detector/internet-detector-mod-email
 SourceName: internet-detector-mod-email
 Section: net
-SourceDateEpoch: 1751579857
+SourceDateEpoch: 1754783498
 URL: https://github.com/gSpotx2f/luci-app-internet-detector
 Maintainer: gSpot <https://github.com/gSpotx2f/luci-app-internet-detector>
 Architecture: all
 Installed-Size: 20480
-Filename: internet-detector-mod-email_1.6.0-r1_all.ipk
-Size: 2838
-SHA256sum: f2746711ea83ca28a93522cb04a26305df70413bf81b5dc22143f083af0dfae7
+Filename: internet-detector-mod-email_1.6.2-r1_all.ipk
+Size: 2844
+SHA256sum: c6a9d3e88c2f68d062e1454a6a6df913f3b80c3fb402785ded34cb5fb3f118c4
 Description:  Email support for internet-detector.
 
 Package: internet-detector-mod-modem-restart
-Version: 1.6.0-r1
+Version: 1.6.2-r1
 Depends: libc, internet-detector, modemmanager
 Source: /feed/luci/luci-app-internet-detector/internet-detector-mod-modem-restart
 SourceName: internet-detector-mod-modem-restart
 Section: net
-SourceDateEpoch: 1751579857
+SourceDateEpoch: 1754783498
 URL: https://github.com/gSpotx2f/luci-app-internet-detector
 Maintainer: gSpot <https://github.com/gSpotx2f/luci-app-internet-detector>
 Architecture: all
 Installed-Size: 10240
-Filename: internet-detector-mod-modem-restart_1.6.0-r1_all.ipk
-Size: 2193
-SHA256sum: 18cbbe8b5e967f496a3576d11b42fe6964a0d7b62784bdfa727262ffeb8d5ed7
+Filename: internet-detector-mod-modem-restart_1.6.2-r1_all.ipk
+Size: 2192
+SHA256sum: a17c142f139c4988508fdcaf652d3d9bafb68fa70e945dd74c85085197fc1364
 Description:  Support modem restart for internet detector.
 
 Package: internet-detector
@@ -341,8 +341,8 @@ Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: aarch64_generic
 Installed-Size: 29736960
 Filename: mihomo_1.19.12-r1_aarch64_generic.ipk
-Size: 10598322
-SHA256sum: 2a315bda767ecd297885261c5548531b86db231acd738ada72e6bb304a778094
+Size: 10598281
+SHA256sum: 04fcba63648090d81100baa0f0090b7466516967d60aab373caf9877ce3b1b58
 Description:  Another Mihomo Kernel.
 
 Package: natmapt-client-script-deluge
@@ -671,6 +671,27 @@ Filename: qt6-plugin-libqxdgdesktopportal_6.8.3-r1_aarch64_generic.ipk
 Size: 46716
 SHA256sum: 74868f837b3d09a535babccd37877bfe65c86d3650e7e6e67bcefe3e2a317321
 Description:  Qt6 Plugin libqxdgdesktopportal
+
+Package: rblibtorrent2.0
+Version: 2.0.11-r1
+Depends: libc, boost, boost-system, libatomic1, libgcc1, libopenssl3, libstdcpp6
+Provides: rblibtorrent
+Source: /feed/luci/luci-app-qbittorrent/rblibtorrent
+SourceName: rblibtorrent
+License: BSD
+LicenseFiles: COPYING
+Section: libs
+SourceDateEpoch: 1751440335
+URL: https://www.libtorrent.org
+ABIVersion: 2.0
+Architecture: aarch64_generic
+Installed-Size: 3809280
+Filename: rblibtorrent2.0_2.0.11-r1_aarch64_generic.ipk
+Size: 1389825
+SHA256sum: c04f75dd99f185c180d5d54b6c2c96fb54e011a14ea51f04e1988a3fbdb87c45
+Description:  Rasterbar libtorrent is a C++ library that aims to be a good alternative to
+ all the other bittorrent implementations around. It is a library and not a
+ full featured client, although it comes with a working example client.
 
 Package: rgmac
 Version: 1.5.1-r20240803
