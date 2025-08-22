@@ -2,7 +2,7 @@
   "version": 2,
   "architecture": "x86_64",
   "packages": {
-    "einat-ebpf": "0.1.9-r1",
+    "einat-ebpf": "0.1.9-r2",
     "libQt6Concurrent": "6.8.3-r1",
     "libQt6Core": "6.8.3-r1",
     "libQt6DBus": "6.8.3-r1",
@@ -62,11 +62,11 @@
     "qt6-plugin-libqsqlite": "6.8.3-r1",
     "qt6-plugin-libqtuiotouchplugin": "6.8.3-r1",
     "qt6-plugin-libqxdgdesktopportal": "6.8.3-r1",
-    "shadowsocks-rust-config": "1.23.5-r1",
-    "shadowsocks-rust-sslocal": "1.23.5-r1",
-    "shadowsocks-rust-ssmanager": "1.23.5-r1",
-    "shadowsocks-rust-ssserver": "1.23.5-r1",
-    "shadowsocks-rust-ssservice": "1.23.5-r1",
-    "shadowsocks-rust-ssurl": "1.23.5-r1"
+    "shadowsocks-rust-config": "1.23.5-r2",
+    "shadowsocks-rust-sslocal": "1.23.5-r2",
+    "shadowsocks-rust-ssmanager": "1.23.5-r2",
+    "shadowsocks-rust-ssserver": "1.23.5-r2",
+    "shadowsocks-rust-ssservice": "1.23.5-r2",
+    "shadowsocks-rust-ssurl": "1.23.5-r2"
   }
 }
