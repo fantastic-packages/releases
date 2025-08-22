@@ -6,10 +6,10 @@ License: GPL-2.0-or-later GPL-2.0-only
 Section: net
 URL: https://github.com/EHfive/einat-ebpf
 Architecture: arm_cortex-a15_neon-vfpv4
-Installed-Size: 2007040
+Installed-Size: 1996800
 Filename: einat-ebpf_0.1.9-r1_arm_cortex-a15_neon-vfpv4.ipk
-Size: 881468
-SHA256sum: a281b5efd0740d8d2c06914ce3c02e7429d6f3429ac65ff0c4e1122303fd3d24
+Size: 879487
+SHA256sum: 7dc2b9985099364e99bf26eb9ff1446ff316d61893c9e37f595664bde208f7a2
 Description:  This eBPF application implements an "Endpoint-Independent Mapping" and
  "Endpoint-Independent Filtering" NAT(network address translation) on
  TC egress and ingress hooks.
@@ -531,10 +531,10 @@ License: MIT
 Section: net
 URL: https://github.com/shadowsocks/shadowsocks-rust
 Architecture: arm_cortex-a15_neon-vfpv4
-Installed-Size: 7761920
+Installed-Size: 7741440
 Filename: shadowsocks-rust-ssservice_1.23.5-r1_arm_cortex-a15_neon-vfpv4.ipk
-Size: 3543947
-SHA256sum: e330f25a00aed28ceb9749b86b030d3bc05113dc5fb77f1c9aff0b08c9e6a486
+Size: 3534295
+SHA256sum: 4e2298eed018645a8381c1895bb51586b44b22e9f944af7de523d158d6b6ad97
 Description:  shadowsocks-rust ssservice. single bundled of local,server,manager. also used to generate safed secured password.
 
 Package: shadowsocks-rust-ssurl
@@ -544,9 +544,9 @@ License: MIT
 Section: net
 URL: https://github.com/shadowsocks/shadowsocks-rust
 Architecture: arm_cortex-a15_neon-vfpv4
-Installed-Size: 2191360
+Installed-Size: 2160640
 Filename: shadowsocks-rust-ssurl_1.23.5-r1_arm_cortex-a15_neon-vfpv4.ipk
-Size: 959338
-SHA256sum: 2d7205845686c395317c8f9f70af8a2cbe779a56408f738085863ebcf40af959
+Size: 943228
+SHA256sum: 720261d418ca77eb156296414071b008e59b958aaf4ff74d60e5a113bc0dc09a
 Description:  shadowsocks-rust ssurl. for encoding/decoding SIP002 URLs.
 

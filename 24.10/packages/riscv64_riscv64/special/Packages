@@ -6,10 +6,10 @@ License: GPL-2.0-or-later GPL-2.0-only
 Section: net
 URL: https://github.com/EHfive/einat-ebpf
 Architecture: riscv64_riscv64
-Installed-Size: 2109440
+Installed-Size: 2191360
 Filename: einat-ebpf_0.1.9-r1_riscv64_riscv64.ipk
-Size: 939149
-SHA256sum: cbcafd7eb455178bf3bd0bd5712abcdd9205c002523f9e92381dbfabdc8178d5
+Size: 971537
+SHA256sum: a9fae1a5c39b8d63dea1efbb23920ef955e7e8df70bb8a4daeb1d9b298e64d70
 Description:  This eBPF application implements an "Endpoint-Independent Mapping" and
  "Endpoint-Independent Filtering" NAT(network address translation) on
  TC egress and ingress hooks.
@@ -531,10 +531,10 @@ License: MIT
 Section: net
 URL: https://github.com/shadowsocks/shadowsocks-rust
 Architecture: riscv64_riscv64
-Installed-Size: 8570880
+Installed-Size: 8785920
 Filename: shadowsocks-rust-ssservice_1.23.5-r1_riscv64_riscv64.ipk
-Size: 3706143
-SHA256sum: 070db74043e6c53ae34ae63d18c16d3d7bcfdb319a3895f6cc5eec53f06a2fa0
+Size: 3802898
+SHA256sum: c1a67250d5b37c68f9b8a59fab09b5efc7ab6d9e714d5dc47e03af6d74032708
 Description:  shadowsocks-rust ssservice. single bundled of local,server,manager. also used to generate safed secured password.
 
 Package: shadowsocks-rust-ssurl
@@ -544,9 +544,9 @@ License: MIT
 Section: net
 URL: https://github.com/shadowsocks/shadowsocks-rust
 Architecture: riscv64_riscv64
-Installed-Size: 2416640
+Installed-Size: 2467840
 Filename: shadowsocks-rust-ssurl_1.23.5-r1_riscv64_riscv64.ipk
-Size: 999765
-SHA256sum: f60885a126390a04cb2e3280e4008b6e5bff12f5c830d8d07e5a7beec4545536
+Size: 1018661
+SHA256sum: de87ede71bd4b19863c32e0b71bf6d32d40a668f247e2a9b28173873f2811fd4
 Description:  shadowsocks-rust ssurl. for encoding/decoding SIP002 URLs.
 

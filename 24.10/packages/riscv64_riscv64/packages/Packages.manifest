@@ -637,27 +637,6 @@ Size: 44018
 SHA256sum: df84f21c30ec4b3fe120975a46844250610847244ba2f4bcb3a1909105ad8565
 Description:  Qt6 Plugin libqxdgdesktopportal
 
-Package: rblibtorrent2.0
-Version: 2.0.11-r1
-Depends: libc, boost, boost-system, libatomic1, libgcc1, libopenssl3, libstdcpp6
-Provides: rblibtorrent
-Source: /feed/luci/luci-app-qbittorrent/rblibtorrent
-SourceName: rblibtorrent
-License: BSD
-LicenseFiles: COPYING
-Section: libs
-SourceDateEpoch: 1751440335
-URL: https://www.libtorrent.org
-ABIVersion: 2.0
-Architecture: riscv64_riscv64
-Installed-Size: 3092480
-Filename: rblibtorrent2.0_2.0.11-r1_riscv64_riscv64.ipk
-Size: 1384226
-SHA256sum: 0ad6584cf195ac7c8b501b881b95155cd494f0c52cf9059d864247b698bc1714
-Description:  Rasterbar libtorrent is a C++ library that aims to be a good alternative to
- all the other bittorrent implementations around. It is a library and not a
- full featured client, although it comes with a working example client.
-
 Package: rgmac
 Version: 1.5.1-r20240803
 Depends: libc, bash, curl, coreutils-cksum, getopt

@@ -5,10 +5,10 @@ Provides: einat
 License: GPL-2.0-or-later GPL-2.0-only
 Section: net
 Architecture: riscv64_riscv64
-Installed-Size: 943822
+Installed-Size: 941952
 Filename: einat-ebpf_0.1.8-1_riscv64_riscv64.ipk
-Size: 938013
-SHA256sum: df3f9c48835439382df746ab018bd2f67a47809abe50281555aabdd3d07c73aa
+Size: 936590
+SHA256sum: 9c21431d60ddb0d4f3394031cf2a040cb41ec29909fd8e5d626936aeb44299bd
 Description:  This eBPF application implements an "Endpoint-Independent Mapping" and
  "Endpoint-Independent Filtering" NAT(network address translation) on
  TC egress and ingress hooks.
