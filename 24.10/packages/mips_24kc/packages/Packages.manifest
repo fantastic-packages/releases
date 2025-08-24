@@ -335,14 +335,14 @@ License: GPL-2.0
 LicenseFiles: LICENSE
 Section: net
 Require-User: mihomo=7890:mihomo=7890
-SourceDateEpoch: 1755766211
+SourceDateEpoch: 1756011895
 URL: https://wiki.metacubex.one
 Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: mips_24kc
 Installed-Size: 32583680
 Filename: mihomo_1.19.12-r1_mips_24kc.ipk
-Size: 10391300
-SHA256sum: 1009dcd05b2b77a0efe21595ff96bd00c644ad65743a204fa3f565070d58f010
+Size: 10391418
+SHA256sum: 52d9d541c7ada921018edab08bc7fd4871538df36c5c73d18388c5b0a2e9bda5
 Description:  Another Mihomo Kernel.
 
 Package: natmapt-client-script-deluge
@@ -671,27 +671,6 @@ Filename: qt6-plugin-libqxdgdesktopportal_6.8.3-r1_mips_24kc.ipk
 Size: 42445
 SHA256sum: 38c2413cf341999e83e432698d2d62a59baa3d8188a5feb6b42307dd63591370
 Description:  Qt6 Plugin libqxdgdesktopportal
-
-Package: rblibtorrent2.0
-Version: 2.0.11-r1
-Depends: libc, boost, boost-system, libatomic1, libgcc1, libopenssl3, libstdcpp6
-Provides: rblibtorrent
-Source: /feed/luci/luci-app-qbittorrent/rblibtorrent
-SourceName: rblibtorrent
-License: BSD
-LicenseFiles: COPYING
-Section: libs
-SourceDateEpoch: 1751440335
-URL: https://www.libtorrent.org
-ABIVersion: 2.0
-Architecture: mips_24kc
-Installed-Size: 4567040
-Filename: rblibtorrent2.0_2.0.11-r1_mips_24kc.ipk
-Size: 1568256
-SHA256sum: 9969aff81ff73df14011321b20922ef38b12f053f9a4d385e2458f45cacfa805
-Description:  Rasterbar libtorrent is a C++ library that aims to be a good alternative to
- all the other bittorrent implementations around. It is a library and not a
- full featured client, although it comes with a working example client.
 
 Package: rgmac
 Version: 1.5.1-r20240803
