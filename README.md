@@ -77,18 +77,18 @@ curl -sSL "https://fantastic-packages.github.io/releases/<major.minor version>/$
 
 - Append the following to the EOF
 ```ini
-src/gz fantastic_packages_luci https://fantastic-packages.github.io/releases/<major.minor version>/packages/<package arch>/luci
+src/gz fantastic_packages_luci     https://fantastic-packages.github.io/releases/<major.minor version>/packages/<package arch>/luci
 src/gz fantastic_packages_packages https://fantastic-packages.github.io/releases/<major.minor version>/packages/<package arch>/packages
-src/gz fantastic_packages_special https://fantastic-packages.github.io/releases/<major.minor version>/packages/<package arch>/special
+src/gz fantastic_packages_special  https://fantastic-packages.github.io/releases/<major.minor version>/packages/<package arch>/special
 ```
 - like this
 ```ini
 # add your custom package feeds here
 #
 # src/gz example_feed_name http://www.example.com/path/to/files
-src/gz fantastic_packages_luci https://fantastic-packages.github.io/releases/21.02/packages/x86_64/luci
+src/gz fantastic_packages_luci     https://fantastic-packages.github.io/releases/21.02/packages/x86_64/luci
 src/gz fantastic_packages_packages https://fantastic-packages.github.io/releases/21.02/packages/x86_64/packages
-src/gz fantastic_packages_special https://fantastic-packages.github.io/releases/21.02/packages/x86_64/special
+src/gz fantastic_packages_special  https://fantastic-packages.github.io/releases/21.02/packages/x86_64/special
 ```
 
 ##### Add usign pub-keys to opkg
