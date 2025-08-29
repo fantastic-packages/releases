@@ -61,8 +61,8 @@ curl -sSL -o /etc/apk/keys/fantastic-packages-${KEYID}.pem "https://fantastic-pa
 ```
 - OR
 ```bash
-opkg update
-opkg install curl bash
+apk update
+apk add curl bash
 curl -sSL "https://fantastic-packages.github.io/releases/<major.minor version>/${KEYID}.sh" | bash
 ```
 
