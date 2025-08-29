@@ -1,6 +1,12 @@
 # fantastic-packages Packages Downloads
 Welcome to the fantastic-packages packages download page. Follow the links below to find the appropriate directory.
 
+> [!WARNING]\
+> The packages of EOL versions of OpenWrt will stop updated. And deleted after one year.\
+> Click <a href="https://openwrt.org/docs/guide-developer/security#support_status">here</a> to check support status.
+
+
+
 ## Link
 [Releases](https://fantastic-packages.github.io/releases/)
 
