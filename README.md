@@ -2,7 +2,7 @@
 Welcome to the fantastic-packages packages download page. Follow the links below to find the appropriate directory.
 
 > [!WARNING]\
-> The packages of EOL versions of OpenWrt will stop updated. And deleted after one year.\
+> The packages of EOL versions of OpenWrt will stop updated. And move to `archive/<major.minor version>` branch.\
 > Click <a href="https://openwrt.org/docs/guide-developer/security#support_status">here</a> to check support status.
 
 
