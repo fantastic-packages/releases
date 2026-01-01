@@ -1,0 +1,936 @@
+Package: bandix
+Version: 0.11.0-r1
+Depends: libc
+License: Apache-2.0
+Section: net
+Architecture: riscv64_riscv64
+Installed-Size: 3297280
+Filename: bandix_0.11.0-r1_riscv64_riscv64.ipk
+Size: 1527727
+SHA256sum: 3eccf9bd3521892f1bfcb02cbd40d253208dd9940ff712dda6d2555c8a1ae71d
+Description:  Bandix core service for network traffic monitoring
+
+Package: einat-ebpf
+Version: 0.1.10-r2
+Depends: libc, kmod-sched-core, kmod-sched-bpf
+Provides: einat
+License: GPL-2.0-or-later GPL-2.0-only
+Section: net
+URL: https://github.com/EHfive/einat-ebpf
+Architecture: riscv64_riscv64
+Installed-Size: 2252800
+Filename: einat-ebpf_0.1.10-r2_riscv64_riscv64.ipk
+Size: 999763
+SHA256sum: 396e837cdc419224e9178950a03c803b1b7fa39aa72df54511931c32c3f52f14
+Description:  This eBPF application implements an "Endpoint-Independent Mapping" and
+ "Endpoint-Independent Filtering" NAT(network address translation) on
+ TC egress and ingress hooks.
+
+Package: libQt6Concurrent
+Version: 6.8.3-r1
+Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Core
+Section: libs
+URL: http://qt-project.org
+Architecture: riscv64_riscv64
+Installed-Size: 30720
+Filename: libQt6Concurrent_6.8.3-r1_riscv64_riscv64.ipk
+Size: 8098
+SHA256sum: 419ba45f16cb3015c13f6acc0af9c53ac93b334142eaa17632111ecd8bcbb88a
+Description:  This package provides the Qt6 Concurrent v6.8.3 library.
+
+Package: libQt6Core
+Version: 6.8.3-r1
+Depends: libc, libatomic1, libstdcpp6, zlib, libpcre2-16
+Section: libs
+URL: http://qt-project.org
+Architecture: riscv64_riscv64
+Installed-Size: 5867520
+Filename: libQt6Core_6.8.3-r1_riscv64_riscv64.ipk
+Size: 2717465
+SHA256sum: 12b2cbf7e14dfcd8c6f586d28b92318bb70decfe5c96c17062cf63f9860d31a9
+Description:  This package provides the Qt6 Core v6.8.3 library.
+
+Package: libQt6DBus
+Version: 6.8.3-r1
+Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Core
+Section: libs
+URL: http://qt-project.org
+Architecture: riscv64_riscv64
+Installed-Size: 737280
+Filename: libQt6DBus_6.8.3-r1_riscv64_riscv64.ipk
+Size: 326745
+SHA256sum: b994717b62384defc8511c1e18971cc7e2973514b3448ac4cef6e5cd04060ef8
+Description:  This package provides the Qt6 DBus v6.8.3 library.
+
+Package: libQt6Gui
+Version: 6.8.3-r1
+Depends: libc, libatomic1, libstdcpp6, zlib, libQt6DBus, libdrm, libfreetype
+Section: libs
+URL: http://qt-project.org
+Architecture: riscv64_riscv64
+Installed-Size: 6123520
+Filename: libQt6Gui_6.8.3-r1_riscv64_riscv64.ipk
+Size: 2967376
+SHA256sum: e45e8661e38ba3ee34d5bd3014be5da10aed9ac132dadec15a8489aaae1db932
+Description:  This package provides the Qt6 Gui v6.8.3 library.
+
+Package: libQt6Network
+Version: 6.8.3-r1
+Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Core, libopenssl3, krb5-libs
+Section: libs
+URL: http://qt-project.org
+Architecture: riscv64_riscv64
+Installed-Size: 1894400
+Filename: libQt6Network_6.8.3-r1_riscv64_riscv64.ipk
+Size: 888758
+SHA256sum: 24144ba1d3535a8e7fbcdd7793ba7f412217c2a5d16b73e340376ad797c5210a
+Description:  This package provides the Qt6 Network v6.8.3 library.
+
+Package: libQt6PrintSupport
+Version: 6.8.3-r1
+Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Widgets
+Section: libs
+URL: http://qt-project.org
+Architecture: riscv64_riscv64
+Installed-Size: 409600
+Filename: libQt6PrintSupport_6.8.3-r1_riscv64_riscv64.ipk
+Size: 164393
+SHA256sum: 9cad5f2a58f88006ef624206143efe32334e06782ad66a9b6d7157200d04add9
+Description:  This package provides the Qt6 PrintSupport v6.8.3 library.
+
+Package: libQt6Sql
+Version: 6.8.3-r1
+Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Core
+Section: libs
+URL: http://qt-project.org
+Architecture: riscv64_riscv64
+Installed-Size: 204800
+Filename: libQt6Sql_6.8.3-r1_riscv64_riscv64.ipk
+Size: 89370
+SHA256sum: 2fa96fe4ed03283a0556b837fef6ae43b569b676b5bd7f891824bd628fd29709
+Description:  This package provides the Qt6 Sql v6.8.3 library.
+
+Package: libQt6Test
+Version: 6.8.3-r1
+Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Core
+Section: libs
+URL: http://qt-project.org
+Architecture: riscv64_riscv64
+Installed-Size: 327680
+Filename: libQt6Test_6.8.3-r1_riscv64_riscv64.ipk
+Size: 151612
+SHA256sum: b302bca70f493ebcf96bff49aa1a2c518bbdfad731ae8e5481d5a0156cb500d1
+Description:  This package provides the Qt6 Test v6.8.3 library.
+
+Package: libQt6Widgets
+Version: 6.8.3-r1
+Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Gui
+Section: libs
+URL: http://qt-project.org
+Architecture: riscv64_riscv64
+Installed-Size: 7096320
+Filename: libQt6Widgets_6.8.3-r1_riscv64_riscv64.ipk
+Size: 3370702
+SHA256sum: 4f9df294ce5e38c29ae4cccbb02ebd66c9ab26392e58dcae5ed1ccd22addc277
+Description:  This package provides the Qt6 Widgets v6.8.3 library.
+
+Package: libQt6Xml
+Version: 6.8.3-r1
+Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Core
+Section: libs
+URL: http://qt-project.org
+Architecture: riscv64_riscv64
+Installed-Size: 163840
+Filename: libQt6Xml_6.8.3-r1_riscv64_riscv64.ipk
+Size: 69273
+SHA256sum: 3380dd575d1e85a0cabdfbc77bfbc9070abb79b71ed2c480d91716d49f9dbd37
+Description:  This package provides the Qt6 Xml v6.8.3 library.
+
+Package: luci-app-bandix
+Version: 0.11.1-r1
+Depends: libc, luci-base, luci-lib-jsonc, curl, bandix
+License: Apache-2.0
+Section: luci
+URL: https://github.com/openwrt/luci
+Architecture: all
+Installed-Size: 337920
+Filename: luci-app-bandix_0.11.1-r1_all.ipk
+Size: 56129
+SHA256sum: e3b12f9653060b2879c3f3884b97b85996f02214cc1db6ccc982a5328beb5ec4
+Description:  LuCI Bandix app for network traffic monitoring
+
+Package: luci-app-einat
+Version: 25.087.04343~82838e7
+Depends: libc, einat-ebpf
+License: MIT
+Section: luci
+URL: https://github.com/openwrt/luci
+Architecture: all
+Installed-Size: 20480
+Filename: luci-app-einat_25.087.04343~82838e7_all.ipk
+Size: 3490
+SHA256sum: be713c4f213ca08547b4cf9987f41e838a78620500f157fdfbe45e16c6265d97
+Description:  eBPF-based Endpoint-Independent NAT
+
+Package: luci-app-qbittorrent
+Version: 1.0.1-r1
+Depends: libc, qbittorrent
+Section: luci
+URL: https://github.com/openwrt/luci
+Architecture: all
+Installed-Size: 20480
+Filename: luci-app-qbittorrent_1.0.1-r1_all.ipk
+Size: 2661
+SHA256sum: fcdcbd0667d2b3cfb4585ad3708b497f6793b9a1c5734509391624fdfd93c7e6
+Description:  LuCI support for qBittorrent
+
+Package: luci-app-shadowsocks-rust
+Version: 24.354.13337~0fc7009
+Depends: libc, luci-base, shadowsocks-rust-config
+License: Apache-2.0
+Section: luci
+URL: https://github.com/openwrt/luci
+Architecture: all
+Installed-Size: 61440
+Filename: luci-app-shadowsocks-rust_24.354.13337~0fc7009_all.ipk
+Size: 11592
+SHA256sum: 6136810da88d7a6e225f5c3a35c0224586c7b23ce6c77a6fe5f04a46a3e93dba
+Description:  LuCI Support for shadowsocks-rust
+
+Package: luci-i18n-bandix-es
+Version: 25.362.10154~b364295
+Depends: libc, luci-app-bandix
+License: Apache-2.0
+Section: luci
+Architecture: all
+Installed-Size: 30720
+Filename: luci-i18n-bandix-es_25.362.10154~b364295_all.ipk
+Size: 7361
+SHA256sum: 5e90fdaffef1dc30590018e36f9cfa3a49228e96eed7702915de96fd9d2d8812
+Description:  Translation for luci-app-bandix - Español (Spanish)
+
+Package: luci-i18n-bandix-fr
+Version: 25.362.10154~b364295
+Depends: libc, luci-app-bandix
+License: Apache-2.0
+Section: luci
+Architecture: all
+Installed-Size: 20480
+Filename: luci-i18n-bandix-fr_25.362.10154~b364295_all.ipk
+Size: 7662
+SHA256sum: 0c8a2159a7ee577213e70f5c4df0bf2b0ee727e6e87a91a54336c112757ee2d6
+Description:  Translation for luci-app-bandix - Français (French)
+
+Package: luci-i18n-bandix-ja
+Version: 25.362.10154~b364295
+Depends: libc, luci-app-bandix
+License: Apache-2.0
+Section: luci
+Architecture: all
+Installed-Size: 30720
+Filename: luci-i18n-bandix-ja_25.362.10154~b364295_all.ipk
+Size: 7443
+SHA256sum: 1b8f560e979715f25d7b15df826aaae7cb9c0a4aea6d9416211fe87ef503abc8
+Description:  Translation for luci-app-bandix - 日本語 (Japanese)
+
+Package: luci-i18n-bandix-pl
+Version: 25.362.10154~b364295
+Depends: libc, luci-app-bandix
+License: Apache-2.0
+Section: luci
+Architecture: all
+Installed-Size: 20480
+Filename: luci-i18n-bandix-pl_25.362.10154~b364295_all.ipk
+Size: 7491
+SHA256sum: a98fad0ea9682d795f0e4a84101e81fe917d7330d16ac64e336a58cb2a74ff1a
+Description:  Translation for luci-app-bandix - Polski (Polish)
+
+Package: luci-i18n-bandix-ru
+Version: 25.362.10154~b364295
+Depends: libc, luci-app-bandix
+License: Apache-2.0
+Section: luci
+Architecture: all
+Installed-Size: 30720
+Filename: luci-i18n-bandix-ru_25.362.10154~b364295_all.ipk
+Size: 8110
+SHA256sum: 746a0bede9cafe56d173ff40f431d896af1fb066d5d726487c56fb67d137ea80
+Description:  Translation for luci-app-bandix - Русский (Russian)
+
+Package: luci-i18n-bandix-zh-cn
+Version: 25.362.10154~b364295
+Depends: libc, luci-app-bandix
+License: Apache-2.0
+Section: luci
+Architecture: all
+Installed-Size: 20480
+Filename: luci-i18n-bandix-zh-cn_25.362.10154~b364295_all.ipk
+Size: 6994
+SHA256sum: 85fd378989e4bec2041997277f4f1c138e0f7d9ba7f477b51f1c4af57e428b9a
+Description:  Translation for luci-app-bandix - 简体中文 (Simplified Chinese)
+
+Package: luci-i18n-bandix-zh-tw
+Version: 25.362.10154~b364295
+Depends: libc, luci-app-bandix
+License: Apache-2.0
+Section: luci
+Architecture: all
+Installed-Size: 20480
+Filename: luci-i18n-bandix-zh-tw_25.362.10154~b364295_all.ipk
+Size: 6993
+SHA256sum: 31e709953d87edbd2104d0294f430c92b28a9ba445a7d89d9dc3a1c81f6c93ca
+Description:  Translation for luci-app-bandix - 正體中文 (Traditional Chinese)
+
+Package: luci-i18n-einat-zh-cn
+Version: 25.087.04343~82838e7
+Depends: libc, luci-app-einat
+License: MIT
+Section: luci
+Architecture: all
+Installed-Size: 10240
+Filename: luci-i18n-einat-zh-cn_25.087.04343~82838e7_all.ipk
+Size: 1808
+SHA256sum: 4102088e45042b2612a1a5a1a30722db6b6c537d72c616975dbeac4e0ad4c1ba
+Description:  Translation for luci-app-einat - 简体中文 (Simplified Chinese)
+
+Package: luci-i18n-einat-zh-tw
+Version: 25.087.04343~82838e7
+Depends: libc, luci-app-einat
+License: MIT
+Section: luci
+Architecture: all
+Installed-Size: 10240
+Filename: luci-i18n-einat-zh-tw_25.087.04343~82838e7_all.ipk
+Size: 1824
+SHA256sum: a762faae5aecc70b4f980e99cbee52a4f9f3bc219471ed5bd5bdd93cac11d582
+Description:  Translation for luci-app-einat - 正體中文 (Traditional Chinese)
+
+Package: luci-i18n-qbittorrent-zh-cn
+Version: 25.183.25935~f2b5d6a
+Depends: libc, luci-app-qbittorrent
+Section: luci
+Architecture: all
+Installed-Size: 10240
+Filename: luci-i18n-qbittorrent-zh-cn_25.183.25935~f2b5d6a_all.ipk
+Size: 1450
+SHA256sum: 1f1faf92609f19295b72ef1920d6372f3ef206c56b27dd91e76b3d209cfef307
+Description:  Translation for luci-app-qbittorrent - 简体中文 (Simplified Chinese)
+
+Package: luci-i18n-shadowsocks-rust-ar
+Version: 24.354.13337~0fc7009
+Depends: libc, luci-app-shadowsocks-rust
+License: Apache-2.0
+Section: luci
+Architecture: all
+Installed-Size: 10240
+Filename: luci-i18n-shadowsocks-rust-ar_24.354.13337~0fc7009_all.ipk
+Size: 1551
+SHA256sum: 5aa5284ae7985b04cdd505bf80838e7870c0de7bdcabc567ab29ba48405f8e6e
+Description:  Translation for luci-app-shadowsocks-rust - العربية (Arabic)
+
+Package: luci-i18n-shadowsocks-rust-bg
+Version: 24.354.13337~0fc7009
+Depends: libc, luci-app-shadowsocks-rust
+License: Apache-2.0
+Section: luci
+Architecture: all
+Installed-Size: 10240
+Filename: luci-i18n-shadowsocks-rust-bg_24.354.13337~0fc7009_all.ipk
+Size: 1430
+SHA256sum: ffbe7d742402c471cc6c46a5fd98769bbc24e11915a3085dbb0bf2c0ca0dd7cb
+Description:  Translation for luci-app-shadowsocks-rust - български (Bulgarian)
+
+Package: luci-i18n-shadowsocks-rust-bn
+Version: 24.354.13337~0fc7009
+Depends: libc, luci-app-shadowsocks-rust
+License: Apache-2.0
+Section: luci
+Architecture: all
+Installed-Size: 10240
+Filename: luci-i18n-shadowsocks-rust-bn_24.354.13337~0fc7009_all.ipk
+Size: 1349
+SHA256sum: 72d7247dd89cb1a5523113a3a18145a5efc6bc346cc299fb717479ec96c6ef86
+Description:  Translation for luci-app-shadowsocks-rust - বাংলা (Bengali)
+
+Package: luci-i18n-shadowsocks-rust-ca
+Version: 24.354.13337~0fc7009
+Depends: libc, luci-app-shadowsocks-rust
+License: Apache-2.0
+Section: luci
+Architecture: all
+Installed-Size: 10240
+Filename: luci-i18n-shadowsocks-rust-ca_24.354.13337~0fc7009_all.ipk
+Size: 1328
+SHA256sum: d02102f1e463be1c06a06b387dcf813699089b2ce08188f574ee3ea778919831
+Description:  Translation for luci-app-shadowsocks-rust - Català (Catalan)
+
+Package: luci-i18n-shadowsocks-rust-cs
+Version: 24.354.13337~0fc7009
+Depends: libc, luci-app-shadowsocks-rust
+License: Apache-2.0
+Section: luci
+Architecture: all
+Installed-Size: 10240
+Filename: luci-i18n-shadowsocks-rust-cs_24.354.13337~0fc7009_all.ipk
+Size: 1511
+SHA256sum: 37c5249f02f0cef1af4fbe44e175dd67fe409e768ac19a5878cb66199ac516b1
+Description:  Translation for luci-app-shadowsocks-rust - Čeština (Czech)
+
+Package: luci-i18n-shadowsocks-rust-da
+Version: 24.354.13337~0fc7009
+Depends: libc, luci-app-shadowsocks-rust
+License: Apache-2.0
+Section: luci
+Architecture: all
+Installed-Size: 10240
+Filename: luci-i18n-shadowsocks-rust-da_24.354.13337~0fc7009_all.ipk
+Size: 1369
+SHA256sum: 26c17a99eaabb44724486e23488c942682f838d66a5df1d456314c37be9d607b
+Description:  Translation for luci-app-shadowsocks-rust - Dansk (Danish)
+
+Package: luci-i18n-shadowsocks-rust-de
+Version: 24.354.13337~0fc7009
+Depends: libc, luci-app-shadowsocks-rust
+License: Apache-2.0
+Section: luci
+Architecture: all
+Installed-Size: 20480
+Filename: luci-i18n-shadowsocks-rust-de_24.354.13337~0fc7009_all.ipk
+Size: 3318
+SHA256sum: 3c33946b3a326f93c8542393f0e17f002db94ba5ca2118925b5b2fffe4cc41dd
+Description:  Translation for luci-app-shadowsocks-rust - Deutsch (German)
+
+Package: luci-i18n-shadowsocks-rust-el
+Version: 24.354.13337~0fc7009
+Depends: libc, luci-app-shadowsocks-rust
+License: Apache-2.0
+Section: luci
+Architecture: all
+Installed-Size: 10240
+Filename: luci-i18n-shadowsocks-rust-el_24.354.13337~0fc7009_all.ipk
+Size: 1357
+SHA256sum: d0eb80b50a533d9de9d003e30bd2fbc6b7c8a815d45670e2f313657b760a0cc7
+Description:  Translation for luci-app-shadowsocks-rust - Ελληνικά (Greek)
+
+Package: luci-i18n-shadowsocks-rust-es
+Version: 24.354.13337~0fc7009
+Depends: libc, luci-app-shadowsocks-rust
+License: Apache-2.0
+Section: luci
+Architecture: all
+Installed-Size: 20480
+Filename: luci-i18n-shadowsocks-rust-es_24.354.13337~0fc7009_all.ipk
+Size: 3262
+SHA256sum: b1006593dafd9b6c472ef41ed4803c32aaa3b62efab3b576b6a61e51948caabd
+Description:  Translation for luci-app-shadowsocks-rust - Español (Spanish)
+
+Package: luci-i18n-shadowsocks-rust-fi
+Version: 24.354.13337~0fc7009
+Depends: libc, luci-app-shadowsocks-rust
+License: Apache-2.0
+Section: luci
+Architecture: all
+Installed-Size: 10240
+Filename: luci-i18n-shadowsocks-rust-fi_24.354.13337~0fc7009_all.ipk
+Size: 1451
+SHA256sum: 5e540e75f695d21a4a5b84396410bf3865b73fc25435bc9fe65e8c36dbef9157
+Description:  Translation for luci-app-shadowsocks-rust - Suomi (Finnish)
+
+Package: luci-i18n-shadowsocks-rust-fr
+Version: 24.354.13337~0fc7009
+Depends: libc, luci-app-shadowsocks-rust
+License: Apache-2.0
+Section: luci
+Architecture: all
+Installed-Size: 10240
+Filename: luci-i18n-shadowsocks-rust-fr_24.354.13337~0fc7009_all.ipk
+Size: 2327
+SHA256sum: 549a3383906a64085d6fc32a49aae46780ffe145e833de871eb7f46405af4b89
+Description:  Translation for luci-app-shadowsocks-rust - Français (French)
+
+Package: luci-i18n-shadowsocks-rust-he
+Version: 24.354.13337~0fc7009
+Depends: libc, luci-app-shadowsocks-rust
+License: Apache-2.0
+Section: luci
+Architecture: all
+Installed-Size: 10240
+Filename: luci-i18n-shadowsocks-rust-he_24.354.13337~0fc7009_all.ipk
+Size: 1329
+SHA256sum: 31c9b933ac2d8328dabe3d9effb589413ca71e4adeaac9bd8c7fcc9b58c0a023
+Description:  Translation for luci-app-shadowsocks-rust - עִבְרִית (Hebrew)
+
+Package: luci-i18n-shadowsocks-rust-hi
+Version: 24.354.13337~0fc7009
+Depends: libc, luci-app-shadowsocks-rust
+License: Apache-2.0
+Section: luci
+Architecture: all
+Installed-Size: 10240
+Filename: luci-i18n-shadowsocks-rust-hi_24.354.13337~0fc7009_all.ipk
+Size: 1188
+SHA256sum: cefdb9a98298952f35d0061645338aaea65119aa2f8d73d82dd83dd572612708
+Description:  Translation for luci-app-shadowsocks-rust - हिंदी (Hindi)
+
+Package: luci-i18n-shadowsocks-rust-hu
+Version: 24.354.13337~0fc7009
+Depends: libc, luci-app-shadowsocks-rust
+License: Apache-2.0
+Section: luci
+Architecture: all
+Installed-Size: 20480
+Filename: luci-i18n-shadowsocks-rust-hu_24.354.13337~0fc7009_all.ipk
+Size: 3157
+SHA256sum: abc32dc5d1753341e5897e3f73e5c274946ca6544dd11047b1fe1031a956888e
+Description:  Translation for luci-app-shadowsocks-rust - Magyar (Hungarian)
+
+Package: luci-i18n-shadowsocks-rust-it
+Version: 24.354.13337~0fc7009
+Depends: libc, luci-app-shadowsocks-rust
+License: Apache-2.0
+Section: luci
+Architecture: all
+Installed-Size: 20480
+Filename: luci-i18n-shadowsocks-rust-it_24.354.13337~0fc7009_all.ipk
+Size: 3264
+SHA256sum: 266c3950bdcc61d4356020c89703a87c825830d1dce9339c5e9e28fce59bf355
+Description:  Translation for luci-app-shadowsocks-rust - Italiano (Italian)
+
+Package: luci-i18n-shadowsocks-rust-ja
+Version: 24.354.13337~0fc7009
+Depends: libc, luci-app-shadowsocks-rust
+License: Apache-2.0
+Section: luci
+Architecture: all
+Installed-Size: 10240
+Filename: luci-i18n-shadowsocks-rust-ja_24.354.13337~0fc7009_all.ipk
+Size: 1552
+SHA256sum: bcf9ad4723738d34182c03e1c91c8cb7d99d0f0b8c89dc5c8342355a53f93f9e
+Description:  Translation for luci-app-shadowsocks-rust - 日本語 (Japanese)
+
+Package: luci-i18n-shadowsocks-rust-ko
+Version: 24.354.13337~0fc7009
+Depends: libc, luci-app-shadowsocks-rust
+License: Apache-2.0
+Section: luci
+Architecture: all
+Installed-Size: 10240
+Filename: luci-i18n-shadowsocks-rust-ko_24.354.13337~0fc7009_all.ipk
+Size: 1401
+SHA256sum: 8e071f8f91e948348a9979ea0acb7cfeaad07c3dbc360902a64cd4a7f7fbfb55
+Description:  Translation for luci-app-shadowsocks-rust - 한국어 (Korean)
+
+Package: luci-i18n-shadowsocks-rust-lt
+Version: 24.354.13337~0fc7009
+Depends: libc, luci-app-shadowsocks-rust
+License: Apache-2.0
+Section: luci
+Architecture: all
+Installed-Size: 10240
+Filename: luci-i18n-shadowsocks-rust-lt_24.354.13337~0fc7009_all.ipk
+Size: 2191
+SHA256sum: 63676a7b9070e10c7caada795c7b3b62bbca788c9f8ee1565947b9159905d676
+Description:  Translation for luci-app-shadowsocks-rust - Lietuvių (Lithuanian)
+
+Package: luci-i18n-shadowsocks-rust-mr
+Version: 24.354.13337~0fc7009
+Depends: libc, luci-app-shadowsocks-rust
+License: Apache-2.0
+Section: luci
+Architecture: all
+Installed-Size: 10240
+Filename: luci-i18n-shadowsocks-rust-mr_24.354.13337~0fc7009_all.ipk
+Size: 1453
+SHA256sum: 274d0887c5ab425b407a61e478a0293bc60d0c8a205ebbc89038417345d79c04
+Description:  Translation for luci-app-shadowsocks-rust - Marāṭhī (Marathi)
+
+Package: luci-i18n-shadowsocks-rust-ms
+Version: 24.354.13337~0fc7009
+Depends: libc, luci-app-shadowsocks-rust
+License: Apache-2.0
+Section: luci
+Architecture: all
+Installed-Size: 10240
+Filename: luci-i18n-shadowsocks-rust-ms_24.354.13337~0fc7009_all.ipk
+Size: 1236
+SHA256sum: 246d190e2adff320d82fde32b82394c88c5b80bcdefe61bf65c6b96fee360757
+Description:  Translation for luci-app-shadowsocks-rust - Bahasa Melayu (Malay)
+
+Package: luci-i18n-shadowsocks-rust-nl
+Version: 24.354.13337~0fc7009
+Depends: libc, luci-app-shadowsocks-rust
+License: Apache-2.0
+Section: luci
+Architecture: all
+Installed-Size: 20480
+Filename: luci-i18n-shadowsocks-rust-nl_24.354.13337~0fc7009_all.ipk
+Size: 3198
+SHA256sum: 455037e71625ab84bf2b3040dc6e363917ac011a9f9a6c9afea2ca81f510a063
+Description:  Translation for luci-app-shadowsocks-rust - Nederlands (Dutch)
+
+Package: luci-i18n-shadowsocks-rust-no
+Version: 24.354.13337~0fc7009
+Depends: libc, luci-app-shadowsocks-rust
+License: Apache-2.0
+Section: luci
+Architecture: all
+Installed-Size: 10240
+Filename: luci-i18n-shadowsocks-rust-no_24.354.13337~0fc7009_all.ipk
+Size: 1406
+SHA256sum: 0110883871755e6dfc1e34e31e2ec76fc187921a5647fd4243f6b2f5c95de004
+Description:  Translation for luci-app-shadowsocks-rust - Norsk (Norwegian)
+
+Package: luci-i18n-shadowsocks-rust-pl
+Version: 24.354.13337~0fc7009
+Depends: libc, luci-app-shadowsocks-rust
+License: Apache-2.0
+Section: luci
+Architecture: all
+Installed-Size: 20480
+Filename: luci-i18n-shadowsocks-rust-pl_24.354.13337~0fc7009_all.ipk
+Size: 3424
+SHA256sum: f7f88db8cabc11ed68152a26d74818ebbddd24ab09f6e8765eb703f95fdcdb6a
+Description:  Translation for luci-app-shadowsocks-rust - Polski (Polish)
+
+Package: luci-i18n-shadowsocks-rust-pt-br
+Version: 24.354.13337~0fc7009
+Depends: libc, luci-app-shadowsocks-rust
+License: Apache-2.0
+Section: luci
+Architecture: all
+Installed-Size: 20480
+Filename: luci-i18n-shadowsocks-rust-pt-br_24.354.13337~0fc7009_all.ipk
+Size: 3472
+SHA256sum: d28c12ff094ecf3ecef985ccc49dcb38eb2dca91077b237ef93f3b6bec242072
+Description:  Translation for luci-app-shadowsocks-rust - Português do Brasil (Brazilian Portuguese)
+
+Package: luci-i18n-shadowsocks-rust-pt
+Version: 24.354.13337~0fc7009
+Depends: libc, luci-app-shadowsocks-rust
+License: Apache-2.0
+Section: luci
+Architecture: all
+Installed-Size: 20480
+Filename: luci-i18n-shadowsocks-rust-pt_24.354.13337~0fc7009_all.ipk
+Size: 3253
+SHA256sum: b05d01001249b39bf2561f7a55fcadf7665982373cc88bce30b937fe17100962
+Description:  Translation for luci-app-shadowsocks-rust - Português (Portuguese)
+
+Package: luci-i18n-shadowsocks-rust-ro
+Version: 24.354.13337~0fc7009
+Depends: libc, luci-app-shadowsocks-rust
+License: Apache-2.0
+Section: luci
+Architecture: all
+Installed-Size: 20480
+Filename: luci-i18n-shadowsocks-rust-ro_24.354.13337~0fc7009_all.ipk
+Size: 3349
+SHA256sum: 35aa074df46d36880f484190f69e7ad42ac209ae2eae48d459b2b9e657714e8f
+Description:  Translation for luci-app-shadowsocks-rust - Română (Romanian)
+
+Package: luci-i18n-shadowsocks-rust-ru
+Version: 24.354.13337~0fc7009
+Depends: libc, luci-app-shadowsocks-rust
+License: Apache-2.0
+Section: luci
+Architecture: all
+Installed-Size: 20480
+Filename: luci-i18n-shadowsocks-rust-ru_24.354.13337~0fc7009_all.ipk
+Size: 3714
+SHA256sum: 7030e18e6591daa64a5a0dafa22edb28ec5cbc609b52683f7a40a6f493aa995d
+Description:  Translation for luci-app-shadowsocks-rust - Русский (Russian)
+
+Package: luci-i18n-shadowsocks-rust-sk
+Version: 24.354.13337~0fc7009
+Depends: libc, luci-app-shadowsocks-rust
+License: Apache-2.0
+Section: luci
+Architecture: all
+Installed-Size: 10240
+Filename: luci-i18n-shadowsocks-rust-sk_24.354.13337~0fc7009_all.ipk
+Size: 1439
+SHA256sum: 39d3e2a19ef692b0f9af11ed54de799b56ca4a17b9235595625071dbe9aa317e
+Description:  Translation for luci-app-shadowsocks-rust - Slovenčina (Slovak)
+
+Package: luci-i18n-shadowsocks-rust-sv
+Version: 24.354.13337~0fc7009
+Depends: libc, luci-app-shadowsocks-rust
+License: Apache-2.0
+Section: luci
+Architecture: all
+Installed-Size: 10240
+Filename: luci-i18n-shadowsocks-rust-sv_24.354.13337~0fc7009_all.ipk
+Size: 1584
+SHA256sum: aa662440cf66460889b9bfd0cd07c12dfa03d7a379f027b46af126e10ce02a1c
+Description:  Translation for luci-app-shadowsocks-rust - Svenska (Swedish)
+
+Package: luci-i18n-shadowsocks-rust-tr
+Version: 24.354.13337~0fc7009
+Depends: libc, luci-app-shadowsocks-rust
+License: Apache-2.0
+Section: luci
+Architecture: all
+Installed-Size: 20480
+Filename: luci-i18n-shadowsocks-rust-tr_24.354.13337~0fc7009_all.ipk
+Size: 3316
+SHA256sum: f6ab35c05f4dd54b6bf4170b199a9ec782fd5ef60a22ff26d61d328939af1955
+Description:  Translation for luci-app-shadowsocks-rust - Türkçe (Turkish)
+
+Package: luci-i18n-shadowsocks-rust-uk
+Version: 24.354.13337~0fc7009
+Depends: libc, luci-app-shadowsocks-rust
+License: Apache-2.0
+Section: luci
+Architecture: all
+Installed-Size: 10240
+Filename: luci-i18n-shadowsocks-rust-uk_24.354.13337~0fc7009_all.ipk
+Size: 1642
+SHA256sum: 6e0464cb79350ad6086cda607397810e32b0dcbb9a14bafcbfc9b664e03f26e2
+Description:  Translation for luci-app-shadowsocks-rust - Українська (Ukrainian)
+
+Package: luci-i18n-shadowsocks-rust-vi
+Version: 24.354.13337~0fc7009
+Depends: libc, luci-app-shadowsocks-rust
+License: Apache-2.0
+Section: luci
+Architecture: all
+Installed-Size: 20480
+Filename: luci-i18n-shadowsocks-rust-vi_24.354.13337~0fc7009_all.ipk
+Size: 3271
+SHA256sum: e8ee66c9579c268ef72e57d84ce646922b0a2458dfedbc358e250db0741568ae
+Description:  Translation for luci-app-shadowsocks-rust - Tiếng Việt (Vietnamese)
+
+Package: luci-i18n-shadowsocks-rust-zh-cn
+Version: 24.354.13337~0fc7009
+Depends: libc, luci-app-shadowsocks-rust
+License: Apache-2.0
+Section: luci
+Architecture: all
+Installed-Size: 20480
+Filename: luci-i18n-shadowsocks-rust-zh-cn_24.354.13337~0fc7009_all.ipk
+Size: 3336
+SHA256sum: 9229b5c971f9ae56a01b0b4aba6561982a24959d7f771bb118670b98a6b0cabe
+Description:  Translation for luci-app-shadowsocks-rust - 简体中文 (Simplified Chinese)
+
+Package: luci-i18n-shadowsocks-rust-zh-tw
+Version: 24.354.13337~0fc7009
+Depends: libc, luci-app-shadowsocks-rust
+License: Apache-2.0
+Section: luci
+Architecture: all
+Installed-Size: 20480
+Filename: luci-i18n-shadowsocks-rust-zh-tw_24.354.13337~0fc7009_all.ipk
+Size: 3420
+SHA256sum: ef6f58c74af0cc1b33a64e2b6cdd45569e8c6e376cce86c4cfda15589fabde44
+Description:  Translation for luci-app-shadowsocks-rust - 正體中文 (Traditional Chinese)
+
+Package: qbittorrent
+Version: 5.1.2-r1
+Depends: libc, libgcc1, libstdcpp6, rblibtorrent2.0, libQt6Core, libQt6Network, libQt6Sql, libQt6Xml, qt6-plugin-libqopensslbackend, qt6-plugin-libqsqlite
+Provides: qBittorrent
+License: GPL-2.0+
+Section: net
+URL: https://www.qbittorrent.org/
+CPE-ID: cpe:/a:qbittorrent:qbittorrent
+Architecture: riscv64_riscv64
+Installed-Size: 9113600
+Filename: qbittorrent_5.1.2-r1_riscv64_riscv64.ipk
+Size: 8030654
+SHA256sum: 4f77e376db01929da3914e195d0cf108adfef8f1c11ea75952183bbcc7d45fee
+Description:  qBittorrent is a bittorrent client programmed in C++ / Qt that uses
+ libtorrent (sometimes called libtorrent-rasterbar) by Arvid Norberg.
+ It aims to be a good alternative to all other bittorrent clients out
+ there. qBittorrent is fast, stable and provides unicode support as
+ well as many features.
+
+Package: qt6-plugin-libqcertonlybackend
+Version: 6.8.3-r1
+Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Network
+Section: libs
+URL: http://qt-project.org
+Architecture: riscv64_riscv64
+Installed-Size: 81920
+Filename: qt6-plugin-libqcertonlybackend_6.8.3-r1_riscv64_riscv64.ipk
+Size: 37154
+SHA256sum: a1828577aff3949bafc609624ef62959049a8f24491d2bfd9de4fbf741e964f2
+Description:  Qt6 Plugin libqcertonlybackend
+
+Package: qt6-plugin-libqminimal
+Version: 6.8.3-r1
+Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Gui
+Section: libs
+URL: http://qt-project.org
+Architecture: riscv64_riscv64
+Installed-Size: 40960
+Filename: qt6-plugin-libqminimal_6.8.3-r1_riscv64_riscv64.ipk
+Size: 9766
+SHA256sum: cda8e17c68e7f5cf1f2d72f1ecdd96a33f95896f0084e8bd82ff9b0319788075
+Description:  Qt6 Plugin libqminimal
+
+Package: qt6-plugin-libqnetworkmanager
+Version: 6.8.3-r1
+Depends: libc, libatomic1, libstdcpp6, zlib, libQt6DBus, libQt6Network
+Section: libs
+URL: http://qt-project.org
+Architecture: riscv64_riscv64
+Installed-Size: 71680
+Filename: qt6-plugin-libqnetworkmanager_6.8.3-r1_riscv64_riscv64.ipk
+Size: 27736
+SHA256sum: 973db2a2daa83a9bdedac6c2f543b914779541628a86ac306c805a84c0d067c9
+Description:  Qt6 Plugin libqnetworkmanager
+
+Package: qt6-plugin-libqoffscreen
+Version: 6.8.3-r1
+Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Gui
+Section: libs
+URL: http://qt-project.org
+Architecture: riscv64_riscv64
+Installed-Size: 102400
+Filename: qt6-plugin-libqoffscreen_6.8.3-r1_riscv64_riscv64.ipk
+Size: 37126
+SHA256sum: 48c954ac19d685857953e47ebaca4afc704dc70334431284c17c4f58381082af
+Description:  Qt6 Plugin libqoffscreen
+
+Package: qt6-plugin-libqopensslbackend
+Version: 6.8.3-r1
+Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Network
+Section: libs
+URL: http://qt-project.org
+Architecture: riscv64_riscv64
+Installed-Size: 266240
+Filename: qt6-plugin-libqopensslbackend_6.8.3-r1_riscv64_riscv64.ipk
+Size: 116217
+SHA256sum: 59a999f05d426a2381f715e7cb4a3aaa8560cfe803347edd1cb3d83a84089bc4
+Description:  Qt6 Plugin libqopensslbackend
+
+Package: qt6-plugin-libqsqlite
+Version: 6.8.3-r1
+Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Sql
+Section: libs
+URL: http://qt-project.org
+Architecture: riscv64_riscv64
+Installed-Size: 1597440
+Filename: qt6-plugin-libqsqlite_6.8.3-r1_riscv64_riscv64.ipk
+Size: 997027
+SHA256sum: 6a5b8b630541e050c3876c8faae182e4c4e73938953d9902d965f17dc24da54d
+Description:  Qt6 Plugin libqsqlite
+
+Package: qt6-plugin-libqtuiotouchplugin
+Version: 6.8.3-r1
+Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Gui, libQt6Network
+Section: libs
+URL: http://qt-project.org
+Architecture: riscv64_riscv64
+Installed-Size: 81920
+Filename: qt6-plugin-libqtuiotouchplugin_6.8.3-r1_riscv64_riscv64.ipk
+Size: 39124
+SHA256sum: ae41cae5d19ace13fcf674cc4240fc3d749f212d101a4320cd26e9ace8a45974
+Description:  Qt6 Plugin libqtuiotouchplugin
+
+Package: qt6-plugin-libqxdgdesktopportal
+Version: 6.8.3-r1
+Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Gui
+Section: libs
+URL: http://qt-project.org
+Architecture: riscv64_riscv64
+Installed-Size: 112640
+Filename: qt6-plugin-libqxdgdesktopportal_6.8.3-r1_riscv64_riscv64.ipk
+Size: 44034
+SHA256sum: 617b56c6f8e764607e271145e8de3e4d6e9c978d778c010a1f7955837b937531
+Description:  Qt6 Plugin libqxdgdesktopportal
+
+Package: rblibtorrent2.0
+Version: 2.0.11-r1
+Depends: libc, boost, boost-system, libatomic1, libgcc1, libopenssl3, libstdcpp6
+Provides: rblibtorrent
+License: BSD
+Section: libs
+URL: https://www.libtorrent.org
+ABIVersion: 2.0
+Architecture: riscv64_riscv64
+Installed-Size: 3092480
+Filename: rblibtorrent2.0_2.0.11-r1_riscv64_riscv64.ipk
+Size: 1384497
+SHA256sum: 11887e2c9207ceb5f33901c57ab817239085e276835f26dee1bb9c526b406e6c
+Description:  Rasterbar libtorrent is a C++ library that aims to be a good alternative to
+ all the other bittorrent implementations around. It is a library and not a
+ full featured client, although it comes with a working example client.
+
+Package: shadowsocks-rust-config
+Version: 1.24.0-r1
+Depends: libc, shadowsocks-rust-ssservice
+License: MIT
+Section: net
+URL: https://github.com/shadowsocks/shadowsocks-rust
+Architecture: all
+Installed-Size: 10240
+Filename: shadowsocks-rust-config_1.24.0-r1_all.ipk
+Size: 1061
+SHA256sum: 202466ad417bf3c5e91d90e16370b4ab8f88d5dfd4a70e31edd138604e93ce3f
+Description:  shadowsocks-rust config scripts
+
+Package: shadowsocks-rust-sslocal
+Version: 1.24.0-r1
+Depends: libc, shadowsocks-rust-ssservice
+License: MIT
+Section: net
+URL: https://github.com/shadowsocks/shadowsocks-rust
+Architecture: riscv64_riscv64
+Installed-Size: 10240
+Filename: shadowsocks-rust-sslocal_1.24.0-r1_riscv64_riscv64.ipk
+Size: 1008
+SHA256sum: 3e95c4a98c4a782f56f752f1d913cfa6dd803c3a1802a4bc6e33942e9f84313e
+Description:  shadowsocks-rust sslocal. client provides HTTP/SOCKS proxy, port forwarding, transparent proxy and tun.
+
+Package: shadowsocks-rust-ssmanager
+Version: 1.24.0-r1
+Depends: libc, shadowsocks-rust-ssservice
+License: MIT
+Section: net
+URL: https://github.com/shadowsocks/shadowsocks-rust
+Architecture: riscv64_riscv64
+Installed-Size: 10240
+Filename: shadowsocks-rust-ssmanager_1.24.0-r1_riscv64_riscv64.ipk
+Size: 958
+SHA256sum: 2e819c1125ffa1a2e877f8d905bb52f726e8f2767c47add5afb42ab0a08b4d8c
+Description:  shadowsocks-rust ssmanager. server manager.
+
+Package: shadowsocks-rust-ssserver
+Version: 1.24.0-r1
+Depends: libc, shadowsocks-rust-ssservice
+License: MIT
+Section: net
+URL: https://github.com/shadowsocks/shadowsocks-rust
+Architecture: riscv64_riscv64
+Installed-Size: 10240
+Filename: shadowsocks-rust-ssserver_1.24.0-r1_riscv64_riscv64.ipk
+Size: 940
+SHA256sum: a327e6c7d52bfd1cd4164002eb96af1690fe2de7f063ce214c7e98b8f86554ae
+Description:  shadowsocks-rust ssserver. 
+
+Package: shadowsocks-rust-ssservice
+Version: 1.24.0-r1
+Depends: libc
+License: MIT
+Section: net
+URL: https://github.com/shadowsocks/shadowsocks-rust
+Architecture: riscv64_riscv64
+Installed-Size: 7915520
+Filename: shadowsocks-rust-ssservice_1.24.0-r1_riscv64_riscv64.ipk
+Size: 3690696
+SHA256sum: 3bc531f6f857e8a1eaf38f561788140a48c713467bd5e081a7136ce8047a4d57
+Description:  shadowsocks-rust ssservice. single bundled of local,server,manager. also used to generate safed secured password.
+
+Package: shadowsocks-rust-ssurl
+Version: 1.24.0-r1
+Depends: libc
+License: MIT
+Section: net
+URL: https://github.com/shadowsocks/shadowsocks-rust
+Architecture: riscv64_riscv64
+Installed-Size: 1976320
+Filename: shadowsocks-rust-ssurl_1.24.0-r1_riscv64_riscv64.ipk
+Size: 941951
+SHA256sum: a54115824721979fc146deca9f2f0ba7fca0797179f4beb0aad07e322cf61a18
+Description:  shadowsocks-rust ssurl. for encoding/decoding SIP002 URLs.
+
