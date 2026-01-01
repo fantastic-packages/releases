@@ -24,6 +24,18 @@ Size: 2335364
 SHA256sum: e2bdf2e57dc4fce1b274e14b6b4cb22224cc79a18e74bb987c10db05f4747160
 Description:  AlwaysOnline is a HTTP and DNS server which mocks a lot network/internet/portal detection servers.
 
+Package: distfeeds-mirror-sjtu
+Version: 20260206-r1
+Depends: libc
+License: MIT
+Section: base
+Architecture: all
+Installed-Size: 10240
+Filename: distfeeds-mirror-sjtu_20260206-r1_all.ipk
+Size: 1071
+SHA256sum: 4dc438c4a2fe9a359e6e50babffca9a6012f966e7a16d9af724f0e92197c485d
+Description:  Use Shanghai Jiao Tong University mirror as distfeeds
+
 Package: fakehttp
 Version: 0.9.18-r3
 Depends: libc, libmnl0, libnfnetlink0, libnetfilter-queue1, kmod-nft-queue, nftables
@@ -50,15 +62,15 @@ SHA256sum: 0eb2e2c2ff6c18c35d8821010d01306573e5041aec311a1445a7de533ff12bd9
 Description:  The keyring of with the developer using.
 
 Package: fantastic-packages-feeds
-Version: 20250513-r1
+Version: 20260101-r1
 Depends: libc, fantastic-keyring, opkg
 License: MIT
 Section: base
 Architecture: all
 Installed-Size: 10240
-Filename: fantastic-packages-feeds_20250513-r1_all.ipk
-Size: 1559
-SHA256sum: 6064115c00e3214578c9f76f74822a538702d199d9f4d889d9022d3763a89f93
+Filename: fantastic-packages-feeds_20260101-r1_all.ipk
+Size: 1555
+SHA256sum: e48b728957c4bc331a565ad9b4606143964c46d24fb35d4389a48c2653eef468
 Description:  Installer for fantastic-packages feeds
 
 Package: fastfetch

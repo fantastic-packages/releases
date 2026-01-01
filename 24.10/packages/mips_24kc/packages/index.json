@@ -4,9 +4,10 @@
   "packages": {
     "Toolkit": "0.4.0.2~631954ea-r2",
     "alwaysonline": "1.2.1~206292ca-r1",
+    "distfeeds-mirror-sjtu": "20260206-r1",
     "fakehttp": "0.9.18-r3",
     "fantastic-keyring": "20240427-r1",
-    "fantastic-packages-feeds": "20250513-r1",
+    "fantastic-packages-feeds": "20260101-r1",
     "fastfetch": "2.56.1-r1",
     "go-stun": "0.1.4~d32c135f-r10",
     "internet-detector-mod-email": "1.7.1-r1",
