@@ -50,9 +50,9 @@ https://fantastic-packages.github.io/releases/<major.minor version>/packages/<pa
 ```
 - like this
 ```ini
-https://fantastic-packages.github.io/releases/SNAPSHOT/packages/x86_64/luci/packages.adb
-https://fantastic-packages.github.io/releases/SNAPSHOT/packages/x86_64/packages/packages.adb
-https://fantastic-packages.github.io/releases/SNAPSHOT/packages/x86_64/special/packages.adb
+https://fantastic-packages.github.io/releases/25.12/packages/x86_64/luci/packages.adb
+https://fantastic-packages.github.io/releases/25.12/packages/x86_64/packages/packages.adb
+https://fantastic-packages.github.io/releases/25.12/packages/x86_64/special/packages.adb
 ```
 
 ##### Add public key to apk packag manager
