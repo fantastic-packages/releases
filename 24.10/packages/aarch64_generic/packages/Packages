@@ -1,0 +1,381 @@
+Package: Toolkit
+Version: 0.4.0.2~631954ea-r2
+Depends: libc, libstdcpp6
+License: GPL-2.0
+Section: net
+URL: https://github.com/chengr28/Toolkit
+Architecture: aarch64_generic
+Installed-Size: 337920
+Filename: Toolkit_0.4.0.2~631954ea-r2_aarch64_generic.ipk
+Size: 115612
+SHA256sum: f42cac57c84acbcc44e2e0d6e00391e5201949debd831fc475d68cfcd0d70f5f
+Description:  A network util can ping with DNS request.
+
+Package: alwaysonline
+Version: 1.2.1~206292ca-r1
+Depends: libc
+License: MIT
+Section: net
+URL: https://github.com/Jamesits/alwaysonline
+Architecture: aarch64_generic
+Installed-Size: 5795840
+Filename: alwaysonline_1.2.1~206292ca-r1_aarch64_generic.ipk
+Size: 2313821
+SHA256sum: c8f4f48544e809e68ce6d5b7793aa6610c2fbbc1f127c0fa418a2dbf4d3cb3ac
+Description:  AlwaysOnline is a HTTP and DNS server which mocks a lot network/internet/portal detection servers.
+
+Package: distfeeds-mirror-sjtu
+Version: 20260206-r1
+Depends: libc
+License: MIT
+Section: base
+Architecture: all
+Installed-Size: 10240
+Filename: distfeeds-mirror-sjtu_20260206-r1_all.ipk
+Size: 1072
+SHA256sum: 02b97236119f09134393f0115733abf6ce5111a9d2ae42d4b31f07579ae84d40
+Description:  Use Shanghai Jiao Tong University mirror as distfeeds
+
+Package: fakehttp
+Version: 0.9.18-r3
+Depends: libc, libmnl0, libnfnetlink0, libnetfilter-queue1, kmod-nft-queue, nftables
+License: GPL-3.0-or-later
+Section: net
+URL: https://github.com/MikeWang000000/FakeHTTP
+Architecture: aarch64_generic
+Installed-Size: 81920
+Filename: fakehttp_0.9.18-r3_aarch64_generic.ipk
+Size: 23896
+SHA256sum: 5e5967ffac9c841aef45b32abd2485399d04368a0c52e67c56cfe80d82983682
+Description:  Obfuscate all your TCP connections into HTTP protocol.
+
+Package: fantastic-keyring
+Version: 20240427-r1
+Depends: libc
+License: MIT
+Section: base
+Architecture: all
+Installed-Size: 10240
+Filename: fantastic-keyring_20240427-r1_all.ipk
+Size: 1061
+SHA256sum: 84a88137c9a1861645adca4a724b9e25df57d6bd991d938570a2234fd28de09b
+Description:  The keyring of with the developer using.
+
+Package: fantastic-packages-feeds
+Version: 20260101-r1
+Depends: libc, fantastic-keyring, opkg
+License: MIT
+Section: base
+Architecture: all
+Installed-Size: 10240
+Filename: fantastic-packages-feeds_20260101-r1_all.ipk
+Size: 1569
+SHA256sum: 77976a176757098572faff36b2b8753b16475e76ad7c00e6a9ee149f5adaaa50
+Description:  Installer for fantastic-packages feeds
+
+Package: fastfetch
+Version: 2.67.1-r1
+Depends: libc
+License: MIT
+Section: utils
+URL: https://github.com/fastfetch-cli/fastfetch
+Architecture: aarch64_generic
+Installed-Size: 1269760
+Filename: fastfetch_2.67.1-r1_aarch64_generic.ipk
+Size: 449253
+SHA256sum: ee90961c23d86cc41fc2e57f6c79008daf42648f22e1500668753efdb0da965f
+Description:  Fastfetch is a neofetch-like tool for fetching
+ system information and displaying it prettily.
+
+Package: go-stun
+Version: 0.1.4~d32c135f-r10
+Depends: libc
+License: Apache-2.0
+Section: net
+URL: https://github.com/ccding/go-stun
+Architecture: aarch64_generic
+Installed-Size: 2222080
+Filename: go-stun_0.1.4~d32c135f-r10_aarch64_generic.ipk
+Size: 908707
+SHA256sum: 5be1012bdba556b318ffebacda479b6b9c2dfc26b8d8dd84f5fb74f3eaa0dcc6
+Description:  go-stun is a STUN (RFC 3489, 5389) client implementation in golang (a.k.a. UDP hole punching).
+ RFC 3489: STUN - Simple Traversal of User Datagram Protocol (UDP) Through Network Address Translators (NATs)
+ RFC 5389: Session Traversal Utilities for NAT (STUN)
+
+Package: internet-detector-mod-email
+Version: 1.7.3-r1
+Depends: libc, internet-detector, mailsend
+Section: net
+URL: https://github.com/gSpotx2f/luci-app-internet-detector
+Architecture: all
+Installed-Size: 20480
+Filename: internet-detector-mod-email_1.7.3-r1_all.ipk
+Size: 2864
+SHA256sum: 2b161861fd4036c87590f36257da908039536c32fed653180452ea9492321182
+Description:  Email support for internet-detector.
+
+Package: internet-detector-mod-modem-restart
+Version: 1.7.3-r1
+Depends: libc, internet-detector, modemmanager
+Section: net
+URL: https://github.com/gSpotx2f/luci-app-internet-detector
+Architecture: all
+Installed-Size: 10240
+Filename: internet-detector-mod-modem-restart_1.7.3-r1_all.ipk
+Size: 2203
+SHA256sum: ce659b9238cd79e19fb539a3ac50a0a8e911ce386ae2e2850a9200c052227b12
+Description:  Support modem restart for internet detector.
+
+Package: internet-detector-mod-telegram
+Version: 1.7.3-r1
+Depends: libc, internet-detector, curl, ucode, ucode-mod-fs
+Section: net
+URL: https://github.com/gSpotx2f/luci-app-internet-detector
+Architecture: all
+Installed-Size: 20480
+Filename: internet-detector-mod-telegram_1.7.3-r1_all.ipk
+Size: 4571
+SHA256sum: 6b4df4617b3ce2f4289b9d5efc4238b571c9f8f0f9bf057101f3b41730e89fc5
+Description:  Telegram messenger support for internet-detector.
+
+Package: internet-detector
+Version: 1.7.4-r1
+Depends: libc, lua, luaposix, libuci-lua
+Section: net
+URL: https://github.com/gSpotx2f/luci-app-internet-detector
+Architecture: all
+Installed-Size: 92160
+Filename: internet-detector_1.7.4-r1_all.ipk
+Size: 16569
+SHA256sum: a809a22b43602250ba3a204ee4c999f07b45b17445e9335f3ed5a89690955260
+Description:  Internet-detector is a small daemon
+ for checking Internet availability.
+ Written in Lua using the luaposix library.
+
+Package: iusebash
+Version: 0.2026.06.15-r1
+Depends: libc, bash
+License: MIT
+Section: utils
+URL: https://github.com/muink/openwrt-iusebash
+Architecture: all
+Installed-Size: 10240
+Filename: iusebash_0.2026.06.15-r1_all.ipk
+Size: 1289
+SHA256sum: d2a35087fd6adc88a8a3f168885ee5d72f5b28dab88e1ad190227d274379a2b9
+Description:  Use bash as the default terminal
+
+Package: mihomo
+Version: 1.19.30-r1
+Depends: libc
+Alternatives: 100:/usr/bin/mihomo:/usr/libexec/mihomo-core
+License: GPL-2.0
+Section: net
+URL: https://wiki.metacubex.one
+Architecture: aarch64_generic
+Installed-Size: 47134720
+Filename: mihomo_1.19.30-r1_aarch64_generic.ipk
+Size: 17032838
+SHA256sum: 76e8402264adfb20384ad4a64ae2a266abbc0e391ecfe1931a6ad1eb4fa3042b
+Description:  Another Mihomo Kernel.
+
+Package: natmapt-client-script-deluge
+Version: 0.2026.01.24
+Depends: libc, natmapt
+Provides: @natmapt-client-scripts, @natmapt-client-script-Deluge
+License: MIT
+Section: net
+Architecture: all
+Installed-Size: 10240
+Filename: natmapt-client-script-deluge_0.2026.01.24_all.ipk
+Size: 1641
+SHA256sum: d1dd54e00daa0774c3ffe01199959bd57288ebffdb54cd3a07bf49a28e7407b7
+Description:  NATMap client scripts (Deluge)
+
+Package: natmapt-client-script-transmission
+Version: 0.2026.01.24
+Depends: libc, natmapt
+Provides: @natmapt-client-scripts, @natmapt-client-script-Transmission
+License: MIT
+Section: net
+Architecture: all
+Installed-Size: 10240
+Filename: natmapt-client-script-transmission_0.2026.01.24_all.ipk
+Size: 1460
+SHA256sum: e539f4ad098a9ff0bad8ad5dc165a12a02b57a03431ef7d25d17e37278908ed2
+Description:  NATMap client scripts (Transmission)
+
+Package: natmapt-notify-script-pushbullet
+Version: 0.2026.01.24
+Depends: libc, natmapt
+Provides: @natmapt-notify-scripts, @natmapt-notify-script-Pushbullet
+License: MIT
+Section: net
+Architecture: all
+Installed-Size: 10240
+Filename: natmapt-notify-script-pushbullet_0.2026.01.24_all.ipk
+Size: 1445
+SHA256sum: b974daa80ce073fb0b52fcb7e59ff011239d3f22d6492c3cb1b468564e5e340c
+Description:  NATMap notify scripts (Pushbullet)
+
+Package: natmapt-notify-script-pushover
+Version: 0.2026.01.24
+Depends: libc, natmapt
+Provides: @natmapt-notify-scripts, @natmapt-notify-script-Pushover
+License: MIT
+Section: net
+Architecture: all
+Installed-Size: 10240
+Filename: natmapt-notify-script-pushover_0.2026.01.24_all.ipk
+Size: 1467
+SHA256sum: dbb1cb6c67e8bc2803826d154edcea9549c477f3fd547b8c77e6a123a15373c4
+Description:  NATMap notify scripts (Pushover)
+
+Package: natmapt-notify-script-telegram
+Version: 0.2026.01.24
+Depends: libc, natmapt
+Provides: @natmapt-notify-scripts, @natmapt-notify-script-Telegram
+License: MIT
+Section: net
+Architecture: all
+Installed-Size: 10240
+Filename: natmapt-notify-script-telegram_0.2026.01.24_all.ipk
+Size: 1571
+SHA256sum: ca8de52d420aac1bd27a397a09a91faa927ae63e29aaaa5b6be2f65121708d26
+Description:  NATMap notify scripts (Telegram)
+
+Package: natmapt
+Version: 20260214-r2
+Depends: libc, curl, jsonfilter, bash
+License: MIT
+Section: net
+URL: https://github.com/heiher/natmap
+Architecture: aarch64_generic
+Installed-Size: 112640
+Filename: natmapt_20260214-r2_aarch64_generic.ipk
+Size: 31038
+SHA256sum: 4c9e4a96adcf9df68043945a427536cfc61cea0482204b763cf978c25d31f71b
+Description:  TCP/UDP port mapping tool for full cone NAT
+
+Package: netdata-ssl
+Version: 1.33.1-r4
+Depends: libc, zlib, libuuid1, libuv1, libmnl0, libjson-c5, libopenssl3
+License: GPL-3.0-or-later
+Section: admin
+URL: https://www.netdata.cloud/
+CPE-ID: cpe:/a:my-netdata:netdata
+Architecture: aarch64_generic
+Installed-Size: 27412480
+Filename: netdata-ssl_1.33.1-r4_aarch64_generic.ipk
+Size: 8012559
+SHA256sum: 39127478f3f750ebf0a46328325d7e3c83e30e32830d66c094a20829ac680972
+Description:  netdata is a highly optimized Linux daemon providing real-time performance
+ monitoring for Linux systems, applications and SNMP devices over the web.
+ 
+ If you want to use Python plugins install python3, python3-yaml and
+ python3-urllib3
+
+Package: pcap-dnsproxy
+Version: 0.4.9.13~70a40bb3-r1
+Depends: libc, libpthread, libstdcpp6, libevent2-core7, libpcap1, libsodium, libopenssl3
+License: GPL-2.0
+Section: net
+URL: https://github.com/chengr28/Pcap_DNSProxy
+Architecture: aarch64_generic
+Installed-Size: 1116160
+Filename: pcap-dnsproxy_0.4.9.13~70a40bb3-r1_aarch64_generic.ipk
+Size: 372019
+SHA256sum: 8bacdc7b848c0b3780105e4599e7ff67a38d6e5dd74289c03a6e37d031cbed59
+Description:  A local DNS server based on LibPcap
+
+Package: rgmac
+Version: 1.5.1-r20240803
+Depends: libc, bash, curl, coreutils-cksum, getopt
+License: MIT
+Section: net
+URL: https://github.com/muink/rgmac
+Architecture: all
+Installed-Size: 20480
+Filename: rgmac_1.5.1-r20240803_all.ipk
+Size: 4511
+SHA256sum: 990fed614e7f3d7bd81ffc3ded1af10d90071f8a695a2b43d95a073127d9e22d
+Description:  A random MAC address generator
+
+Package: scart
+Version: 0.1.4-r2
+Depends: libc, bash, jq-full, openssl-util
+License: Apache-2.0
+Section: utils
+URL: https://github.com/fcshark-org/openwrt-scart
+Architecture: all
+Installed-Size: 20480
+Filename: scart_0.1.4-r2_all.ipk
+Size: 3408
+SHA256sum: b564cf753754cfcb02d773d9b435bcdba062be2636cebe3fe3c735f827a94bd0
+Description:  A Suspicious CA revoke tool
+
+Package: speedtest-go
+Version: 1.7.11-r1
+Depends: libc, ca-bundle
+License: MIT
+Section: net
+URL: https://github.com/showwin/speedtest-go
+Architecture: aarch64_generic
+Installed-Size: 23930880
+Filename: speedtest-go_1.7.11-r1_aarch64_generic.ipk
+Size: 9754967
+SHA256sum: 0c4b09b9e344b80f720b4383364d2fbe3d89504252b1ec11ccf3ed2977d9ff58
+Description:  Command Line Interface and pure Go API to
+ Test Internet Speed using speedtest.net
+
+Package: stuntman-client
+Version: 1.2.17~cc5b875b-r20240806
+Depends: libc, libpthread, libstdcpp6, libopenssl3
+License: Apache-2.0
+Section: net
+URL: https://github.com/jselbie/stunserver
+Architecture: aarch64_generic
+Installed-Size: 143360
+Filename: stuntman-client_1.2.17~cc5b875b-r20240806_aarch64_generic.ipk
+Size: 39353
+SHA256sum: 46a93a7558adbca8f5028ca1e18fdf8ce1e012793a0c3ae1c7b081ba0e854523
+Description:  An open source STUN server and client code by john selbie. Compliant with the latest RFCs including 5389, 5769, and 5780. Also includes backwards compatibility for RFC 3489.
+
+Package: stuntman-server
+Version: 1.2.17~cc5b875b-r20240806
+Depends: libc, libpthread, libstdcpp6, libopenssl3
+License: Apache-2.0
+Section: net
+URL: https://github.com/jselbie/stunserver
+Architecture: aarch64_generic
+Installed-Size: 266240
+Filename: stuntman-server_1.2.17~cc5b875b-r20240806_aarch64_generic.ipk
+Size: 89803
+SHA256sum: 74f1f16b6cffd60b97365ee9ec3467fa46d0afdfea3f03329103cf9169e5c82f
+Description:  An open source STUN server and client code by john selbie. Compliant with the latest RFCs including 5389, 5769, and 5780. Also includes backwards compatibility for RFC 3489.
+
+Package: stuntman-testcode
+Version: 1.2.17~cc5b875b-r20240806
+Depends: libc, libpthread, libstdcpp6, libopenssl3
+License: Apache-2.0
+Section: net
+URL: https://github.com/jselbie/stunserver
+Architecture: aarch64_generic
+Installed-Size: 204800
+Filename: stuntman-testcode_1.2.17~cc5b875b-r20240806_aarch64_generic.ipk
+Size: 65780
+SHA256sum: 9293d3bb7f95856fc3c903b42b0226681c7075e5df8d9842971e9107854648e5
+Description:  An open source STUN server and client code by john selbie. Compliant with the latest RFCs including 5389, 5769, and 5780. Also includes backwards compatibility for RFC 3489.
+
+Package: uci-alwaysonline
+Version: 0.2025.01.25
+Depends: libc, alwaysonline, kmod-tun, ip-full, rgmac
+License: MIT
+Section: net
+Architecture: aarch64_generic
+Installed-Size: 20480
+Filename: uci-alwaysonline_0.2025.01.25_aarch64_generic.ipk
+Size: 3410
+SHA256sum: 508dbfce072be7e00f730dca6f67f32f13e2afda2d38b59ec3ee8bbabb974f54
+Description:  alwaysonline uci metapackage
+

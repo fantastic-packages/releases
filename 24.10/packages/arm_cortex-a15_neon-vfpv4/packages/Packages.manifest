@@ -1,0 +1,525 @@
+Package: Toolkit
+Version: 0.4.0.2~631954ea-r2
+Depends: libc, libstdcpp6
+Source: /home/runner/work/packages/packages/packages/openwrt-Toolkit
+SourceName: Toolkit
+License: GPL-2.0
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1740907483
+URL: https://github.com/chengr28/Toolkit
+Maintainer: Chengr28 <chengr28@twitter>
+Architecture: arm_cortex-a15_neon-vfpv4
+Installed-Size: 317440
+Filename: Toolkit_0.4.0.2~631954ea-r2_arm_cortex-a15_neon-vfpv4.ipk
+Size: 121229
+SHA256sum: 9344265a4a12920b694ae766e0b98dab3938ab62601b8bab0a214255056f7bc2
+Description:  A network util can ping with DNS request.
+
+Package: alwaysonline
+Version: 1.2.1~206292ca-r1
+Depends: libc
+Source: /home/runner/work/packages/packages/packages/openwrt-alwaysonline
+SourceName: alwaysonline
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+Require-User: alwaysonline:alwaysonline
+SourceDateEpoch: 1772116340
+URL: https://github.com/Jamesits/alwaysonline
+Maintainer: Anya Lin <hukk1996@gmail.com>
+Architecture: arm_cortex-a15_neon-vfpv4
+Installed-Size: 5754880
+Filename: alwaysonline_1.2.1~206292ca-r1_arm_cortex-a15_neon-vfpv4.ipk
+Size: 2335397
+SHA256sum: b3ed602bfc04df610dae3857f8d2407ae87cc7ea712407e7f6774009f43f8e47
+Description:  AlwaysOnline is a HTTP and DNS server which mocks a lot network/internet/portal detection servers.
+
+Package: distfeeds-mirror-sjtu
+Version: 20260206-r1
+Depends: libc
+Source: /home/runner/work/packages/packages/packages/distfeeds-mirror-sjtu
+SourceName: distfeeds-mirror-sjtu
+License: MIT
+LicenseFiles: License
+Section: base
+SourceDateEpoch: 1783753825
+Maintainer: Anya Lin <hukk1996@gmail.com>
+Architecture: all
+Installed-Size: 10240
+Filename: distfeeds-mirror-sjtu_20260206-r1_all.ipk
+Size: 1072
+SHA256sum: 02b97236119f09134393f0115733abf6ce5111a9d2ae42d4b31f07579ae84d40
+Description:  Use Shanghai Jiao Tong University mirror as distfeeds
+
+Package: fakehttp
+Version: 0.9.18-r3
+Depends: libc, libmnl0, libnfnetlink0, libnetfilter-queue1, kmod-nft-queue, nftables
+Source: /home/runner/work/packages/packages/packages/openwrt-fakehttp
+SourceName: fakehttp
+License: GPL-3.0-or-later
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1752301017
+URL: https://github.com/MikeWang000000/FakeHTTP
+Maintainer: Yuxi Yang <i@bgme.me>
+Architecture: arm_cortex-a15_neon-vfpv4
+Installed-Size: 61440
+Filename: fakehttp_0.9.18-r3_arm_cortex-a15_neon-vfpv4.ipk
+Size: 22633
+SHA256sum: 3607646b034eb14c000df0bbf8af0e700a3de5fa186fd7cb7d3f3bd5a88ea35a
+Description:  Obfuscate all your TCP connections into HTTP protocol.
+
+Package: fantastic-keyring
+Version: 20240427-r1
+Depends: libc
+Source: /home/runner/work/packages/packages/packages/fantastic-keyring
+SourceName: fantastic-keyring
+License: MIT
+LicenseFiles: License
+Section: base
+SourceDateEpoch: 1734582064
+Maintainer: Anya Lin <hukk1996@gmail.com>
+Architecture: all
+Installed-Size: 10240
+Filename: fantastic-keyring_20240427-r1_all.ipk
+Size: 1061
+SHA256sum: 84a88137c9a1861645adca4a724b9e25df57d6bd991d938570a2234fd28de09b
+Description:  The keyring of with the developer using.
+
+Package: fantastic-packages-feeds
+Version: 20260101-r1
+Depends: libc, fantastic-keyring, opkg
+Source: /home/runner/work/packages/packages/packages/fantastic-packages-feeds
+SourceName: fantastic-packages-feeds
+License: MIT
+LicenseFiles: License
+Section: base
+SourceDateEpoch: 1767276943
+Maintainer: Anya Lin <hukk1996@gmail.com>
+Architecture: all
+Installed-Size: 10240
+Filename: fantastic-packages-feeds_20260101-r1_all.ipk
+Size: 1569
+SHA256sum: 77976a176757098572faff36b2b8753b16475e76ad7c00e6a9ee149f5adaaa50
+Description:  Installer for fantastic-packages feeds
+
+Package: fastfetch
+Version: 2.67.1-r1
+Depends: libc
+Source: /home/runner/work/packages/packages/packages/openwrt-fastfetch
+SourceName: fastfetch
+License: MIT
+LicenseFiles: LICENSE
+Section: utils
+SourceDateEpoch: 1786726108
+URL: https://github.com/fastfetch-cli/fastfetch
+Maintainer: Anya Lin <hukk1996@gmail.com>
+Architecture: arm_cortex-a15_neon-vfpv4
+Installed-Size: 1228800
+Filename: fastfetch_2.67.1-r1_arm_cortex-a15_neon-vfpv4.ipk
+Size: 447937
+SHA256sum: de73bf085613989dd7f7ea7a981d87aa398457d95077330381975c9a768b6d54
+Description:  Fastfetch is a neofetch-like tool for fetching
+ system information and displaying it prettily.
+
+Package: go-stun
+Version: 0.1.4~d32c135f-r10
+Depends: libc
+Source: /home/runner/work/packages/packages/packages/openwrt-go-stun
+SourceName: go-stun
+License: Apache-2.0
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1772116121
+URL: https://github.com/ccding/go-stun
+Maintainer: Anya Lin <hukk1996@gmail.com>
+Architecture: arm_cortex-a15_neon-vfpv4
+Installed-Size: 2129920
+Filename: go-stun_0.1.4~d32c135f-r10_arm_cortex-a15_neon-vfpv4.ipk
+Size: 918729
+SHA256sum: adf3f3457219c4b51f6c1eab255463395fbee5977e21eee6bab7e85fa7fec97f
+Description:  go-stun is a STUN (RFC 3489, 5389) client implementation in golang (a.k.a. UDP hole punching).
+ RFC 3489: STUN - Simple Traversal of User Datagram Protocol (UDP) Through Network Address Translators (NATs)
+ RFC 5389: Session Traversal Utilities for NAT (STUN)
+
+Package: internet-detector-mod-email
+Version: 1.7.3-r1
+Depends: libc, internet-detector, mailsend
+Source: /home/runner/work/packages/packages/luci/luci-app-internet-detector/internet-detector-mod-email
+SourceName: internet-detector-mod-email
+Section: net
+SourceDateEpoch: 1776099771
+URL: https://github.com/gSpotx2f/luci-app-internet-detector
+Maintainer: gSpot <https://github.com/gSpotx2f/luci-app-internet-detector>
+Architecture: all
+Installed-Size: 20480
+Filename: internet-detector-mod-email_1.7.3-r1_all.ipk
+Size: 2864
+SHA256sum: 2b161861fd4036c87590f36257da908039536c32fed653180452ea9492321182
+Description:  Email support for internet-detector.
+
+Package: internet-detector-mod-modem-restart
+Version: 1.7.3-r1
+Depends: libc, internet-detector, modemmanager
+Source: /home/runner/work/packages/packages/luci/luci-app-internet-detector/internet-detector-mod-modem-restart
+SourceName: internet-detector-mod-modem-restart
+Section: net
+SourceDateEpoch: 1776099771
+URL: https://github.com/gSpotx2f/luci-app-internet-detector
+Maintainer: gSpot <https://github.com/gSpotx2f/luci-app-internet-detector>
+Architecture: all
+Installed-Size: 10240
+Filename: internet-detector-mod-modem-restart_1.7.3-r1_all.ipk
+Size: 2203
+SHA256sum: ce659b9238cd79e19fb539a3ac50a0a8e911ce386ae2e2850a9200c052227b12
+Description:  Support modem restart for internet detector.
+
+Package: internet-detector-mod-telegram
+Version: 1.7.3-r1
+Depends: libc, internet-detector, curl, ucode, ucode-mod-fs
+Source: /home/runner/work/packages/packages/luci/luci-app-internet-detector/internet-detector-mod-telegram
+SourceName: internet-detector-mod-telegram
+Section: net
+SourceDateEpoch: 1776099771
+URL: https://github.com/gSpotx2f/luci-app-internet-detector
+Maintainer: gSpot <https://github.com/gSpotx2f/luci-app-internet-detector>
+Architecture: all
+Installed-Size: 20480
+Filename: internet-detector-mod-telegram_1.7.3-r1_all.ipk
+Size: 4571
+SHA256sum: 6b4df4617b3ce2f4289b9d5efc4238b571c9f8f0f9bf057101f3b41730e89fc5
+Description:  Telegram messenger support for internet-detector.
+
+Package: internet-detector
+Version: 1.7.4-r1
+Depends: libc, lua, luaposix, libuci-lua
+Source: /home/runner/work/packages/packages/luci/luci-app-internet-detector/internet-detector
+SourceName: internet-detector
+Section: net
+SourceDateEpoch: 1787407650
+URL: https://github.com/gSpotx2f/luci-app-internet-detector
+Maintainer: gSpot <https://github.com/gSpotx2f/luci-app-internet-detector>
+Architecture: all
+Installed-Size: 92160
+Filename: internet-detector_1.7.4-r1_all.ipk
+Size: 16569
+SHA256sum: a809a22b43602250ba3a204ee4c999f07b45b17445e9335f3ed5a89690955260
+Description:  Internet-detector is a small daemon
+ for checking Internet availability.
+ Written in Lua using the luaposix library.
+
+Package: iusebash
+Version: 0.2026.06.15-r1
+Depends: libc, bash
+Source: /home/runner/work/packages/packages/packages/openwrt-iusebash
+SourceName: iusebash
+License: MIT
+LicenseFiles: LICENSE
+Section: utils
+SourceDateEpoch: 1781584826
+URL: https://github.com/muink/openwrt-iusebash
+Maintainer: Anya Lin <hukk1996@gmail.com>
+Architecture: all
+Installed-Size: 10240
+Filename: iusebash_0.2026.06.15-r1_all.ipk
+Size: 1289
+SHA256sum: d2a35087fd6adc88a8a3f168885ee5d72f5b28dab88e1ad190227d274379a2b9
+Description:  Use bash as the default terminal
+
+Package: mihomo
+Version: 1.19.30-r1
+Depends: libc
+Alternatives: 100:/usr/bin/mihomo:/usr/libexec/mihomo-core
+Source: /home/runner/work/packages/packages/packages/openwrt-fchomo/mihomo
+SourceName: mihomo
+License: GPL-2.0
+LicenseFiles: LICENSE
+Section: net
+Require-User: mihomo=7890:mihomo=7890
+SourceDateEpoch: 1787140704
+URL: https://wiki.metacubex.one
+Maintainer: Anya Lin <hukk1996@gmail.com>
+Architecture: arm_cortex-a15_neon-vfpv4
+Installed-Size: 45373440
+Filename: mihomo_1.19.30-r1_arm_cortex-a15_neon-vfpv4.ipk
+Size: 17225894
+SHA256sum: 9d122482cef5c41bc5b062c7a5b5fd47b27b7f9e96ff79d1847b52d7fd83c4ee
+Description:  Another Mihomo Kernel.
+
+Package: natmapt-client-script-deluge
+Version: 0.2026.01.24
+Depends: libc, natmapt
+Provides: @natmapt-client-scripts, @natmapt-client-script-Deluge
+Source: /home/runner/work/packages/packages/packages/openwrt-natmapt
+SourceName: natmapt
+License: MIT
+LicenseFiles: License
+Section: net
+SourceDateEpoch: 1779516214
+Maintainer: Anya Lin <hukk1996@gmail.com>, Richard Yu <yurichard3839@gmail.com>, Ray Wang <r@hev.cc>
+Architecture: all
+Installed-Size: 10240
+Filename: natmapt-client-script-deluge_0.2026.01.24_all.ipk
+Size: 1641
+SHA256sum: d1dd54e00daa0774c3ffe01199959bd57288ebffdb54cd3a07bf49a28e7407b7
+Description:  NATMap client scripts (Deluge)
+
+Package: natmapt-client-script-transmission
+Version: 0.2026.01.24
+Depends: libc, natmapt
+Provides: @natmapt-client-scripts, @natmapt-client-script-Transmission
+Source: /home/runner/work/packages/packages/packages/openwrt-natmapt
+SourceName: natmapt
+License: MIT
+LicenseFiles: License
+Section: net
+SourceDateEpoch: 1779516214
+Maintainer: Anya Lin <hukk1996@gmail.com>, Richard Yu <yurichard3839@gmail.com>, Ray Wang <r@hev.cc>
+Architecture: all
+Installed-Size: 10240
+Filename: natmapt-client-script-transmission_0.2026.01.24_all.ipk
+Size: 1460
+SHA256sum: e539f4ad098a9ff0bad8ad5dc165a12a02b57a03431ef7d25d17e37278908ed2
+Description:  NATMap client scripts (Transmission)
+
+Package: natmapt-notify-script-pushbullet
+Version: 0.2026.01.24
+Depends: libc, natmapt
+Provides: @natmapt-notify-scripts, @natmapt-notify-script-Pushbullet
+Source: /home/runner/work/packages/packages/packages/openwrt-natmapt
+SourceName: natmapt
+License: MIT
+LicenseFiles: License
+Section: net
+SourceDateEpoch: 1779516214
+Maintainer: Anya Lin <hukk1996@gmail.com>, Richard Yu <yurichard3839@gmail.com>, Ray Wang <r@hev.cc>
+Architecture: all
+Installed-Size: 10240
+Filename: natmapt-notify-script-pushbullet_0.2026.01.24_all.ipk
+Size: 1445
+SHA256sum: b974daa80ce073fb0b52fcb7e59ff011239d3f22d6492c3cb1b468564e5e340c
+Description:  NATMap notify scripts (Pushbullet)
+
+Package: natmapt-notify-script-pushover
+Version: 0.2026.01.24
+Depends: libc, natmapt
+Provides: @natmapt-notify-scripts, @natmapt-notify-script-Pushover
+Source: /home/runner/work/packages/packages/packages/openwrt-natmapt
+SourceName: natmapt
+License: MIT
+LicenseFiles: License
+Section: net
+SourceDateEpoch: 1779516214
+Maintainer: Anya Lin <hukk1996@gmail.com>, Richard Yu <yurichard3839@gmail.com>, Ray Wang <r@hev.cc>
+Architecture: all
+Installed-Size: 10240
+Filename: natmapt-notify-script-pushover_0.2026.01.24_all.ipk
+Size: 1467
+SHA256sum: dbb1cb6c67e8bc2803826d154edcea9549c477f3fd547b8c77e6a123a15373c4
+Description:  NATMap notify scripts (Pushover)
+
+Package: natmapt-notify-script-telegram
+Version: 0.2026.01.24
+Depends: libc, natmapt
+Provides: @natmapt-notify-scripts, @natmapt-notify-script-Telegram
+Source: /home/runner/work/packages/packages/packages/openwrt-natmapt
+SourceName: natmapt
+License: MIT
+LicenseFiles: License
+Section: net
+SourceDateEpoch: 1779516214
+Maintainer: Anya Lin <hukk1996@gmail.com>, Richard Yu <yurichard3839@gmail.com>, Ray Wang <r@hev.cc>
+Architecture: all
+Installed-Size: 10240
+Filename: natmapt-notify-script-telegram_0.2026.01.24_all.ipk
+Size: 1571
+SHA256sum: ca8de52d420aac1bd27a397a09a91faa927ae63e29aaaa5b6be2f65121708d26
+Description:  NATMap notify scripts (Telegram)
+
+Package: natmapt
+Version: 20260214-r2
+Depends: libc, curl, jsonfilter, bash
+Source: /home/runner/work/packages/packages/packages/openwrt-natmapt
+SourceName: natmapt
+License: MIT
+LicenseFiles: License
+Section: net
+SourceDateEpoch: 1779516214
+URL: https://github.com/heiher/natmap
+Maintainer: Anya Lin <hukk1996@gmail.com>, Richard Yu <yurichard3839@gmail.com>, Ray Wang <r@hev.cc>
+Architecture: arm_cortex-a15_neon-vfpv4
+Installed-Size: 81920
+Filename: natmapt_20260214-r2_arm_cortex-a15_neon-vfpv4.ipk
+Size: 27261
+SHA256sum: 367367047deaf79b222fe81ae0cae7e48603d5cfeec7a4e356187492a174c145
+Description:  TCP/UDP port mapping tool for full cone NAT
+
+Package: netdata-ssl
+Version: 1.33.1-r4
+Depends: libc, zlib, libuuid1, libuv1, libmnl0, libjson-c5, libopenssl3
+Source: /home/runner/work/packages/packages/packages/openwrt-netdata-ssl
+SourceName: netdata
+License: GPL-3.0-or-later
+LicenseFiles: COPYING
+Section: admin
+SourceDateEpoch: 1693971228
+URL: https://www.netdata.cloud/
+CPE-ID: cpe:/a:my-netdata:netdata
+Maintainer: Josef Schlehofer <pepe.schlehofer@gmail.com>, Daniel Engberg <daniel.engberg.lists@pyret.net>
+Architecture: arm_cortex-a15_neon-vfpv4
+Installed-Size: 27279360
+Filename: netdata-ssl_1.33.1-r4_arm_cortex-a15_neon-vfpv4.ipk
+Size: 7970393
+SHA256sum: f378cdc64b206ed6852c840c848654e0f083ca58d6c49108bc78747750c97d69
+Description:  netdata is a highly optimized Linux daemon providing real-time performance
+ monitoring for Linux systems, applications and SNMP devices over the web.
+ 
+ If you want to use Python plugins install python3, python3-yaml and
+ python3-urllib3
+
+Package: pcap-dnsproxy
+Version: 0.4.9.13~70a40bb3-r1
+Depends: libc, libpthread, libstdcpp6, libevent2-core7, libpcap1, libsodium, libopenssl3
+Source: /home/runner/work/packages/packages/packages/openwrt-Pcap_DNSProxy
+SourceName: pcap-dnsproxy
+License: GPL-2.0
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1740847107
+URL: https://github.com/chengr28/Pcap_DNSProxy
+Maintainer: Chengr28 <chengr28@gmail.com>
+Architecture: arm_cortex-a15_neon-vfpv4
+Installed-Size: 962560
+Filename: pcap-dnsproxy_0.4.9.13~70a40bb3-r1_arm_cortex-a15_neon-vfpv4.ipk
+Size: 372773
+SHA256sum: 7a5eb84170ce3cebf69d9b42a3fb6d0a4e724c6f32c507dc89faeaa3b0c454cc
+Description:  A local DNS server based on LibPcap
+
+Package: rgmac
+Version: 1.5.1-r20240803
+Depends: libc, bash, curl, coreutils-cksum, getopt
+Source: /home/runner/work/packages/packages/packages/openwrt-rgmac
+SourceName: rgmac
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1772116030
+URL: https://github.com/muink/rgmac
+Maintainer: Anya Lin <hukk1996@gmail.com>
+Architecture: all
+Installed-Size: 20480
+Filename: rgmac_1.5.1-r20240803_all.ipk
+Size: 4511
+SHA256sum: 990fed614e7f3d7bd81ffc3ded1af10d90071f8a695a2b43d95a073127d9e22d
+Description:  A random MAC address generator
+
+Package: scart
+Version: 0.1.4-r2
+Depends: libc, bash, jq-full, openssl-util
+Source: /home/runner/work/packages/packages/packages/openwrt-scart
+SourceName: scart
+License: Apache-2.0
+LicenseFiles: LICENSE
+Section: utils
+SourceDateEpoch: 1761224662
+URL: https://github.com/fcshark-org/openwrt-scart
+Maintainer: Anya Lin <hukk1996@gmail.com>
+Architecture: all
+Installed-Size: 20480
+Filename: scart_0.1.4-r2_all.ipk
+Size: 3408
+SHA256sum: b564cf753754cfcb02d773d9b435bcdba062be2636cebe3fe3c735f827a94bd0
+Description:  A Suspicious CA revoke tool
+
+Package: speedtest-go
+Version: 1.7.11-r1
+Depends: libc, ca-bundle
+Source: /home/runner/work/packages/packages/packages/openwrt-speedtest-go
+SourceName: speedtest-go
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1785823105
+URL: https://github.com/showwin/speedtest-go
+Maintainer: Anya Lin <hukk1996@gmail.com>
+Architecture: arm_cortex-a15_neon-vfpv4
+Installed-Size: 24002560
+Filename: speedtest-go_1.7.11-r1_arm_cortex-a15_neon-vfpv4.ipk
+Size: 9842761
+SHA256sum: bec54462afb35bd4aa9da0aec859a7fd78e7df52278a443cffbb6f6362a2d1e4
+Description:  Command Line Interface and pure Go API to
+ Test Internet Speed using speedtest.net
+
+Package: stuntman-client
+Version: 1.2.17~cc5b875b-r20240806
+Depends: libc, libpthread, libstdcpp6, libopenssl3
+Source: /home/runner/work/packages/packages/packages/openwrt-stuntman
+SourceName: stuntman
+License: Apache-2.0
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1772115927
+URL: https://github.com/jselbie/stunserver
+Maintainer: Anya Lin <hukk1996@gmail.com>
+Architecture: arm_cortex-a15_neon-vfpv4
+Installed-Size: 81920
+Filename: stuntman-client_1.2.17~cc5b875b-r20240806_arm_cortex-a15_neon-vfpv4.ipk
+Size: 34248
+SHA256sum: c913ccd9735b80a774cf93f7ce1981039505e096ecc7914c19aad1225f6be202
+Description:  An open source STUN server and client code by john selbie. Compliant with the latest RFCs including 5389, 5769, and 5780. Also includes backwards compatibility for RFC 3489.
+
+Package: stuntman-server
+Version: 1.2.17~cc5b875b-r20240806
+Depends: libc, libpthread, libstdcpp6, libopenssl3
+Source: /home/runner/work/packages/packages/packages/openwrt-stuntman
+SourceName: stuntman
+License: Apache-2.0
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1772115927
+URL: https://github.com/jselbie/stunserver
+Maintainer: Anya Lin <hukk1996@gmail.com>
+Architecture: arm_cortex-a15_neon-vfpv4
+Installed-Size: 184320
+Filename: stuntman-server_1.2.17~cc5b875b-r20240806_arm_cortex-a15_neon-vfpv4.ipk
+Size: 80046
+SHA256sum: a827d86c3810df80a17142cf139bf3609c5cda45c1ecd9f7aedc006f54f3dac5
+Description:  An open source STUN server and client code by john selbie. Compliant with the latest RFCs including 5389, 5769, and 5780. Also includes backwards compatibility for RFC 3489.
+
+Package: stuntman-testcode
+Version: 1.2.17~cc5b875b-r20240806
+Depends: libc, libpthread, libstdcpp6, libopenssl3
+Source: /home/runner/work/packages/packages/packages/openwrt-stuntman
+SourceName: stuntman
+License: Apache-2.0
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1772115927
+URL: https://github.com/jselbie/stunserver
+Maintainer: Anya Lin <hukk1996@gmail.com>
+Architecture: arm_cortex-a15_neon-vfpv4
+Installed-Size: 143360
+Filename: stuntman-testcode_1.2.17~cc5b875b-r20240806_arm_cortex-a15_neon-vfpv4.ipk
+Size: 56967
+SHA256sum: 0e1062156f2501780c9857351c63b2906d841d34500d8c223095ce4d4e5b937a
+Description:  An open source STUN server and client code by john selbie. Compliant with the latest RFCs including 5389, 5769, and 5780. Also includes backwards compatibility for RFC 3489.
+
+Package: uci-alwaysonline
+Version: 0.2025.01.25
+Depends: libc, alwaysonline, kmod-tun, ip-full, rgmac
+Source: /home/runner/work/packages/packages/packages/openwrt-alwaysonline
+SourceName: alwaysonline
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+Require-User: alwaysonline:alwaysonline
+SourceDateEpoch: 1772116340
+Maintainer: Anya Lin <hukk1996@gmail.com>
+Architecture: arm_cortex-a15_neon-vfpv4
+Installed-Size: 20480
+Filename: uci-alwaysonline_0.2025.01.25_arm_cortex-a15_neon-vfpv4.ipk
+Size: 3412
+SHA256sum: 6ea0a3898ea85c943c6b5e19163caaf685bdf73c4e90fb5ebc643b8baecad3c4
+Description:  alwaysonline uci metapackage
+
