@@ -87,6 +87,6 @@
     "shadowsocks-rust-ssserver": "1.24.0-r1",
     "shadowsocks-rust-ssservice": "1.24.0-r1",
     "shadowsocks-rust-ssurl": "1.24.0-r1",
-    "vmlinux-btf": "6.6.141-r1"
+    "vmlinux-btf": "6.6.144-r1"
   }
 }

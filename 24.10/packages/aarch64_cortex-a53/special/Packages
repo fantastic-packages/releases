@@ -1026,8 +1026,8 @@ URL: https://github.com/shadowsocks/shadowsocks-rust
 Architecture: aarch64_cortex-a53
 Installed-Size: 7751680
 Filename: shadowsocks-rust-ssservice_1.24.0-r1_aarch64_cortex-a53.ipk
-Size: 3796492
-SHA256sum: 43c1157924cd07db643be00be8a1c4543142301b16d9dc1ca3aca4d260de4148
+Size: 3796313
+SHA256sum: c07a4888ff892b28348bd91425451604faa8db9febad91928f7cbdd68b603a86
 Description:  shadowsocks-rust ssservice. single bundled of local,server,manager. also used to generate safed secured password.
 
 Package: shadowsocks-rust-ssurl
@@ -1044,14 +1044,14 @@ SHA256sum: 214cb646cdc928bfe4516fa4694f45f0d8b3959f8a085bb10dfb50e21c71b552
 Description:  shadowsocks-rust ssurl. for encoding/decoding SIP002 URLs.
 
 Package: vmlinux-btf
-Version: 6.6.141-r1
+Version: 6.6.144-r1
 Depends: libc
 Section: kernel
 Architecture: aarch64_cortex-a53
 Installed-Size: 3430400
-Filename: vmlinux-btf_6.6.141-r1_aarch64_cortex-a53.ipk
-Size: 1123980
-SHA256sum: ad4fed8958566287ae5f5c22817d160be74a64005515b5897da172ca688cf846
+Filename: vmlinux-btf_6.6.144-r1_aarch64_cortex-a53.ipk
+Size: 1124190
+SHA256sum: a4f59f8c51a6a74c83e55e6eb342f072970e0ce211cc1f975906964ffbe90f0b
 Description:  Supplies detached kernel BTF so CO-RE eBPF programs (dae/daed) load on
  kernels built without CONFIG_DEBUG_INFO_BTF. Builds a shadow kernel from the
  OpenWrt kernel source with BTF enabled and encodes a detached vmlinux.btf.

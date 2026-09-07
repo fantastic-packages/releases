@@ -1026,8 +1026,8 @@ URL: https://github.com/shadowsocks/shadowsocks-rust
 Architecture: arm_cortex-a15_neon-vfpv4
 Installed-Size: 7137280
 Filename: shadowsocks-rust-ssservice_1.24.0-r1_arm_cortex-a15_neon-vfpv4.ipk
-Size: 3409885
-SHA256sum: b0838117ec336c1b7376f434463de2792c5f16f4eda1b571b289bb1b1e7524f8
+Size: 3409847
+SHA256sum: 9fe06dcc909e075b79e1862282b1033051fded809360ba5508e90a2394582bc0
 Description:  shadowsocks-rust ssservice. single bundled of local,server,manager. also used to generate safed secured password.
 
 Package: shadowsocks-rust-ssurl
@@ -1044,14 +1044,14 @@ SHA256sum: 1dc120b8518392e541c0defade927d648f2cf6aa0fafcfc1d47a01dd8963dcec
 Description:  shadowsocks-rust ssurl. for encoding/decoding SIP002 URLs.
 
 Package: vmlinux-btf
-Version: 6.6.141-r1
+Version: 6.6.144-r1
 Depends: libc
 Section: kernel
 Architecture: arm_cortex-a15_neon-vfpv4
 Installed-Size: 3082240
-Filename: vmlinux-btf_6.6.141-r1_arm_cortex-a15_neon-vfpv4.ipk
-Size: 1016004
-SHA256sum: ec779f1ea6b9bbd1c045182eb6f031475f148a0d02960efe1734845469f2e908
+Filename: vmlinux-btf_6.6.144-r1_arm_cortex-a15_neon-vfpv4.ipk
+Size: 1016301
+SHA256sum: 94910876d71c66e0cbe2987e74be06d1a59243a8ef769387a570574e0d74c087
 Description:  Supplies detached kernel BTF so CO-RE eBPF programs (dae/daed) load on
  kernels built without CONFIG_DEBUG_INFO_BTF. Builds a shadow kernel from the
  OpenWrt kernel source with BTF enabled and encodes a detached vmlinux.btf.

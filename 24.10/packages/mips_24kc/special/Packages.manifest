@@ -1279,8 +1279,8 @@ Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: mips_24kc
 Installed-Size: 10106880
 Filename: shadowsocks-rust-ssservice_1.24.0-r1_mips_24kc.ipk
-Size: 4100216
-SHA256sum: 1649e902b43a1cb39212c0d68c7142ddd2f3ca83bee88eb67ec3df777a0b2efd
+Size: 4100224
+SHA256sum: 93dd910a127b11e587e434c5910f4d0931487a4f7aeeb982d5b3c1d4bf98c473
 Description:  shadowsocks-rust ssservice. single bundled of local,server,manager. also used to generate safed secured password.
 
 Package: shadowsocks-rust-ssurl
@@ -1302,17 +1302,17 @@ SHA256sum: 4e3d681f81b7428f9eb7ab24a59109dcbc9821480e113f73f3ad9c9bcf4fa915
 Description:  shadowsocks-rust ssurl. for encoding/decoding SIP002 URLs.
 
 Package: vmlinux-btf
-Version: 6.6.141-r1
+Version: 6.6.144-r1
 Depends: libc
 Source: /home/runner/work/packages/packages/packages/vmlinux-btf/vmlinux-btf
 SourceName: vmlinux-btf
 Section: kernel
-SourceDateEpoch: 1781772730
+SourceDateEpoch: 1782022476
 Architecture: mips_24kc
 Installed-Size: 2416640
-Filename: vmlinux-btf_6.6.141-r1_mips_24kc.ipk
-Size: 825329
-SHA256sum: 1cbab15f7cc0214e227e423148b502be7f3475551102de131aecc7fca27d3910
+Filename: vmlinux-btf_6.6.144-r1_mips_24kc.ipk
+Size: 825727
+SHA256sum: 4b985f6fb6b5e735c38e64492166e52f8c4718b00a359e76b06df957ba181e67
 Description:  Supplies detached kernel BTF so CO-RE eBPF programs (dae/daed) load on
  kernels built without CONFIG_DEBUG_INFO_BTF. Builds a shadow kernel from the
  OpenWrt kernel source with BTF enabled and encodes a detached vmlinux.btf.

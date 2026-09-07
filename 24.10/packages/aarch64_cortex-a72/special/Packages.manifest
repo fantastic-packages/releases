@@ -1353,8 +1353,8 @@ Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: aarch64_cortex-a72
 Installed-Size: 7751680
 Filename: shadowsocks-rust-ssservice_1.24.0-r1_aarch64_cortex-a72.ipk
-Size: 3796293
-SHA256sum: dc6d91e139f1c56db537568033d6f06b642c11e3adb4707e11cf4f99e9a37c60
+Size: 3796382
+SHA256sum: 160f6e6c16878c20be09bc1344851c2a067ad65275855185fab3ab1abb8338d1
 Description:  shadowsocks-rust ssservice. single bundled of local,server,manager. also used to generate safed secured password.
 
 Package: shadowsocks-rust-ssurl
@@ -1376,17 +1376,17 @@ SHA256sum: 58cb0616c3c91e7d08b3ab261ee728783827704290a5f905672e22fc0cd0173e
 Description:  shadowsocks-rust ssurl. for encoding/decoding SIP002 URLs.
 
 Package: vmlinux-btf
-Version: 6.6.141-r1
+Version: 6.6.144-r1
 Depends: libc
 Source: /home/runner/work/packages/packages/packages/vmlinux-btf/vmlinux-btf
 SourceName: vmlinux-btf
 Section: kernel
-SourceDateEpoch: 1781772730
+SourceDateEpoch: 1782022476
 Architecture: aarch64_cortex-a72
 Installed-Size: 3471360
-Filename: vmlinux-btf_6.6.141-r1_aarch64_cortex-a72.ipk
-Size: 1135574
-SHA256sum: 6997c7e880fad39800817a98e8c90faf25a21de61d40338ac655929f27821dd4
+Filename: vmlinux-btf_6.6.144-r1_aarch64_cortex-a72.ipk
+Size: 1135500
+SHA256sum: 2138645889d7d3824b892c599d472365b34fe247d08eef1faf3ac3b38711efee
 Description:  Supplies detached kernel BTF so CO-RE eBPF programs (dae/daed) load on
  kernels built without CONFIG_DEBUG_INFO_BTF. Builds a shadow kernel from the
  OpenWrt kernel source with BTF enabled and encodes a detached vmlinux.btf.
