@@ -11,15 +11,15 @@ SHA256sum: 4de675023323c71b4ca581b5ab28dcce7cbf902974cd1721d2fe31b2de30b283
 Description:  Bandix Plus core service for network traffic monitoring
 
 Package: bandix
-Version: 0.12.9-r1
+Version: 0.12.10-r1
 Depends: libc, zoneinfo-all, conntrack, iw
 License: Apache-2.0
 Section: net
 Architecture: riscv64_riscv64
-Installed-Size: 5283840
-Filename: bandix_0.12.9-r1_riscv64_riscv64.ipk
-Size: 2575067
-SHA256sum: b16cb890e18950a80a1c75639829133d2c447b33c92e8801f1bd5ec862c0b1d4
+Installed-Size: 5406720
+Filename: bandix_0.12.10-r1_riscv64_riscv64.ipk
+Size: 2633561
+SHA256sum: dedca00ebbd1bb0a9e61ab8a65bf6628af1bb3d7dbf10b39ec253a97ee3d44f6
 Description:  Bandix core service for network traffic monitoring
 
 Package: einat-ebpf
@@ -172,16 +172,16 @@ SHA256sum: 30150583d08f97891b8b70805cb38f19959410b8cbdace45de8674efe8c68e1e
 Description:  LuCI Bandix Plus app for network traffic monitoring
 
 Package: luci-app-bandix
-Version: 0.12.10-r1
+Version: 0.12.11-r1
 Depends: libc, luci-base, luci-lib-jsonc, curl, bandix
 License: Apache-2.0
 Section: luci
 URL: https://github.com/openwrt/luci
 Architecture: all
-Installed-Size: 399360
-Filename: luci-app-bandix_0.12.10-r1_all.ipk
-Size: 69973
-SHA256sum: 5ff9c8d128bbbaec0096da4148a341c2aecae461dd9fb4544377c93703cdddf1
+Installed-Size: 419840
+Filename: luci-app-bandix_0.12.11-r1_all.ipk
+Size: 73400
+SHA256sum: 3dad8a1366d46f7209449d12dbcf569b07c7d6dba45e1571664202f14fedcea7
 Description:  LuCI Bandix app for network traffic monitoring
 
 Package: luci-app-einat
@@ -223,51 +223,51 @@ SHA256sum: 6136810da88d7a6e225f5c3a35c0224586c7b23ce6c77a6fe5f04a46a3e93dba
 Description:  LuCI Support for shadowsocks-rust
 
 Package: luci-i18n-bandix-es
-Version: 26.230.00908~d899c02
+Version: 26.249.51071~0bd9b61
 Depends: libc, luci-app-bandix
 License: Apache-2.0
 Section: luci
 Architecture: all
 Installed-Size: 30720
-Filename: luci-i18n-bandix-es_26.230.00908~d899c02_all.ipk
-Size: 8939
-SHA256sum: f838ee91eb99967b8e462a80816aba2f818fbd9ec9692e8c9abfa0f4b111c20e
+Filename: luci-i18n-bandix-es_26.249.51071~0bd9b61_all.ipk
+Size: 9502
+SHA256sum: 2257624ebc2d4d2069b3e53c0e6de692e5af832fa85990e7611880155829a0bc
 Description:  Translation for luci-app-bandix - Español (Spanish)
 
 Package: luci-i18n-bandix-fr
-Version: 26.230.00908~d899c02
+Version: 26.249.51071~0bd9b61
 Depends: libc, luci-app-bandix
 License: Apache-2.0
 Section: luci
 Architecture: all
 Installed-Size: 30720
-Filename: luci-i18n-bandix-fr_26.230.00908~d899c02_all.ipk
-Size: 8914
-SHA256sum: f1bc8b37eb0cd06aa15fe3a8a35850912f36f834eb37c1116b5b227e69fc0595
+Filename: luci-i18n-bandix-fr_26.249.51071~0bd9b61_all.ipk
+Size: 9461
+SHA256sum: 10898b7a0bb4be07d67c0630cb1b20c4f852594f8cfe309ee2635dd159807f9e
 Description:  Translation for luci-app-bandix - Français (French)
 
 Package: luci-i18n-bandix-ja
-Version: 26.230.00908~d899c02
+Version: 26.249.51071~0bd9b61
 Depends: libc, luci-app-bandix
 License: Apache-2.0
 Section: luci
 Architecture: all
 Installed-Size: 30720
-Filename: luci-i18n-bandix-ja_26.230.00908~d899c02_all.ipk
-Size: 9125
-SHA256sum: 073e2018066f64f015e02772306710da7654b710a4fca08218c13d82f111b245
+Filename: luci-i18n-bandix-ja_26.249.51071~0bd9b61_all.ipk
+Size: 9674
+SHA256sum: 4f7300d6c0d10485c140b62faa86218df3d857f3ff29b902841023c4605fc901
 Description:  Translation for luci-app-bandix - 日本語 (Japanese)
 
 Package: luci-i18n-bandix-pl
-Version: 26.230.00908~d899c02
+Version: 26.249.51071~0bd9b61
 Depends: libc, luci-app-bandix
 License: Apache-2.0
 Section: luci
 Architecture: all
 Installed-Size: 30720
-Filename: luci-i18n-bandix-pl_26.230.00908~d899c02_all.ipk
-Size: 9114
-SHA256sum: 4367d6c898a029f884c12e41d797042a9602d948c7f6d07cf077f5ac9016575c
+Filename: luci-i18n-bandix-pl_26.249.51071~0bd9b61_all.ipk
+Size: 9653
+SHA256sum: 51b17b82e6f1ee5f8d671eab500024837ad0665ba65e263f59ec0bc173c942e7
 Description:  Translation for luci-app-bandix - Polski (Polish)
 
 Package: luci-i18n-bandix-plus-es
@@ -355,39 +355,39 @@ SHA256sum: 3827c70eb0f040819ffc91b8b243a2e3ea37ad9e81de40bf0ce306ef3d220e95
 Description:  Translation for luci-app-bandix-plus - 正體中文 (Traditional Chinese)
 
 Package: luci-i18n-bandix-ru
-Version: 26.230.00908~d899c02
+Version: 26.249.51071~0bd9b61
 Depends: libc, luci-app-bandix
 License: Apache-2.0
 Section: luci
 Architecture: all
 Installed-Size: 40960
-Filename: luci-i18n-bandix-ru_26.230.00908~d899c02_all.ipk
-Size: 9973
-SHA256sum: d048ea08f176bcc826a8900b25a64e1cbb7aadbac9c11084a4d4f634ac269dfc
+Filename: luci-i18n-bandix-ru_26.249.51071~0bd9b61_all.ipk
+Size: 10626
+SHA256sum: 27ad7150c0d224212edf463a590e25e43c220e1c9c87d0dcf6da87586937805c
 Description:  Translation for luci-app-bandix - Русский (Russian)
 
 Package: luci-i18n-bandix-zh-cn
-Version: 26.230.00908~d899c02
+Version: 26.249.51071~0bd9b61
 Depends: libc, luci-app-bandix
 License: Apache-2.0
 Section: luci
 Architecture: all
 Installed-Size: 30720
-Filename: luci-i18n-bandix-zh-cn_26.230.00908~d899c02_all.ipk
-Size: 8631
-SHA256sum: b479dd5a52c5b936be5422528bf4824d586ee3f3bce7822c2548496ce29cc8b6
+Filename: luci-i18n-bandix-zh-cn_26.249.51071~0bd9b61_all.ipk
+Size: 9121
+SHA256sum: f31be1029e3ff0b4f7643cf5ca44fec59fb1ce0c820471d377812d9aa082a68c
 Description:  Translation for luci-app-bandix - 简体中文 (Simplified Chinese)
 
 Package: luci-i18n-bandix-zh-tw
-Version: 26.230.00908~d899c02
+Version: 26.249.51071~0bd9b61
 Depends: libc, luci-app-bandix
 License: Apache-2.0
 Section: luci
 Architecture: all
 Installed-Size: 30720
-Filename: luci-i18n-bandix-zh-tw_26.230.00908~d899c02_all.ipk
-Size: 8574
-SHA256sum: de4b911043d98afd419f564f359c8362dd5c7351642c08d1811ba9d7f9b01683
+Filename: luci-i18n-bandix-zh-tw_26.249.51071~0bd9b61_all.ipk
+Size: 9062
+SHA256sum: f3432b8390c1fc95ee7d01b51ab812e353881051ceee56e9ee0cdf3390fbef9a
 Description:  Translation for luci-app-bandix - 正體中文 (Traditional Chinese)
 
 Package: luci-i18n-einat-zh-cn
@@ -1026,8 +1026,8 @@ URL: https://github.com/shadowsocks/shadowsocks-rust
 Architecture: riscv64_riscv64
 Installed-Size: 7874560
 Filename: shadowsocks-rust-ssservice_1.24.0-r1_riscv64_riscv64.ipk
-Size: 3676611
-SHA256sum: e27f412deec9359768a1c8a421063bd2b25bf3b21e0081476fb6fbeed8c15c00
+Size: 3676635
+SHA256sum: 9f179cd84ca62a0642deecb68bbaf4fd0680be90465cbc5af47699c26ecb112e
 Description:  shadowsocks-rust ssservice. single bundled of local,server,manager. also used to generate safed secured password.
 
 Package: shadowsocks-rust-ssurl
