@@ -9,7 +9,7 @@
     "luci-app-cpu-status-mini": "0.2.0-r1",
     "luci-app-diskman": "0.2.13-r1",
     "luci-app-disks-info": "0.6.1-r1",
-    "luci-app-dnsproxy": "26.227.36693~bd484b9",
+    "luci-app-dnsproxy": "26.250.33416~c43835f",
     "luci-app-fakehttp": "25.193.27915~fee47a1",
     "luci-app-fchomo": "26.231.43104~462b24b",
     "luci-app-interfaces-statistics": "0.4.2-r1",
