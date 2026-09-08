@@ -62,15 +62,15 @@ SHA256sum: 84a88137c9a1861645adca4a724b9e25df57d6bd991d938570a2234fd28de09b
 Description:  The keyring of with the developer using.
 
 Package: fantastic-packages-feeds
-Version: 20250513-r1
+Version: 20260101-r1
 Depends: libc, fantastic-keyring, opkg
 License: MIT
 Section: base
 Architecture: all
 Installed-Size: 10240
-Filename: fantastic-packages-feeds_20250513-r1_all.ipk
-Size: 1567
-SHA256sum: 8c7e087d4600d3df1846539c7887a140b4d9f2018d328780a1145fbc703d2d72
+Filename: fantastic-packages-feeds_20260101-r1_all.ipk
+Size: 1569
+SHA256sum: 77976a176757098572faff36b2b8753b16475e76ad7c00e6a9ee149f5adaaa50
 Description:  Installer for fantastic-packages feeds
 
 Package: fastfetch
