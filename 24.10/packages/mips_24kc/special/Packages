@@ -973,8 +973,8 @@ URL: https://github.com/shadowsocks/shadowsocks-rust
 Architecture: mips_24kc
 Installed-Size: 10106880
 Filename: shadowsocks-rust-ssservice_1.24.0-r1_mips_24kc.ipk
-Size: 4100222
-SHA256sum: beeb0262705c7a5d7d211ac38f67f4a837ecd1d59f4bb1c75548c6237ecdf05a
+Size: 4100176
+SHA256sum: 4d4fcc3a0e08cb7486a4187d0c94c93101aeabe99c00957da79400933a09b6ca
 Description:  shadowsocks-rust ssservice. single bundled of local,server,manager. also used to generate safed secured password.
 
 Package: shadowsocks-rust-ssurl

@@ -1279,8 +1279,8 @@ Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: mipsel_24kc
 Installed-Size: 10106880
 Filename: shadowsocks-rust-ssservice_1.24.0-r1_mipsel_24kc.ipk
-Size: 4060131
-SHA256sum: 1d42a283462a00f96c45c9c774034c405de0474e62149dba4d9c4f07ef66bbf4
+Size: 4060067
+SHA256sum: 2183b51e22cc2e05842b6a434d28b2c0ca0d6adf6a807c77cd32ff297cb33d2a
 Description:  shadowsocks-rust ssservice. single bundled of local,server,manager. also used to generate safed secured password.
 
 Package: shadowsocks-rust-ssurl

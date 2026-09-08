@@ -1353,8 +1353,8 @@ Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: aarch64_cortex-a72
 Installed-Size: 7751680
 Filename: shadowsocks-rust-ssservice_1.24.0-r1_aarch64_cortex-a72.ipk
-Size: 3796292
-SHA256sum: 66a2977cfde09c86143fd62b943bafb8916d7c8537d7991509b7061829285c43
+Size: 3796490
+SHA256sum: 682b60d49b4d0b866bf8485c4f9d3d0b4c58feaefa4b5c22f2b239652dbdf392
 Description:  shadowsocks-rust ssservice. single bundled of local,server,manager. also used to generate safed secured password.
 
 Package: shadowsocks-rust-ssurl

@@ -105,40 +105,40 @@ SHA256sum: 77976a176757098572faff36b2b8753b16475e76ad7c00e6a9ee149f5adaaa50
 Description:  Installer for fantastic-packages feeds
 
 Package: fastfetch
-Version: 2.67.1-r1
+Version: 2.68.1-r1
 Depends: libc
 Source: /home/runner/work/packages/packages/packages/openwrt-fastfetch
 SourceName: fastfetch
 License: MIT
 LicenseFiles: LICENSE
 Section: utils
-SourceDateEpoch: 1786726108
+SourceDateEpoch: 1788547630
 URL: https://github.com/fastfetch-cli/fastfetch
 Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: arm_cortex-a15_neon-vfpv4
-Installed-Size: 1228800
-Filename: fastfetch_2.67.1-r1_arm_cortex-a15_neon-vfpv4.ipk
-Size: 447937
-SHA256sum: de73bf085613989dd7f7ea7a981d87aa398457d95077330381975c9a768b6d54
+Installed-Size: 1280000
+Filename: fastfetch_2.68.1-r1_arm_cortex-a15_neon-vfpv4.ipk
+Size: 470909
+SHA256sum: 562b1594330816edd5c6148f10249099fa1df93eaf2d5ac47c5e29ea3564e923
 Description:  Fastfetch is a neofetch-like tool for fetching
  system information and displaying it prettily.
 
 Package: go-stun
-Version: 0.1.4~d32c135f-r10
+Version: 0.1.6-r1
 Depends: libc
 Source: /home/runner/work/packages/packages/packages/openwrt-go-stun
 SourceName: go-stun
 License: Apache-2.0
 LicenseFiles: LICENSE
 Section: net
-SourceDateEpoch: 1772116121
+SourceDateEpoch: 1788775538
 URL: https://github.com/ccding/go-stun
 Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: arm_cortex-a15_neon-vfpv4
-Installed-Size: 2129920
-Filename: go-stun_0.1.4~d32c135f-r10_arm_cortex-a15_neon-vfpv4.ipk
-Size: 918729
-SHA256sum: adf3f3457219c4b51f6c1eab255463395fbee5977e21eee6bab7e85fa7fec97f
+Installed-Size: 2170880
+Filename: go-stun_0.1.6-r1_arm_cortex-a15_neon-vfpv4.ipk
+Size: 936133
+SHA256sum: 5b72e16dc5ca9419860c952c89394ab53b075ec73feff32aa11abe7260076e1b
 Description:  go-stun is a STUN (RFC 3489, 5389) client implementation in golang (a.k.a. UDP hole punching).
  RFC 3489: STUN - Simple Traversal of User Datagram Protocol (UDP) Through Network Address Translators (NATs)
  RFC 5389: Session Traversal Utilities for NAT (STUN)
@@ -452,57 +452,57 @@ Description:  Command Line Interface and pure Go API to
  Test Internet Speed using speedtest.net
 
 Package: stuntman-client
-Version: 1.2.17~cc5b875b-r20240806
+Version: 1.2.17~1582042c-r20260906
 Depends: libc, libpthread, libstdcpp6, libopenssl3
 Source: /home/runner/work/packages/packages/packages/openwrt-stuntman
 SourceName: stuntman
 License: Apache-2.0
 LicenseFiles: LICENSE
 Section: net
-SourceDateEpoch: 1772115927
+SourceDateEpoch: 1788783041
 URL: https://github.com/jselbie/stunserver
 Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: arm_cortex-a15_neon-vfpv4
 Installed-Size: 81920
-Filename: stuntman-client_1.2.17~cc5b875b-r20240806_arm_cortex-a15_neon-vfpv4.ipk
-Size: 34248
-SHA256sum: c913ccd9735b80a774cf93f7ce1981039505e096ecc7914c19aad1225f6be202
+Filename: stuntman-client_1.2.17~1582042c-r20260906_arm_cortex-a15_neon-vfpv4.ipk
+Size: 34211
+SHA256sum: f75892540149921edf6a7eef6b842dced62189010c81876ddc46413e4b6b3f64
 Description:  An open source STUN server and client code by john selbie. Compliant with the latest RFCs including 5389, 5769, and 5780. Also includes backwards compatibility for RFC 3489.
 
 Package: stuntman-server
-Version: 1.2.17~cc5b875b-r20240806
+Version: 1.2.17~1582042c-r20260906
 Depends: libc, libpthread, libstdcpp6, libopenssl3
 Source: /home/runner/work/packages/packages/packages/openwrt-stuntman
 SourceName: stuntman
 License: Apache-2.0
 LicenseFiles: LICENSE
 Section: net
-SourceDateEpoch: 1772115927
+SourceDateEpoch: 1788783041
 URL: https://github.com/jselbie/stunserver
 Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: arm_cortex-a15_neon-vfpv4
 Installed-Size: 184320
-Filename: stuntman-server_1.2.17~cc5b875b-r20240806_arm_cortex-a15_neon-vfpv4.ipk
-Size: 80046
-SHA256sum: a827d86c3810df80a17142cf139bf3609c5cda45c1ecd9f7aedc006f54f3dac5
+Filename: stuntman-server_1.2.17~1582042c-r20260906_arm_cortex-a15_neon-vfpv4.ipk
+Size: 80087
+SHA256sum: 34055076b0667ff8adf7f7017d1988200f2dfc23724618320cce7eefe4da4eb9
 Description:  An open source STUN server and client code by john selbie. Compliant with the latest RFCs including 5389, 5769, and 5780. Also includes backwards compatibility for RFC 3489.
 
 Package: stuntman-testcode
-Version: 1.2.17~cc5b875b-r20240806
+Version: 1.2.17~1582042c-r20260906
 Depends: libc, libpthread, libstdcpp6, libopenssl3
 Source: /home/runner/work/packages/packages/packages/openwrt-stuntman
 SourceName: stuntman
 License: Apache-2.0
 LicenseFiles: LICENSE
 Section: net
-SourceDateEpoch: 1772115927
+SourceDateEpoch: 1788783041
 URL: https://github.com/jselbie/stunserver
 Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: arm_cortex-a15_neon-vfpv4
 Installed-Size: 143360
-Filename: stuntman-testcode_1.2.17~cc5b875b-r20240806_arm_cortex-a15_neon-vfpv4.ipk
-Size: 56967
-SHA256sum: 0e1062156f2501780c9857351c63b2906d841d34500d8c223095ce4d4e5b937a
+Filename: stuntman-testcode_1.2.17~1582042c-r20260906_arm_cortex-a15_neon-vfpv4.ipk
+Size: 56983
+SHA256sum: 27cd22e47dab1580510c74910a789c8dbaf75bbf8c781d865bfc7c4333cbe402
 Description:  An open source STUN server and client code by john selbie. Compliant with the latest RFCs including 5389, 5769, and 5780. Also includes backwards compatibility for RFC 3489.
 
 Package: uci-alwaysonline

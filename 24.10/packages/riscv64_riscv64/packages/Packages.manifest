@@ -105,40 +105,40 @@ SHA256sum: 77976a176757098572faff36b2b8753b16475e76ad7c00e6a9ee149f5adaaa50
 Description:  Installer for fantastic-packages feeds
 
 Package: fastfetch
-Version: 2.67.1-r1
+Version: 2.68.1-r1
 Depends: libc
 Source: /home/runner/work/packages/packages/packages/openwrt-fastfetch
 SourceName: fastfetch
 License: MIT
 LicenseFiles: LICENSE
 Section: utils
-SourceDateEpoch: 1786726108
+SourceDateEpoch: 1788547630
 URL: https://github.com/fastfetch-cli/fastfetch
 Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: riscv64_riscv64
-Installed-Size: 1167360
-Filename: fastfetch_2.67.1-r1_riscv64_riscv64.ipk
-Size: 446066
-SHA256sum: ffdcf45025b5cca666835701a0d8468102f867f6f013bda5ff5f49631118a24c
+Installed-Size: 1228800
+Filename: fastfetch_2.68.1-r1_riscv64_riscv64.ipk
+Size: 468493
+SHA256sum: bbc5674e5ec928b2e7728ff6e1c08da60031c109a1f3d777bd53536b4859a88b
 Description:  Fastfetch is a neofetch-like tool for fetching
  system information and displaying it prettily.
 
 Package: go-stun
-Version: 0.1.4~d32c135f-r10
+Version: 0.1.6-r1
 Depends: libc
 Source: /home/runner/work/packages/packages/packages/openwrt-go-stun
 SourceName: go-stun
 License: Apache-2.0
 LicenseFiles: LICENSE
 Section: net
-SourceDateEpoch: 1772116121
+SourceDateEpoch: 1788775538
 URL: https://github.com/ccding/go-stun
 Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: riscv64_riscv64
-Installed-Size: 2140160
-Filename: go-stun_0.1.4~d32c135f-r10_riscv64_riscv64.ipk
-Size: 908442
-SHA256sum: 301d4e42cd0f2c36dbb5bbe62c56bb58504889e22c8c51454790b0db16fb7cba
+Installed-Size: 2191360
+Filename: go-stun_0.1.6-r1_riscv64_riscv64.ipk
+Size: 927869
+SHA256sum: acabbcfbb2e4412040b6b9464a050d69e2f1c4a04e6aa37e5bf02f8178442da8
 Description:  go-stun is a STUN (RFC 3489, 5389) client implementation in golang (a.k.a. UDP hole punching).
  RFC 3489: STUN - Simple Traversal of User Datagram Protocol (UDP) Through Network Address Translators (NATs)
  RFC 5389: Session Traversal Utilities for NAT (STUN)
@@ -452,57 +452,57 @@ Description:  Command Line Interface and pure Go API to
  Test Internet Speed using speedtest.net
 
 Package: stuntman-client
-Version: 1.2.17~cc5b875b-r20240806
+Version: 1.2.17~1582042c-r20260906
 Depends: libc, libpthread, libstdcpp6, libopenssl3
 Source: /home/runner/work/packages/packages/packages/openwrt-stuntman
 SourceName: stuntman
 License: Apache-2.0
 LicenseFiles: LICENSE
 Section: net
-SourceDateEpoch: 1772115927
+SourceDateEpoch: 1788783041
 URL: https://github.com/jselbie/stunserver
 Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: riscv64_riscv64
 Installed-Size: 81920
-Filename: stuntman-client_1.2.17~cc5b875b-r20240806_riscv64_riscv64.ipk
-Size: 40543
-SHA256sum: 22f011cbe9cf164278ab2f2251491e1b7fde2c6431b32bc02c9cba346f5484ae
+Filename: stuntman-client_1.2.17~1582042c-r20260906_riscv64_riscv64.ipk
+Size: 40585
+SHA256sum: 88b2911aa11a01964c64c38a09f82a7ddac5355d1b3afc60aad4029e527727a1
 Description:  An open source STUN server and client code by john selbie. Compliant with the latest RFCs including 5389, 5769, and 5780. Also includes backwards compatibility for RFC 3489.
 
 Package: stuntman-server
-Version: 1.2.17~cc5b875b-r20240806
+Version: 1.2.17~1582042c-r20260906
 Depends: libc, libpthread, libstdcpp6, libopenssl3
 Source: /home/runner/work/packages/packages/packages/openwrt-stuntman
 SourceName: stuntman
 License: Apache-2.0
 LicenseFiles: LICENSE
 Section: net
-SourceDateEpoch: 1772115927
+SourceDateEpoch: 1788783041
 URL: https://github.com/jselbie/stunserver
 Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: riscv64_riscv64
 Installed-Size: 174080
-Filename: stuntman-server_1.2.17~cc5b875b-r20240806_riscv64_riscv64.ipk
-Size: 91787
-SHA256sum: 3026f7bcfe1022c0274f909e5d1a35e3576b131b847a707dda05cceb202e80c0
+Filename: stuntman-server_1.2.17~1582042c-r20260906_riscv64_riscv64.ipk
+Size: 91790
+SHA256sum: 69f2cd1668dfe48b8f4877e319a91f63e915225684e6bdb290cd10e52c56a804
 Description:  An open source STUN server and client code by john selbie. Compliant with the latest RFCs including 5389, 5769, and 5780. Also includes backwards compatibility for RFC 3489.
 
 Package: stuntman-testcode
-Version: 1.2.17~cc5b875b-r20240806
+Version: 1.2.17~1582042c-r20260906
 Depends: libc, libpthread, libstdcpp6, libopenssl3
 Source: /home/runner/work/packages/packages/packages/openwrt-stuntman
 SourceName: stuntman
 License: Apache-2.0
 LicenseFiles: LICENSE
 Section: net
-SourceDateEpoch: 1772115927
+SourceDateEpoch: 1788783041
 URL: https://github.com/jselbie/stunserver
 Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: riscv64_riscv64
 Installed-Size: 133120
-Filename: stuntman-testcode_1.2.17~cc5b875b-r20240806_riscv64_riscv64.ipk
-Size: 66573
-SHA256sum: 65e12efea8df5b31b03b831b51023231b93f4061d1dd9f6ecd3d3fad608174d9
+Filename: stuntman-testcode_1.2.17~1582042c-r20260906_riscv64_riscv64.ipk
+Size: 66567
+SHA256sum: 106ba6e8736534ae8b9a3f1576cbadf6e64983d3ed3577f7a6167da60acc5ff9
 Description:  An open source STUN server and client code by john selbie. Compliant with the latest RFCs including 5389, 5769, and 5780. Also includes backwards compatibility for RFC 3489.
 
 Package: uci-alwaysonline

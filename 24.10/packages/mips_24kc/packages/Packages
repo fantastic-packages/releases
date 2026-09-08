@@ -74,30 +74,30 @@ SHA256sum: 77976a176757098572faff36b2b8753b16475e76ad7c00e6a9ee149f5adaaa50
 Description:  Installer for fantastic-packages feeds
 
 Package: fastfetch
-Version: 2.67.1-r1
+Version: 2.68.1-r1
 Depends: libc
 License: MIT
 Section: utils
 URL: https://github.com/fastfetch-cli/fastfetch
 Architecture: mips_24kc
-Installed-Size: 1331200
-Filename: fastfetch_2.67.1-r1_mips_24kc.ipk
-Size: 448900
-SHA256sum: 31cbe6042a48143c43e97398e114deb0d9b163e89545f2b9333f65edeee8275d
+Installed-Size: 1402880
+Filename: fastfetch_2.68.1-r1_mips_24kc.ipk
+Size: 473733
+SHA256sum: c02bbc21270e432b218a664ef25fb8b39e79432787b70f88c2987ae7df3afcfc
 Description:  Fastfetch is a neofetch-like tool for fetching
  system information and displaying it prettily.
 
 Package: go-stun
-Version: 0.1.4~d32c135f-r10
+Version: 0.1.6-r1
 Depends: libc
 License: Apache-2.0
 Section: net
 URL: https://github.com/ccding/go-stun
 Architecture: mips_24kc
-Installed-Size: 2478080
-Filename: go-stun_0.1.4~d32c135f-r10_mips_24kc.ipk
-Size: 909655
-SHA256sum: 17ffcabb31517cb7a36b101dfc2217155bf5f8bc29d2c27a13966cbb8c17e4cc
+Installed-Size: 2549760
+Filename: go-stun_0.1.6-r1_mips_24kc.ipk
+Size: 926868
+SHA256sum: 0b5736e56a04dd775fce471ff6d9a1ec9fa3e6d6fb721f7da3b4b9be4687e18f
 Description:  go-stun is a STUN (RFC 3489, 5389) client implementation in golang (a.k.a. UDP hole punching).
  RFC 3489: STUN - Simple Traversal of User Datagram Protocol (UDP) Through Network Address Translators (NATs)
  RFC 5389: Session Traversal Utilities for NAT (STUN)
@@ -329,42 +329,42 @@ Description:  Command Line Interface and pure Go API to
  Test Internet Speed using speedtest.net
 
 Package: stuntman-client
-Version: 1.2.17~cc5b875b-r20240806
+Version: 1.2.17~1582042c-r20260906
 Depends: libc, libpthread, libstdcpp6, libopenssl3
 License: Apache-2.0
 Section: net
 URL: https://github.com/jselbie/stunserver
 Architecture: mips_24kc
 Installed-Size: 143360
-Filename: stuntman-client_1.2.17~cc5b875b-r20240806_mips_24kc.ipk
-Size: 38782
-SHA256sum: 976ba09342bffc9764c9b1396200c7b0c24ff68a9e8d6bba3c089a68e79c4168
+Filename: stuntman-client_1.2.17~1582042c-r20260906_mips_24kc.ipk
+Size: 38771
+SHA256sum: 15ca2d9f24cbb4910691add1d9863d21aef9a468871d4c647e2e7640374449fa
 Description:  An open source STUN server and client code by john selbie. Compliant with the latest RFCs including 5389, 5769, and 5780. Also includes backwards compatibility for RFC 3489.
 
 Package: stuntman-server
-Version: 1.2.17~cc5b875b-r20240806
+Version: 1.2.17~1582042c-r20260906
 Depends: libc, libpthread, libstdcpp6, libopenssl3
 License: Apache-2.0
 Section: net
 URL: https://github.com/jselbie/stunserver
 Architecture: mips_24kc
 Installed-Size: 266240
-Filename: stuntman-server_1.2.17~cc5b875b-r20240806_mips_24kc.ipk
-Size: 89373
-SHA256sum: 72bef6c0d493f5ad9e5285b412f8034d211f1f30426b2de0348d9cde8fe98fac
+Filename: stuntman-server_1.2.17~1582042c-r20260906_mips_24kc.ipk
+Size: 89349
+SHA256sum: ccebef4de11ebebcd08f3fed278495e9dbcb33885db89dd6c8e8dfb3ac74618e
 Description:  An open source STUN server and client code by john selbie. Compliant with the latest RFCs including 5389, 5769, and 5780. Also includes backwards compatibility for RFC 3489.
 
 Package: stuntman-testcode
-Version: 1.2.17~cc5b875b-r20240806
+Version: 1.2.17~1582042c-r20260906
 Depends: libc, libpthread, libstdcpp6, libopenssl3
 License: Apache-2.0
 Section: net
 URL: https://github.com/jselbie/stunserver
 Architecture: mips_24kc
 Installed-Size: 204800
-Filename: stuntman-testcode_1.2.17~cc5b875b-r20240806_mips_24kc.ipk
-Size: 65591
-SHA256sum: bc51bba042d63cd135c465658c2b5723288fe695ebcc655c134e1f859feed14e
+Filename: stuntman-testcode_1.2.17~1582042c-r20260906_mips_24kc.ipk
+Size: 65578
+SHA256sum: aad86a5b3d0cc956b1edbf051b7c9a27d4f1e3b02a2b10233e3b862abfed79a8
 Description:  An open source STUN server and client code by john selbie. Compliant with the latest RFCs including 5389, 5769, and 5780. Also includes backwards compatibility for RFC 3489.
 
 Package: uci-alwaysonline

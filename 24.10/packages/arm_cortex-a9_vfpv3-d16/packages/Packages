@@ -74,30 +74,30 @@ SHA256sum: 77976a176757098572faff36b2b8753b16475e76ad7c00e6a9ee149f5adaaa50
 Description:  Installer for fantastic-packages feeds
 
 Package: fastfetch
-Version: 2.67.1-r1
+Version: 2.68.1-r1
 Depends: libc
 License: MIT
 Section: utils
 URL: https://github.com/fastfetch-cli/fastfetch
 Architecture: arm_cortex-a9_vfpv3-d16
-Installed-Size: 1228800
-Filename: fastfetch_2.67.1-r1_arm_cortex-a9_vfpv3-d16.ipk
-Size: 446336
-SHA256sum: 7f8cece969a2cfe9e09428e16484ef9fe992d1ad2e99560a5c62a55335f03c0d
+Installed-Size: 1280000
+Filename: fastfetch_2.68.1-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 468877
+SHA256sum: b7b5cf16a6024868e07097e06e9345b9808558b4c79faadd8f511e68c44c091e
 Description:  Fastfetch is a neofetch-like tool for fetching
  system information and displaying it prettily.
 
 Package: go-stun
-Version: 0.1.4~d32c135f-r10
+Version: 0.1.6-r1
 Depends: libc
 License: Apache-2.0
 Section: net
 URL: https://github.com/ccding/go-stun
 Architecture: arm_cortex-a9_vfpv3-d16
-Installed-Size: 2129920
-Filename: go-stun_0.1.4~d32c135f-r10_arm_cortex-a9_vfpv3-d16.ipk
-Size: 918661
-SHA256sum: fdea48c5a064ec070182eff616935ffbc7452510d269ac452d363ca5b31a60de
+Installed-Size: 2170880
+Filename: go-stun_0.1.6-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 936248
+SHA256sum: 5b9dd3c4a25add37bf60ccbba7972d36da6b343263b2cbf2cc75aa74b94187dd
 Description:  go-stun is a STUN (RFC 3489, 5389) client implementation in golang (a.k.a. UDP hole punching).
  RFC 3489: STUN - Simple Traversal of User Datagram Protocol (UDP) Through Network Address Translators (NATs)
  RFC 5389: Session Traversal Utilities for NAT (STUN)
@@ -329,42 +329,42 @@ Description:  Command Line Interface and pure Go API to
  Test Internet Speed using speedtest.net
 
 Package: stuntman-client
-Version: 1.2.17~cc5b875b-r20240806
+Version: 1.2.17~1582042c-r20260906
 Depends: libc, libpthread, libstdcpp6, libopenssl3
 License: Apache-2.0
 Section: net
 URL: https://github.com/jselbie/stunserver
 Architecture: arm_cortex-a9_vfpv3-d16
 Installed-Size: 81920
-Filename: stuntman-client_1.2.17~cc5b875b-r20240806_arm_cortex-a9_vfpv3-d16.ipk
-Size: 33229
-SHA256sum: 79c097278f2401352f6d8231c58f2e00ee5060b4977c86942ae012afb7a58cb5
+Filename: stuntman-client_1.2.17~1582042c-r20260906_arm_cortex-a9_vfpv3-d16.ipk
+Size: 33253
+SHA256sum: 11c76e0930308db8711eaf8b3957d350fa0ac6991cfd7e68980cc66416c5e30c
 Description:  An open source STUN server and client code by john selbie. Compliant with the latest RFCs including 5389, 5769, and 5780. Also includes backwards compatibility for RFC 3489.
 
 Package: stuntman-server
-Version: 1.2.17~cc5b875b-r20240806
+Version: 1.2.17~1582042c-r20260906
 Depends: libc, libpthread, libstdcpp6, libopenssl3
 License: Apache-2.0
 Section: net
 URL: https://github.com/jselbie/stunserver
 Architecture: arm_cortex-a9_vfpv3-d16
 Installed-Size: 184320
-Filename: stuntman-server_1.2.17~cc5b875b-r20240806_arm_cortex-a9_vfpv3-d16.ipk
-Size: 78031
-SHA256sum: 7161f56964d5b398ee5d41d0cfd894d15629de7fd0493f912f6f34aa451b2c4d
+Filename: stuntman-server_1.2.17~1582042c-r20260906_arm_cortex-a9_vfpv3-d16.ipk
+Size: 78047
+SHA256sum: 6024ae83a91cdd6eb7db1b053fc45b6399d8a9ef4efe72e0e59d1ec2a1aa01af
 Description:  An open source STUN server and client code by john selbie. Compliant with the latest RFCs including 5389, 5769, and 5780. Also includes backwards compatibility for RFC 3489.
 
 Package: stuntman-testcode
-Version: 1.2.17~cc5b875b-r20240806
+Version: 1.2.17~1582042c-r20260906
 Depends: libc, libpthread, libstdcpp6, libopenssl3
 License: Apache-2.0
 Section: net
 URL: https://github.com/jselbie/stunserver
 Architecture: arm_cortex-a9_vfpv3-d16
 Installed-Size: 133120
-Filename: stuntman-testcode_1.2.17~cc5b875b-r20240806_arm_cortex-a9_vfpv3-d16.ipk
-Size: 54838
-SHA256sum: bdc0801c81fb06cf43b927f9e7ab036d5623c29d95bd45ae8bcef806a21822e8
+Filename: stuntman-testcode_1.2.17~1582042c-r20260906_arm_cortex-a9_vfpv3-d16.ipk
+Size: 54852
+SHA256sum: 63882eca2d1d5e91e0c379830edf446e1a8f470c84fae0a07af2346c3d07c8d0
 Description:  An open source STUN server and client code by john selbie. Compliant with the latest RFCs including 5389, 5769, and 5780. Also includes backwards compatibility for RFC 3489.
 
 Package: uci-alwaysonline

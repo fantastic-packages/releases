@@ -74,30 +74,30 @@ SHA256sum: 77976a176757098572faff36b2b8753b16475e76ad7c00e6a9ee149f5adaaa50
 Description:  Installer for fantastic-packages feeds
 
 Package: fastfetch
-Version: 2.67.1-r1
+Version: 2.68.1-r1
 Depends: libc
 License: MIT
 Section: utils
 URL: https://github.com/fastfetch-cli/fastfetch
 Architecture: x86_64
-Installed-Size: 1351680
-Filename: fastfetch_2.67.1-r1_x86_64.ipk
-Size: 432423
-SHA256sum: c96000073d90cb2332c7dc291f53146a0a5bf928e28a794ad9a4f08eef21da82
+Installed-Size: 1413120
+Filename: fastfetch_2.68.1-r1_x86_64.ipk
+Size: 454709
+SHA256sum: cfcbb654a0d87cb64d07db74ee79ffce9c81ffdd71d0e8d024b1f76e43ba4339
 Description:  Fastfetch is a neofetch-like tool for fetching
  system information and displaying it prettily.
 
 Package: go-stun
-Version: 0.1.4~d32c135f-r10
+Version: 0.1.6-r1
 Depends: libc
 License: Apache-2.0
 Section: net
 URL: https://github.com/ccding/go-stun
 Architecture: x86_64
-Installed-Size: 2232320
-Filename: go-stun_0.1.4~d32c135f-r10_x86_64.ipk
-Size: 972325
-SHA256sum: 1125a9f76ef3090e620202985599e406813fa2546d00cbf1e771a9287126be79
+Installed-Size: 2283520
+Filename: go-stun_0.1.6-r1_x86_64.ipk
+Size: 991206
+SHA256sum: 6d9cc8694771c69c452f9e7258849ca42dd8d0dd9d075b0a09642a1279fbbd0e
 Description:  go-stun is a STUN (RFC 3489, 5389) client implementation in golang (a.k.a. UDP hole punching).
  RFC 3489: STUN - Simple Traversal of User Datagram Protocol (UDP) Through Network Address Translators (NATs)
  RFC 5389: Session Traversal Utilities for NAT (STUN)
@@ -329,42 +329,42 @@ Description:  Command Line Interface and pure Go API to
  Test Internet Speed using speedtest.net
 
 Package: stuntman-client
-Version: 1.2.17~cc5b875b-r20240806
+Version: 1.2.17~1582042c-r20260906
 Depends: libc, libpthread, libstdcpp6, libopenssl3
 License: Apache-2.0
 Section: net
 URL: https://github.com/jselbie/stunserver
 Architecture: x86_64
 Installed-Size: 102400
-Filename: stuntman-client_1.2.17~cc5b875b-r20240806_x86_64.ipk
-Size: 39594
-SHA256sum: be0693d1e6768d11d39ba071bd88cde7f9274dd0e510e38876b8a8500ae68e7d
+Filename: stuntman-client_1.2.17~1582042c-r20260906_x86_64.ipk
+Size: 39599
+SHA256sum: beac9f585a1b538b1415989bf384bea6107a6eee220a48db09a833ed10f2f9bc
 Description:  An open source STUN server and client code by john selbie. Compliant with the latest RFCs including 5389, 5769, and 5780. Also includes backwards compatibility for RFC 3489.
 
 Package: stuntman-server
-Version: 1.2.17~cc5b875b-r20240806
+Version: 1.2.17~1582042c-r20260906
 Depends: libc, libpthread, libstdcpp6, libopenssl3
 License: Apache-2.0
 Section: net
 URL: https://github.com/jselbie/stunserver
 Architecture: x86_64
 Installed-Size: 225280
-Filename: stuntman-server_1.2.17~cc5b875b-r20240806_x86_64.ipk
-Size: 92292
-SHA256sum: f60acc59ed77b0724a7ecbc57e00124e73b27ecd57a8d243dc1a54ed47d62101
+Filename: stuntman-server_1.2.17~1582042c-r20260906_x86_64.ipk
+Size: 92308
+SHA256sum: e4d1d7d97dd317a7b0dd347b2106281a37a1c85da968cd59b060e01dd11f20df
 Description:  An open source STUN server and client code by john selbie. Compliant with the latest RFCs including 5389, 5769, and 5780. Also includes backwards compatibility for RFC 3489.
 
 Package: stuntman-testcode
-Version: 1.2.17~cc5b875b-r20240806
+Version: 1.2.17~1582042c-r20260906
 Depends: libc, libpthread, libstdcpp6, libopenssl3
 License: Apache-2.0
 Section: net
 URL: https://github.com/jselbie/stunserver
 Architecture: x86_64
 Installed-Size: 163840
-Filename: stuntman-testcode_1.2.17~cc5b875b-r20240806_x86_64.ipk
-Size: 66030
-SHA256sum: 7a417581a8290516e068371083cd1ccc8e511d2dac4ea309a7aef69c5bbd4dc4
+Filename: stuntman-testcode_1.2.17~1582042c-r20260906_x86_64.ipk
+Size: 66041
+SHA256sum: d91e7187082d18ae2789f7efb04da3f152a820bb4f2a4bf5af2225a3a2858b7d
 Description:  An open source STUN server and client code by john selbie. Compliant with the latest RFCs including 5389, 5769, and 5780. Also includes backwards compatibility for RFC 3489.
 
 Package: uci-alwaysonline
