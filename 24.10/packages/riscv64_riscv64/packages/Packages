@@ -32,8 +32,8 @@ Section: base
 Architecture: all
 Installed-Size: 10240
 Filename: distfeeds-mirror-sjtu_20260206-r1_all.ipk
-Size: 1072
-SHA256sum: 02b97236119f09134393f0115733abf6ce5111a9d2ae42d4b31f07579ae84d40
+Size: 1061
+SHA256sum: 740a63ceabb762d0707745be7e0d8a39cb6330202f593b8b9e9e4432013d2327
 Description:  Use Shanghai Jiao Tong University mirror as distfeeds
 
 Package: fakehttp
