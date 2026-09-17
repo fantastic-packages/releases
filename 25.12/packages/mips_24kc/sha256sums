@@ -1,5 +1,5 @@
 a5968614721b6bb398a5df4c858ce430c7358a7714d58fc783a7ece935cf8fd2  *feeds.conf
-7bc727be9666c80a558b5af9a68eb9c5040fd3ce3cbb409d7886cc758b1b278c  *luci/index.json
+abbbb527c535c350c62687bd3edbc9c4fc3995bbae8aa41d3a6d916e77c48b13  *luci/index.json
 53f6f7ca213e7951c9beac377a147911afcf0e06a0816cdc8aa0fcd443e5140d  *luci/luci-app-alwaysonline-26.057.52594~b603f43.apk
 531862f3fef381fff2bfdb06a3960d5d394cafeca74d618f049f5ce93d6d10a0  *luci/luci-app-argon-config-1.0-r20230608.apk
 0b68263fd7219f78a3734d2367d539d437bfe84ea0aff7c9e7d3ec4efa665403  *luci/luci-app-change-mac-0.3.9-r1.apk
@@ -10,8 +10,8 @@ a876d2330cb995c78dd723cf9892c8e1737b9dbad60b8303d45c2f6a7de6e55e  *luci/luci-app
 10d1e3121067c22837592d7d721cdcc42c6e5372f1fdfcf1701d66518d1ee40d  *luci/luci-app-disks-info-0.6.1-r1.apk
 e6e0c730764790a77a291de436a703004f5d7126fa2e72eafd5e2496244ccb67  *luci/luci-app-dnsproxy-26.250.33416~c43835f.apk
 7415d7bd3df356a45084e77d094d60f2ec4238630121949370a355297746c20a  *luci/luci-app-fakehttp-25.193.27915~fee47a1.apk
-be33707d91063a3ec2447ec8ec08a62649d0ce2d97b790fb643fc4b7f812cb22  *luci/luci-app-fchomo-26.259.21196~fc9a4c5.apk
 45b075971a81e4a1f170fc6452537e7150d94a4630a7e2da3c32f9ff2812ee21  *luci/luci-app-fchomo-26.259.56423~80383b9.apk
+e6599b771cfcec67ab8475a66d688b2998cbf613bdb9e439b3e29b1de859e475  *luci/luci-app-fchomo-26.260.22437~6dfb6c1.apk
 0a5f410d102213cc491fc822ec06c1d9fba1180e94d68e38351c1dc7f94b1a9d  *luci/luci-app-interfaces-statistics-0.4.2-r1.apk
 df31d8815c15455e1a83021d077366e33936eb9c414130229c9ff05c65a43398  *luci/luci-app-internet-detector-1.7.4-r1.apk
 af20d254ef2b58043b377e580d18eb799f9e69e997411c1a0ce0787cd458e5c9  *luci/luci-app-ipinfo-2.4-r1.apk
@@ -46,10 +46,10 @@ e39006d371625b78095987c85be12f7d139418684356cb28b19f87b51e46f431  *luci/luci-i18
 43c81fa083dcf95b4a6f0b00eaca977cacfda89b5a77dd49e83489c65fb753ae  *luci/luci-i18n-diskman-zh-tw-26.139.04771~c20df1d.apk
 f116fb2df992aeb79b919b9defb66fc8b5e3ab8ffaadab19f72bcedb097f5073  *luci/luci-i18n-disks-info-ru-26.144.46718~0462fe1.apk
 a49cfab424249257121b8ede0bfbf6728a3bb877447a249e7816265318abec2f  *luci/luci-i18n-disks-info-zh-cn-26.144.46718~0462fe1.apk
-71936adbb81ae248cc762d7ba28c208c4add5874352a4ab1acab9b8cbd7e4cd8  *luci/luci-i18n-fchomo-zh-cn-26.259.21196~fc9a4c5.apk
 e5ed18cbe09d0c1da4e005eb181a2508cc14891ca97a47ecbf9ea3f5c58b8017  *luci/luci-i18n-fchomo-zh-cn-26.259.56423~80383b9.apk
-fe81b0a743c292129e2fae7706f09a5b4eeb51264545d76429c85b5f0da1a5de  *luci/luci-i18n-fchomo-zh-tw-26.259.21196~fc9a4c5.apk
+efaeb4aa228319bfb3eb5d7dc793a869c43bb051a8320515910ff600fa6dbc38  *luci/luci-i18n-fchomo-zh-cn-26.260.22437~6dfb6c1.apk
 4241d96ce4a750bb23fb140757630d3ad24c4dccd75ad56f7347f5006399f423  *luci/luci-i18n-fchomo-zh-tw-26.259.56423~80383b9.apk
+003afc005289388873de3638b8e3db12dca2857fbd33f9e5e54f14f56d294aa7  *luci/luci-i18n-fchomo-zh-tw-26.260.22437~6dfb6c1.apk
 7649bf082a340e32e33171234c23f80d1e3b9f86ac65726cf1039b26258e8060  *luci/luci-i18n-interfaces-statistics-ru-26.037.56129~a53851f.apk
 cd4f561071171f1acdb7b4dda07d310bee08f5a919d3fd3b64019ad412b2ef2a  *luci/luci-i18n-interfaces-statistics-zh-cn-26.037.56129~a53851f.apk
 ce5cd1f2d99ec3f2665eb7b5c24b93c4190192d5468d54bf1555412ab0cae257  *luci/luci-i18n-internet-detector-ru-26.234.50850~a4ac581.apk
@@ -89,8 +89,8 @@ b07f44d959fc46920eefeed56d61d5c8047bbeb7a745ecf83d60ae31e1923a1d  *luci/luci-i18
 f3cb50473c6c7b35a657c7245160d537c3a2e92559580830a0f79b55c48c61d0  *luci/luci-i18n-tn-netports-zh-cn-25.017.50507~bd60543.apk
 d471215a2ed7edf750b8159ee3385d65ebe485e6088df51c3cb1a06daa497e1f  *luci/luci-i18n-tn-netports-zh-tw-25.017.50507~bd60543.apk
 3a250c69010999dfc8069339878730c914d0bd4b3fcf588e66d429632bdfd1bb  *luci/luci-theme-argon-24.354.21394~1a22c2e.apk
-828027c78d9f42708dff48f0cea2f5eac80b42083d3a0e4654ca4861c512edf7  *luci/packages.adb
-e5214653b39edc1980db26a7535c26ba3166e69b4164ad62a71ec069b7ad2d62  *luci/packages.adb.asc
+721f5a2439f473d396d3f143515dc247c0b03a1d725cfdc10d0701e3006715a1  *luci/packages.adb
+903c864ffe1a2fbe82dfbf573e01aa495266ba1c39647c1c5477c5b10b2d737a  *luci/packages.adb.asc
 72a7937b298f1eb1cde9ab77d9e2ba9c20abc5dd803aed362afa9e28db5fd523  *packages/Toolkit-0.4.0.2~631954ea-r2.apk
 23fa4826f1b3fd4e068588eacbdd706efac031461a81c5776660d782abf454b7  *packages/alwaysonline-1.2.1~206292ca-r1.apk
 b94adc3fbcfbf7e95782aa28d8c03db97b4a24593c4eeb96717e68f7160bb5a2  *packages/distfeeds-mirror-sjtu-20260206-r1.apk
@@ -105,7 +105,7 @@ cc062318cfe86cb1160f0ed0d164e4c715f825e55844ec1524d9f9ea9d068798  *packages/inde
 f8bc3c811482df76da9710d2cf77d1b79911f876b3f9255a44bcc7150be4946d  *packages/internet-detector-mod-modem-restart-1.7.4-r1.apk
 7e1859a2cff0860c6965c69b7def6aa3b40659f8bb7b49ed8258ba345ed974d9  *packages/internet-detector-mod-telegram-1.7.4-r1.apk
 425daccd570fd67dd0352cb03c8a5bdb44b00f5879c2f848910bbc0dfdac705e  *packages/iusebash-0.2026.06.15-r1.apk
-3eed7c50bca57456c2872cf4d3e3ada45e5e74ac8981110c81d9b0fcea0397b9  *packages/mihomo-1.19.31-r1.apk
+d8e6849da85fc4aa04e940ae71b18cbaaf540ad188c3b704daa4939dd006c2f4  *packages/mihomo-1.19.31-r1.apk
 45f8f422f8c01473e01315975533fa04e97d15a2154be8916678d7d75df3face  *packages/natmapt-20260214-r3.apk
 fb015fb38e259ebaf30d65a1d8b3a6b3039179f053f5fccc47914eb12d0f7198  *packages/natmapt-client-script-deluge-0.2026.01.24.apk
 880ee1b4a32b9807b3c001546ddb4d2277c2ed0781ec036077c5313e849811cd  *packages/natmapt-client-script-transmission-0.2026.01.24.apk
@@ -113,8 +113,8 @@ fb015fb38e259ebaf30d65a1d8b3a6b3039179f053f5fccc47914eb12d0f7198  *packages/natm
 76dc901d37dc0f2157d53e86890be6fbffbb96ff8b3f647b1464f95ee1b39a01  *packages/natmapt-notify-script-pushover-0.2026.01.24.apk
 632061466ad9e87decf6d0b4f6a1533094ee6887fb2a6c9577a0e02b9814ecfe  *packages/natmapt-notify-script-telegram-0.2026.01.24.apk
 f2e71d741083d32ddf460f1ea5c4f1b94bc7a314c24bad67c3fa8e64ee62906f  *packages/netdata-ssl-1.33.1-r4.apk
-37cf3576fee11eeffb45932ba758b6c1c15a094d4648bce7e4737dc8ef227f18  *packages/packages.adb
-b9d1c306ebbf5353e1f7463242225005c4b499391e5ccb4dd31768625beeb939  *packages/packages.adb.asc
+584814415f8361ea13445fb26d5cd41f35ece750265b5693d7b0544bbdbc7b6c  *packages/packages.adb
+d6dad8e4e2773875cf776766da4c06f56d17ae96cde82dc89c67bd8697d0886f  *packages/packages.adb.asc
 c1c94dbe9d350604fc521f1f89e73a15d1af8e38e25921448c68a39720a68b47  *packages/pcap-dnsproxy-0.4.9.13~70a40bb3-r1.apk
 3a88aabf6a2ba260ffec2486ff25ec183c3d4e34d157a25b1ff3f653984820e9  *packages/php-nginx-0.2023.04.26-r1.apk
 9eed351d02cea72b4412c218dccafbb0c1e47e133744047196903132e3a94cd7  *packages/plain-nginx-20231028.apk
@@ -191,8 +191,8 @@ a13229fd5132fac45858e4e0ad1041885f08e85bdda85e4ad38ec133d6e12bf8  *special/luci-
 2e930f1ccd13e951afd6ab4178ce5fa88eafdf041cd9effa2fa63aaf23facc39  *special/luci-i18n-shadowsocks-rust-vi-25.017.46383~e8909b2.apk
 3f721218b3a7e90bf27398d9905af35a70e9e7c44b6f6888f56d1f45f6bc2cb2  *special/luci-i18n-shadowsocks-rust-zh-cn-25.017.46383~e8909b2.apk
 8e60c6360e0bbd6ea63cfb864c36df7ae07faed589568caf0f95b91d89b3f2a4  *special/luci-i18n-shadowsocks-rust-zh-tw-25.017.46383~e8909b2.apk
-bee3a4478a758cff6d8ac4d502f1d2057c725486c56069aa267199ecbabe38f0  *special/packages.adb
-cbcf11b29806d8f7b41ea6aba1f84f6a939cb776fedd6deb8928e7494ca5eb20  *special/packages.adb.asc
+b6d3a1c6ec1e085794559e533e2da66ee9deae44dcdf5917fc1aecab822204be  *special/packages.adb
+318cb470f5a5dc53fedf8c8a863bac1d3827d6464478334989d4dd782f734cf5  *special/packages.adb.asc
 577e93ea09cdbc4dcdf39fb795e0f149b0e0bbe964685d116b774b991ebcf91f  *special/qbittorrent-5.1.4-r1.apk
 584f7f30e7ce473a4f59c0830a4a3084af06e69dfa1ab8979f430dac06d920c1  *special/qt6-plugin-libqcertonlybackend-6.10.1-r1.apk
 d4ccb0bbda9d13622a0fc90ea7f7af9c59bf12ec4fbc1123808f73b5bacfeb08  *special/qt6-plugin-libqminimal-6.10.1-r1.apk
