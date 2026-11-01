@@ -1,4 +1,4 @@
-3b92bc6315279b699dc599b8e4177586ec044eea33d76882580e138cd155a8da  *feeds.conf
+a5968614721b6bb398a5df4c858ce430c7358a7714d58fc783a7ece935cf8fd2  *feeds.conf
 14b116a7eda4308b0b1f01c50c91d2c0a2c9126ac4a1501de15f8a330db710fa  *luci/index.json
 1ed7e9ccbc37a9d6d51a85cd299eeadc1706bdeab4782d3abdb7e27a439690e7  *luci/luci-app-alwaysonline-26.057.52594~b603f43.apk
 b7bd4d5740015cadfbeea6f6c3d78cbb5ca0144350b194c3cf8dfc1d1e802458  *luci/luci-app-argon-config-1.0-r20230608.apk
@@ -87,15 +87,15 @@ bed1205f384e77edf390418b563573d0aa3df5abaa0bc89857752fc56a00e8ed  *luci/luci-i18
 f7b6ca6c21d4b51f6c655d86f1beae1e5bb0dfda9bc47ed5cc3c971f8441ae15  *luci/luci-i18n-tn-netports-zh-cn-25.017.50507~bd60543.apk
 5cf3b14f0b5eac955cd6690edde633d5b1801335c7bf1cb01703d28cde6a88dc  *luci/luci-i18n-tn-netports-zh-tw-25.017.50507~bd60543.apk
 9a793750f07161bede0e2527c4ab608d0963a73a58b7729f5a6dc70f3bcb8eec  *luci/luci-theme-argon-24.354.21394~1a22c2e.apk
-0c94735509117892a04d2efbe2a7f08e100aa6301c0d659e635f8726d9c9864f  *luci/packages.adb
-2548521d2876405191380b465e48a3897a2e786f849df85122e4876d375bd538  *luci/packages.adb.asc
+665ed4641f224418bd016be87bbae8066d651b7fa54438387ba5c9f6ebc86605  *luci/packages.adb
+c0167d686b0d986150fb4792b85797f28adef8fe403e11a7bc6d451176ce6cdf  *luci/packages.adb.asc
 128009121448121b0c20a0bb32d86dd9c7d2f553eff8e06e0ca158d1e0224cc7  *packages/Toolkit-0.4.0.2~631954ea-r2.apk
 c8b3e4fd7f8de71a9ede39b3480b187e16af452d7b71c6e926b42615f3aa4d5d  *packages/alwaysonline-1.2.1~206292ca-r1.apk
 b94adc3fbcfbf7e95782aa28d8c03db97b4a24593c4eeb96717e68f7160bb5a2  *packages/distfeeds-mirror-sjtu-20260206-r1.apk
 140881bd6c230fba74121b973734393dfd2fa93a82a116ebd40633eb77020986  *packages/fakehttp-0.9.18-r3.apk
 8c898d2e41ad627a1584e0492e57368be78f7d13c012e0b0503f5b34557905d6  *packages/fantastic-keyring-20241123-r1.apk
 887487798813309f447adae0bb3cf8554b1b0527d04c827c2bdc60b4218164a4  *packages/fantastic-packages-feeds-20251229-r1.apk
-8c8810f7356f71b95ee60d37614461296361b697d9d1d6551007516eb5259bd2  *packages/fastfetch-2.70.0-r1.apk
+854b3a3c31d69c2935ac8206680d246c31b14bdfbcb20ed226b9919f916ea5e6  *packages/fastfetch-2.70.0-r1.apk
 58c4c38382b79457b27a8b0800cc7029f0d695b89a3a0c6fe41c08f164b1a14f  *packages/go-stun-0.1.6-r1.apk
 2b6d8bcc6985cfc1da3c4b5b242f32cbaacf9815ef4803539271e00d4ba86281  *packages/index.json
 d9381f722c62235acd9d0f32e95591da33d51620c9acc602998284cedf9e89a8  *packages/internet-detector-1.7.4-r2.apk
@@ -111,8 +111,8 @@ fb015fb38e259ebaf30d65a1d8b3a6b3039179f053f5fccc47914eb12d0f7198  *packages/natm
 76dc901d37dc0f2157d53e86890be6fbffbb96ff8b3f647b1464f95ee1b39a01  *packages/natmapt-notify-script-pushover-0.2026.01.24.apk
 632061466ad9e87decf6d0b4f6a1533094ee6887fb2a6c9577a0e02b9814ecfe  *packages/natmapt-notify-script-telegram-0.2026.01.24.apk
 9e5a8dbc50ef8a202e089374c564c6b3705840f8b6ea5457666d3ffcf423bfb0  *packages/netdata-ssl-1.33.1-r4.apk
-732479df725257311f7e1f51a146a65cb508e140460fae6416f1250e55ab578f  *packages/packages.adb
-e1b8fdfd1d1794e221ce638fa001731f64fd5222e15a0f9adddf02bb1655f4bd  *packages/packages.adb.asc
+d0ae67c37c920b1fe803fcbef9165644c2f0296c49c6efdfe4830221cf73f4c4  *packages/packages.adb
+9ccfa254323775247d9ae1451906848d9dc5dccbadd72748fdc2b501b5ac9f3d  *packages/packages.adb.asc
 c89588ad6fef6d6fa9df74dd461b36178b9bf47269f713b1cf72dba8d3778f56  *packages/pcap-dnsproxy-0.4.9.13~70a40bb3-r1.apk
 9c22303b95c222a23a7b708d57e5b99efce56456a98bbeeeee342e96c82b4fa3  *packages/php-nginx-0.2023.04.26-r1.apk
 86241768a77d63b6d71fcf9e2e6880586cbfefde87e18d4b52c5202a9ab99582  *packages/plain-nginx-20231028.apk
@@ -193,8 +193,8 @@ ea63916b737c3f7d142f51a6dd28fce46926d9f1c7174f92d8f9928fd8c4b3a6  *special/luci-
 b66f6ff0dd170e3fd6564a0f24fcf57c114e477bc6d444d74b23f63be743fa6c  *special/luci-i18n-shadowsocks-rust-vi-25.017.46383~e8909b2.apk
 89701f01935efb7a688d0b73daa17ffab16de5729a04aba0d19784f5029e9c4e  *special/luci-i18n-shadowsocks-rust-zh-cn-25.017.46383~e8909b2.apk
 76c9446a6b04640c879e5bcd37d326e4424bde8558d51edfbb8b6b1a9ac8b345  *special/luci-i18n-shadowsocks-rust-zh-tw-25.017.46383~e8909b2.apk
-f183a05ea7b59efe38d55a48690338109b736aa21d7d8a372b54612bb1daeefc  *special/packages.adb
-6be23a1d97aff7d12664845b87140edcde491d14aa66e2595503a7eca4439a44  *special/packages.adb.asc
+781afa4d6665c9985c280f964dda0b77ba0fb112e93e0ca04cb67e6cc430decd  *special/packages.adb
+f6a18ca93f02eacac325814bb8d52438ae92a27c48619e10a37a8e52d365928e  *special/packages.adb.asc
 e488c8e46cb2cf13a527846a982b74614ef1aa6acf68f23662fde35c7dd4220c  *special/qbittorrent-5.1.4-r1.apk
 90eafda8a52b26b2a3f0bf7569a4eb7bb94c7c34f84a3513405ab9e5bc1ba138  *special/qt6-plugin-libqcertonlybackend-6.10.1-r1.apk
 995333461f590b5f8d342703952b0f7f2f25d92f308111675a47a95440a55915  *special/qt6-plugin-libqminimal-6.10.1-r1.apk
