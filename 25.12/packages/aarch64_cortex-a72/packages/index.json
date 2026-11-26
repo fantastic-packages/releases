@@ -4,7 +4,6 @@
   "packages": {
     "Toolkit": "0.4.0.2~631954ea-r2",
     "alwaysonline": "1.2.1~206292ca-r1",
-    "clash-speedtest": "1.8.8-r1",
     "distfeeds-mirror-sjtu": "20260206-r1",
     "fakehttp": "0.9.18-r3",
     "fantastic-keyring": "20241123-r1",
